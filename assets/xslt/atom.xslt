@@ -10,11 +10,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Atom Feed (Styled)</title>
 
-    <link rel="stylesheet" type="text/css" href="/assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="http://localhost:4000/assets/css/styles_feeling_responsive.css">
 
   
 
-	<script src="/assets/js/modernizr.min.js"></script>
+	<script src="http://localhost:4000/assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -38,13 +38,13 @@
 	<link rel="author" href="https://plus.google.com/u/0/118311555303973066167">
 	
 	
-	<link rel="canonical" href="/assets/xslt/atom.xslt">
+	<link rel="canonical" href="http://localhost:4000/assets/xslt/atom.xslt">
 
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="Atom Feed (Styled)">
 	<meta property="og:description" content="Không việc có gì khó, chỉ sợ bụng không no">
-	<meta property="og:url" content="/assets/xslt/atom.xslt">
+	<meta property="og:url" content="http://localhost:4000/assets/xslt/atom.xslt">
 	<meta property="og:locale" content="vi-VN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Hearthstone Việt Nam">
@@ -54,34 +54,34 @@
 
 	
 
-	<link type="text/plain" rel="author" href="/humans.txt">
+	<link type="text/plain" rel="author" href="http://localhost:4000/humans.txt">
 
 	
 
 	
 
-	<link rel="icon" sizes="32x32" href="/assets/img/favicon-32x32.png">
+	<link rel="icon" sizes="32x32" href="http://localhost:4000/assets/img/favicon-32x32.png">
 
-	<link rel="icon" sizes="192x192" href="/assets/img/touch-icon-192x192.png">
+	<link rel="icon" sizes="192x192" href="http://localhost:4000/assets/img/touch-icon-192x192.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/assets/img/apple-touch-icon-180x180-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/assets/img/apple-touch-icon-180x180-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/assets/img/apple-touch-icon-152x152-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/assets/img/apple-touch-icon-152x152-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/img/apple-touch-icon-144x144-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/assets/img/apple-touch-icon-144x144-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/assets/img/apple-touch-icon-120x120-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/assets/img/apple-touch-icon-120x120-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/img/apple-touch-icon-114x114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/assets/img/apple-touch-icon-114x114-precomposed.png">
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/assets/img/apple-touch-icon-76x76-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000/assets/img/apple-touch-icon-76x76-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/img/apple-touch-icon-72x72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/assets/img/apple-touch-icon-72x72-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" href="/assets/img/apple-touch-icon-precomposed.png">	
+	<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/assets/img/apple-touch-icon-precomposed.png">	
 
-	<meta name="msapplication-TileImage" content="/assets/img/msapplication_tileimage.png">
+	<meta name="msapplication-TileImage" content="http://localhost:4000/assets/img/msapplication_tileimage.png">
 
 	<meta name="msapplication-TileColor" content="#fabb00">
 
@@ -97,7 +97,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="" class="icon-tree"> Hearthstone Việt Nam</a></h1>
+      <h1 class="show-for-small-only"><a href="http://localhost:4000" class="icon-tree"> Hearthstone Việt Nam</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>
@@ -144,7 +144,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="/search/">Tìm kiếm</a></li>
+              <li><a  href="http://localhost:4000/search/">Tìm kiếm</a></li>
 
             
             
@@ -158,7 +158,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="/contact/">Liên hệ</a></li>
+              <li><a  href="http://localhost:4000/contact/">Liên hệ</a></li>
 
             
             
@@ -177,7 +177,7 @@
 
             
             
-              <li><a  href="/">Home</a></li>
+              <li><a  href="http://localhost:4000/">Home</a></li>
               <li class="divider"></li>
 
             
@@ -192,7 +192,7 @@
 
             
             
-              <li><a  href="/">Decks</a></li>
+              <li><a  href="http://localhost:4000/">Decks</a></li>
               <li class="divider"></li>
 
             
@@ -207,7 +207,7 @@
 
             
             
-              <li><a  href="/">Cards</a></li>
+              <li><a  href="http://localhost:4000/">Cards</a></li>
               <li class="divider"></li>
 
             
@@ -222,7 +222,7 @@
 
             
             
-              <li><a  href="/">Top Decks</a></li>
+              <li><a  href="http://localhost:4000/">Top Decks</a></li>
               <li class="divider"></li>
 
             
@@ -237,7 +237,7 @@
 
             
             
-              <li><a  href="/tut/">Hướng dẫn chơi</a></li>
+              <li><a  href="http://localhost:4000/tut/">Hướng dẫn chơi</a></li>
               <li class="divider"></li>
 
             
@@ -267,8 +267,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="/" title="Hearthstone Việt Nam – Hearthstone cho người Việt">
-				<img src="/assets/img/Hearthstone_logo.png" alt="Hearthstone Việt Nam – Hearthstone cho người Việt">
+			<a id="logo" href="http://localhost:4000/" title="Hearthstone Việt Nam – Hearthstone cho người Việt">
+				<img src="http://localhost:4000/assets/img/Hearthstone_logo.png" alt="Hearthstone Việt Nam – Hearthstone cho người Việt">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -346,7 +346,7 @@
 
             <p class="shadow-black">
               Không việc có gì khó, chỉ sợ bụng không no
-              <a href="/info/">More ›</a>
+              <a href="http://localhost:4000/info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -366,17 +366,17 @@
               
                 
                   <li >
-                    <a href=""  title=""></a>
+                    <a href="http://localhost:4000"  title=""></a>
                   </li>
               
                 
                   <li >
-                    <a href="/contact/"  title="Liên hệ">Liên hệ</a>
+                    <a href="http://localhost:4000/contact/"  title="Liên hệ">Liên hệ</a>
                   </li>
               
                 
                   <li >
-                    <a href="/"  title="Bạn cần người hướng dẫn?">Hướng dẫn chơi</a>
+                    <a href="http://localhost:4000/"  title="Bạn cần người hướng dẫn?">Hướng dẫn chơi</a>
                   </li>
               
               </ul>
@@ -402,7 +402,7 @@
             
               
                 <li >
-                  <a href=""  title=""></a>
+                  <a href="http://localhost:4000"  title=""></a>
                 </li>
             
               
@@ -450,7 +450,7 @@
 		
 
 
-<script src="/assets/js/javascript.min.js"></script>
+<script src="http://localhost:4000/assets/js/javascript.min.js"></script>
 
 
 
