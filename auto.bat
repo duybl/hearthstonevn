@@ -1,5 +1,3 @@
-jekyll build
-pause
 cd _site
 pause
 git add .
