@@ -208,7 +208,7 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000/">Decks</a>
+                <a  href="http://localhost:4000">Decks</a>
 
                   <ul class="dropdown">
                     
@@ -274,7 +274,7 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000/">Card</a>
+                <a  href="http://localhost:4000">Card</a>
 
                   <ul class="dropdown">
                     
@@ -340,7 +340,7 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000/set/">Card Set</a>
+                <a  href="http://localhost:4000">Card Set</a>
 
                   <ul class="dropdown">
                     
@@ -364,7 +364,7 @@
 
             
             
-              <li><a  href="http://localhost:4000/test/">test page</a></li>
+              <li><a  href="http://localhost:4000/">test page</a></li>
               <li class="divider"></li>
 
             
