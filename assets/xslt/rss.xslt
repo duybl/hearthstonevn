@@ -154,12 +154,6 @@
 
           
           
-        
-
-              
-
-          
-          
             
             
               <li class="divider"></li>
@@ -279,72 +273,6 @@
             
 
               <li class="has-dropdown">
-                <a  href="https://duybl.github.io/hearthstonevn/">Card</a>
-
-                  <ul class="dropdown">
-                    
-
-                      
-
-                      <li><a  href="https://duybl.github.io/hearthstonevn//Cards/Druid/">Druid</a></li>
-                    
-
-                      
-
-                      <li><a  href="https://duybl.github.io/hearthstonevn//Cards/Hunter/">Hunter</a></li>
-                    
-
-                      
-
-                      <li><a  href="https://duybl.github.io/hearthstonevn//Cards/Mage/">Mage</a></li>
-                    
-
-                      
-
-                      <li><a  href="https://duybl.github.io/hearthstonevn//Cards/Paladin">Paladin</a></li>
-                    
-
-                      
-
-                      <li><a  href="https://duybl.github.io/hearthstonevn//Cards/Priest/">Priest</a></li>
-                    
-
-                      
-
-                      <li><a  href="https://duybl.github.io/hearthstonevn//Cards/Rogue">Rogue</a></li>
-                    
-
-                      
-
-                      <li><a  href="https://duybl.github.io/hearthstonevn//Cards/Shaman">Shaman</a></li>
-                    
-
-                      
-
-                      <li><a  href="https://duybl.github.io/hearthstonevn//Cards/Warlock">Warlock</a></li>
-                    
-
-                      
-
-                      <li><a  href="https://duybl.github.io/hearthstonevn//Cards/Warrior">Warrior</a></li>
-                    
-                  </ul>
-
-              </li>
-              <li class="divider"></li>
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-
-              <li class="has-dropdown">
                 <a  href="https://duybl.github.io/hearthstonevn/">Card Set</a>
 
                   <ul class="dropdown">
@@ -352,12 +280,77 @@
 
                       
 
-                      <li><a  href="https://duybl.github.io/hearthstonevn//set/boomsdaypro/">The Boomsday Project</a></li>
+                      <li><a  href="https://duybl.github.io/hearthstonevn//set/classic/">Standard - Classic</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://duybl.github.io/hearthstonevn//set/basic/">Standard - Basic</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://duybl.github.io/hearthstonevn//set/boomsday/">Standard - The Boomsday Project</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://duybl.github.io/hearthstonevn//set/witchwood/">Standard - The Witchwood</a></li>
                     
 
                       
 
                       <li><a  href="https://duybl.github.io/hearthstonevn//set/halloffame/">Hall of Fame</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://duybl.github.io/hearthstonevn//set/blackrock/">Blackrock Mountain</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://duybl.github.io/hearthstonevn//set/frozenthrone/">Knights of the Frozen Throne</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://duybl.github.io/hearthstonevn//set/gvg/">Goblins vs Gnomes</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://duybl.github.io/hearthstonevn//set/grandtournament/">The Grand Tournament</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://duybl.github.io/hearthstonevn//set/journeyungoro/">Journey to Un&#39;Goro</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://duybl.github.io/hearthstonevn//set/kandc/">Kobolds and Catacombs</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://duybl.github.io/hearthstonevn//set/leagueexplorers/">League of Explorers</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://duybl.github.io/hearthstonevn//set/meanstreet/">Mean Streets of Gadgetzan</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://duybl.github.io/hearthstonevn//set/nightkarazhan/">One night in Karazhan</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://duybl.github.io/hearthstonevn//set/whispergod/">Whispers of the Old Gods</a></li>
                     
                   </ul>
 
