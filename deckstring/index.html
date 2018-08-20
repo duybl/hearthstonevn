@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Video Template</title>
+	<title>Xem chi tiết deck dựa trên mã deck!</title>
 
     <link rel="stylesheet" type="text/css" href="https://duybl.github.io/hearthstonevn//assets/css/styles_feeling_responsive.css">
 
@@ -27,20 +27,20 @@
 
 
 	<!-- Search Engine Optimization -->
-	<meta name="description" content="If you want to show videos in a large manner, the video template is the right choice.">
+	<meta name="description" content="Không việc có gì khó, chỉ sợ bụng không no">
 	<meta name="google-site-verification" content="Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ">
 	<meta name="msvalidate.01" content="0FB4C028ABCF07C908C54386ABD2D97F" >
 	
 	<link rel="author" href="https://plus.google.com/u/0/118311555303973066167">
 	
 	
-	<link rel="canonical" href="https://duybl.github.io/hearthstonevn//design/video/">
+	<link rel="canonical" href="https://duybl.github.io/hearthstonevn//deckstring/">
 
 
 	<!-- Facebook Open Graph -->
-	<meta property="og:title" content="Video Template">
-	<meta property="og:description" content="If you want to show videos in a large manner, the video template is the right choice.">
-	<meta property="og:url" content="https://duybl.github.io/hearthstonevn//design/video/">
+	<meta property="og:title" content="Xem chi tiết deck dựa trên mã deck!">
+	<meta property="og:description" content="Không việc có gì khó, chỉ sợ bụng không no">
+	<meta property="og:url" content="https://duybl.github.io/hearthstonevn//deckstring/">
 	<meta property="og:locale" content="vi-VN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Hearthstone Việt Nam">
@@ -85,7 +85,7 @@
 	
 
 </head>
-<body id="top-of-page" class="video">
+<body id="top-of-page" class="post">
 	
 	
 <div id="navigation" class="sticky">
@@ -368,7 +368,7 @@
 
             
             
-              <li><a  href="https://duybl.github.io/hearthstonevn//deckstring/">Mã Deck</a></li>
+              <li class="active"><a  href="https://duybl.github.io/hearthstonevn//deckstring/">Mã Deck</a></li>
               <li class="divider"></li>
 
             
@@ -442,7 +442,7 @@
 
 	
 
-<div id="masthead-no-image-header">
+<div id="masthead">
 	<div class="row">
 		<div class="small-12 columns">
 			<a id="logo" href="https://duybl.github.io/hearthstonevn//" title="Hearthstone Việt Nam – Hearthstone cho người Việt">
@@ -460,46 +460,80 @@
 
 
 
-	<div class="row">
-	<div class="small-12 columns">
-		<article itemprop="video" itemscope itemtype="http://schema.org/VideoObject">
-			<div class="flex-video">
-				<iframe width='970' height='546' src='//www.youtube.com/embed/WoHxoz_0ykI' frameborder='0' allowfullscreen></iframe>
+
+
+	<div class="row t30">
+	<div class="medium-8 columns medium-offset-2 end">
+		<article itemscope itemtype="http://schema.org/Article">
+			<header>
+				
+
+				<div itemprop="name">
+					<p class="subheadline">Cắt/dán mã deck (deckstring) của bạn vào đây để xem chi tiết deck.</p>
+					<h1>Xem chi tiết deck dựa trên mã deck!</h1>
+				</div>
+			</header>
+
+
+			
+
+			<div itemprop="articleSection">
+			<style>
+  li>img {
+    position: absolute;
+    left: 200px;
+    display: none;
+  }
+  li:hover>img {
+    display: block;
+  }
+</style>
+
+<p>Ví dụ: AAEBAf0EBMkD7QW4CJKsAg37AbsClQOrBLQE5gSWBbkGvAjjEboWgbICmMQCAA==</p>
+
+<script type="text/javascript">
+	var decoder = deckDecoder();
+	var showDeck = function() {
+		var encoded = document.getElementById('deckString').value;
+		decoder.decode(encoded).then((deck) => {
+			document.getElementById("type").innerText = deck.type + ' Deck';
+			document.getElementById("hero").innerText = deck.hero.name + ' (' + deck.heroClass + ')';
+			var list = document.getElementById("cards");
+			list.innerHTML = "";
+			for (var i = 0; i < deck.cards.length; i++) {
+	    var card = deck.cards[i].card;
+				var row = document.createElement("li");
+				var image = document.createElement("img");
+				image.setAttribute("src", "http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/" + card.id+ "_premium.gif");
+				row.appendChild(image);
+				row.appendChild(document.createTextNode(deck.cards[i].count + "x - "+ card.name));
+				list.appendChild(row);
+			}
+		});
+	};
+</script>
+
+<div>
+<input id="deckString" type="text" size="50" /><button onclick="showDeck()" type="submit">Xem</button>
+<br /><br />
+		<div id="type"></div>
+		<div id="hero"></div>
+    <ul id="cards"></ul>
+</div>
+
 			</div>
 
-			<div class="row">
-				<div class="medium-offset-2 medium-8 end columns">
-					<header>
-						<p class="subheadline t30">Templates</p>
-						<h1 itemprop="name">Video Template</h1>
-					</header>
+			
 
-					<meta itemprop="thumbnailUrl" content="http://img.youtube.com/vi/WoHxoz_0ykI/maxresdefault.jpg" />
-					<meta itemprop="contentURL" content="https://www.youtube.com/watch?v=WoHxoz_0ykI" />
-					<meta itemprop="embedURL" content="https://www.youtube.com/embed/WoHxoz_0ykI" />
-
-					
-					<p class="teaser" itemprop="description">
-						If you want to show videos in a large manner, the video template is the right choice.
-					</p>
-					
-
-					<!--more-->
-
-<h2 id="about-the-video-by-kutiman">About the video by Kutiman</h2>
-
-<blockquote>
-  <p>Ophir Kutiel, professionally known as Kutiman, is an Israeli musician, composer, producer and animator. He is best known for creating the online music video project, ThruYOU, and a self-titled album. <cite><a href="http://en.wikipedia.org/wiki/Kutiman">Wikipedia</a></cite></p>
-</blockquote>
-
-<p>Source: <a href="https://www.youtube.com/watch?v=WoHxoz_0ykI">Kutiman – Thru You Too – »Give It Up«</a></p>
-
-					
-				</div><!-- /.medium-8.columns -->
-			</div><!-- /.row -->
+			
 		</article>
+	</div><!-- /.medium-8.columns -->
 
-	</div><!-- /.small-12.columns -->
+
+	
+
+
+	
 </div><!-- /.row -->
 
 
@@ -628,6 +662,11 @@
 <script src="https://duybl.github.io/hearthstonevn//assets/js/javascript.min.js"></script>
 
 
+
+<script>
+    $("#masthead").backstretch("https://phlow.github.io/feeling-responsive/images/header_unsplash_5.jpg", {fade: 700});
+    $("#masthead-with-text").backstretch("https://phlow.github.io/feeling-responsive/images/header_unsplash_5.jpg", {fade: 700});
+</script>
 
 
 
