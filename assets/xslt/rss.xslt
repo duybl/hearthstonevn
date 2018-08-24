@@ -16,6 +16,10 @@
 
 	<script src="https://duybl.github.io/hearthstonevn//assets/js/modernizr.min.js"></script>
 	<script type="text/javascript" src="https://duybl.github.io/hearthstonevn//assets/js/deck.js"></script>
+	<script type="text/javascript" src="https://duybl.github.io/hearthstonevn//assets/js/decode.js"></script>
+		<!-- <script type="text/javascript" src="https://duybl.github.io/hearthstonevn//assets/js/decode-bk.js"></script> -->
+	<script type="text/javascript" src="https://duybl.github.io/hearthstonevn//assets/js/copydeck.js"></script>
+	<!-- <script type="text/javascript" src="https://duybl.github.io/hearthstonevn//assets/js/copydeck-bk.js"></script> -->
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -382,7 +386,7 @@
 
             
             
-              <li><a  href="https://duybl.github.io/hearthstonevn//">test page</a></li>
+              <li><a  href="https://duybl.github.io/hearthstonevn//test/">test page</a></li>
               <li class="divider"></li>
 
             
