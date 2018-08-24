@@ -10,7 +10,7 @@
   
 
 	<script src="https://duybl.github.io/hearthstonevn//assets/js/modernizr.min.js"></script>
-	<script type="text/javascript" src="https://duybl.github.io/hearthstonevn//assets/js/deck.js"></script>
+	<!-- <script type="text/javascript" src="https://duybl.github.io/hearthstonevn//assets/js/deck.js"></script> -->
 	<script type="text/javascript" src="https://duybl.github.io/hearthstonevn//assets/js/decode.js"></script>
 		<!-- <script type="text/javascript" src="https://duybl.github.io/hearthstonevn//assets/js/decode-bk.js"></script> -->
 	<!-- <script type="text/javascript" src="https://duybl.github.io/hearthstonevn//assets/js/copydeck.js"></script> -->
@@ -478,7 +478,15 @@
 			<p>Ví dụ: AAEBAf0EBMkD7QW4CJKsAg37AbsClQOrBLQE5gSWBbkGvAjjEboWgbICmMQCAA==</p>
 
 <div>
-<input type="text" id="deckString" size="50" /><button onclick="showDeckID()" type="submit">Xem</button>
+<input type="text" id="deckString" size="50" /><button onclick="showDeckbyID()" type="submit">Xem</button>
+<div id="type" style="font-weight:700"></div>
+<div id="hero" style="font-weight:700"></div>
+<div id="cards"></div>
+</div>
+<hr />
+
+<div>
+<input type="text" id="deckString" size="50" /><button onclick="showDeckbyID()" type="submit">Xem</button>
 <div id="type" style="font-weight:700"></div>
 <div id="hero" style="font-weight:700"></div>
 <div id="cards"></div>

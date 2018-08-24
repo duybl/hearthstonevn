@@ -12,23 +12,17 @@
 				<title>Druid Deck đầu bảng tuần 3 tháng 8</title>
 				<link>https://duybl.github.io/hearthstonevn//druid/meta-druid-deck/</link>
 				<pubDate>Wed, 22 Aug 2018 00:00:00 -0700</pubDate>
-				<description>&lt;div&gt;
-
-
-
-
-&lt;div class=&quot;alert-box info &quot;&gt;&lt;p&gt;BOOMSDAY TAUNT DRUID – #68 LEGEND (HOKAGE, LOST_HEAD)&lt;/p&gt;
+				<description>
+&lt;div class=&quot;alert-box success &quot;&gt;&lt;p&gt;BOOMSDAY TAUNT DRUID – #68 LEGEND (HOKAGE, LOST_HEAD)&lt;/p&gt;
 &lt;/div&gt;
 
-
-
-
 &lt;div&gt;
-  &lt;!-- &lt;input id=&quot;deckString&quot; type=&quot;hidden&quot; value='AAECAZICBMQGws4Cr9MC8eoCDUBf6QHkCMnHApTSApjSAp7SAubTAovhAoTmAt3rAo3wAgA='&gt; --&gt;
-      &lt;!-- &lt;script&gt;showDeck();&lt;/script&gt; --&gt;
       &lt;script&gt;showDeck(&quot;AAECAZICBMQGws4Cr9MC8eoCDUBf6QHkCMnHApTSApjSAp7SAubTAovhAoTmAt3rAo3wAgA=&quot;);&lt;/script&gt;
+      &lt;p&gt;above type&lt;/p&gt;
   		&lt;div id=&quot;type&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
+      &lt;p&gt;above hero&lt;/p&gt;
       &lt;div id=&quot;hero&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
+      &lt;p&gt;above cards&lt;/p&gt;
       &lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 
@@ -37,24 +31,16 @@
 &lt;button onclick=&quot;copyToClipboard('AAECAZICBMQGws4Cr9MC8eoCDUBf6QHkCMnHApTSApjSAp7SAubTAovhAoTmAt3rAo3wAgA=')&quot;&gt;Copy&lt;/button&gt;
 &lt;/div&gt;
 
-&lt;/div&gt;
-&lt;div&gt;
-
-
-
-
-&lt;div class=&quot;alert-box info &quot;&gt;&lt;p&gt;BIG CUBE DRUID – #69 LEGEND (CASIE)&lt;/p&gt;
+&lt;div class=&quot;alert-box text &quot;&gt;&lt;p&gt;BIG CUBE DRUID – #69 LEGEND (CASIE)&lt;/p&gt;
 &lt;/div&gt;
 
-
-
-
 &lt;div&gt;
-  &lt;!-- &lt;input id=&quot;deckString&quot; type=&quot;hidden&quot; value='AAECAZICCMUE4scCh84Cws4CmdMCm+gCjPsC9fwCC0Bf6QGTBOQIxsICoM0CmNICi+ECv/IC5PsCAA=='&gt; --&gt;
-      &lt;!-- &lt;script&gt;showDeck();&lt;/script&gt; --&gt;
       &lt;script&gt;showDeck(&quot;AAECAZICCMUE4scCh84Cws4CmdMCm+gCjPsC9fwCC0Bf6QGTBOQIxsICoM0CmNICi+ECv/IC5PsCAA==&quot;);&lt;/script&gt;
+      &lt;p&gt;above type&lt;/p&gt;
   		&lt;div id=&quot;type&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
+      &lt;p&gt;above hero&lt;/p&gt;
       &lt;div id=&quot;hero&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
+      &lt;p&gt;above cards&lt;/p&gt;
       &lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 
@@ -63,7 +49,6 @@
 &lt;button onclick=&quot;copyToClipboard('AAECAZICCMUE4scCh84Cws4CmdMCm+gCjPsC9fwCC0Bf6QGTBOQIxsICoM0CmNICi+ECv/IC5PsCAA==')&quot;&gt;Copy&lt;/button&gt;
 &lt;/div&gt;
 
-&lt;/div&gt;
 </description>
 				<guid isPermaLink="true">https://duybl.github.io/hearthstonevn//druid/meta-druid-deck/</guid>
 			</item>
@@ -77,11 +62,12 @@
 &lt;/div&gt;
 
 &lt;div&gt;
-  &lt;!-- &lt;input id=&quot;deckString&quot; type=&quot;hidden&quot; value='AAECAZICCMUE4scCh84Cws4CmdMCm+gCjPsC9fwCC0Bf6QGTBOQIxsICoM0CmNICi+ECv/IC5PsCAA=='&gt; --&gt;
-      &lt;!-- &lt;script&gt;showDeck();&lt;/script&gt; --&gt;
       &lt;script&gt;showDeck(&quot;AAECAZICCMUE4scCh84Cws4CmdMCm+gCjPsC9fwCC0Bf6QGTBOQIxsICoM0CmNICi+ECv/IC5PsCAA==&quot;);&lt;/script&gt;
+      &lt;p&gt;above type&lt;/p&gt;
   		&lt;div id=&quot;type&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
+      &lt;p&gt;above hero&lt;/p&gt;
       &lt;div id=&quot;hero&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
+      &lt;p&gt;above cards&lt;/p&gt;
       &lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 
@@ -94,11 +80,12 @@
 &lt;/div&gt;
 
 &lt;div&gt;
-  &lt;!-- &lt;input id=&quot;deckString&quot; type=&quot;hidden&quot; value='AAECAZICBMQGws4Cr9MC8eoCDUBf6QHkCMnHApTSApjSAp7SAubTAovhAoTmAt3rAo3wAgA='&gt; --&gt;
-      &lt;!-- &lt;script&gt;showDeck();&lt;/script&gt; --&gt;
       &lt;script&gt;showDeck(&quot;AAECAZICBMQGws4Cr9MC8eoCDUBf6QHkCMnHApTSApjSAp7SAubTAovhAoTmAt3rAo3wAgA=&quot;);&lt;/script&gt;
+      &lt;p&gt;above type&lt;/p&gt;
   		&lt;div id=&quot;type&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
+      &lt;p&gt;above hero&lt;/p&gt;
       &lt;div id=&quot;hero&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
+      &lt;p&gt;above cards&lt;/p&gt;
       &lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 
@@ -111,11 +98,12 @@
 &lt;/div&gt;
 
 &lt;div&gt;
-  &lt;!-- &lt;input id=&quot;deckString&quot; type=&quot;hidden&quot; value='AAECAZICCLQDmdMCm+gC/esCmu4C4vgC5PsC9fwCC0Bf6QHTA+QIoM0Ch84CmNICntIC29MCv/ICAA=='&gt; --&gt;
-      &lt;!-- &lt;script&gt;showDeck();&lt;/script&gt; --&gt;
       &lt;script&gt;showDeck(&quot;AAECAZICCLQDmdMCm+gC/esCmu4C4vgC5PsC9fwCC0Bf6QHTA+QIoM0Ch84CmNICntIC29MCv/ICAA==&quot;);&lt;/script&gt;
+      &lt;p&gt;above type&lt;/p&gt;
   		&lt;div id=&quot;type&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
+      &lt;p&gt;above hero&lt;/p&gt;
       &lt;div id=&quot;hero&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
+      &lt;p&gt;above cards&lt;/p&gt;
       &lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 
@@ -128,11 +116,12 @@
 &lt;/div&gt;
 
 &lt;div&gt;
-  &lt;!-- &lt;input id=&quot;deckString&quot; type=&quot;hidden&quot; value='AAECAZICApnTAuL4Ag5AX/0C9wPmBYUI5AigzQKHzgKY0gKe0gLb0wKE5gLX7wIA'&gt; --&gt;
-      &lt;!-- &lt;script&gt;showDeck();&lt;/script&gt; --&gt;
       &lt;script&gt;showDeck(&quot;AAECAZICApnTAuL4Ag5AX/0C9wPmBYUI5AigzQKHzgKY0gKe0gLb0wKE5gLX7wIA&quot;);&lt;/script&gt;
+      &lt;p&gt;above type&lt;/p&gt;
   		&lt;div id=&quot;type&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
+      &lt;p&gt;above hero&lt;/p&gt;
       &lt;div id=&quot;hero&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
+      &lt;p&gt;above cards&lt;/p&gt;
       &lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 
@@ -145,11 +134,12 @@
 &lt;/div&gt;
 
 &lt;div&gt;
-  &lt;!-- &lt;input id=&quot;deckString&quot; type=&quot;hidden&quot; value='AAECAZICCP4BtAPFBMQGws4CmdMC5PsC9fwCC0Bf6QHTA+QIoM0Ch84CmNICntIC29MCv/ICAA=='&gt; --&gt;
-      &lt;!-- &lt;script&gt;showDeck();&lt;/script&gt; --&gt;
       &lt;script&gt;showDeck(&quot;AAECAZICCP4BtAPFBMQGws4CmdMC5PsC9fwCC0Bf6QHTA+QIoM0Ch84CmNICntIC29MCv/ICAA==&quot;);&lt;/script&gt;
+      &lt;p&gt;above type&lt;/p&gt;
   		&lt;div id=&quot;type&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
+      &lt;p&gt;above hero&lt;/p&gt;
       &lt;div id=&quot;hero&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
+      &lt;p&gt;above cards&lt;/p&gt;
       &lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 
@@ -162,11 +152,12 @@
 &lt;/div&gt;
 
 &lt;div&gt;
-  &lt;!-- &lt;input id=&quot;deckString&quot; type=&quot;hidden&quot; value='AAECAZICCPIF8wWZ0wKc4gLQ5wLh+wL1/AL6/gIL3gWXwQLrwgKbywKHzgKR0ALR4QL55gL96gLX6wLi+AIA'&gt; --&gt;
-      &lt;!-- &lt;script&gt;showDeck();&lt;/script&gt; --&gt;
       &lt;script&gt;showDeck(&quot;AAECAZICCPIF8wWZ0wKc4gLQ5wLh+wL1/AL6/gIL3gWXwQLrwgKbywKHzgKR0ALR4QL55gL96gLX6wLi+AIA&quot;);&lt;/script&gt;
+      &lt;p&gt;above type&lt;/p&gt;
   		&lt;div id=&quot;type&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
+      &lt;p&gt;above hero&lt;/p&gt;
       &lt;div id=&quot;hero&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
+      &lt;p&gt;above cards&lt;/p&gt;
       &lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 
@@ -179,11 +170,12 @@
 &lt;/div&gt;
 
 &lt;div&gt;
-  &lt;!-- &lt;input id=&quot;deckString&quot; type=&quot;hidden&quot; value='AAECAZICBsQGmdMC/esCmu4Cv/IC5PsCDEBf6QHkCKDNAofOApTSApjSAp7SAtvTAoTmAo/2AgA='&gt; --&gt;
-      &lt;!-- &lt;script&gt;showDeck();&lt;/script&gt; --&gt;
       &lt;script&gt;showDeck(&quot;AAECAZICBsQGmdMC/esCmu4Cv/IC5PsCDEBf6QHkCKDNAofOApTSApjSAp7SAtvTAoTmAo/2AgA=&quot;);&lt;/script&gt;
+      &lt;p&gt;above type&lt;/p&gt;
   		&lt;div id=&quot;type&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
+      &lt;p&gt;above hero&lt;/p&gt;
       &lt;div id=&quot;hero&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
+      &lt;p&gt;above cards&lt;/p&gt;
       &lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 

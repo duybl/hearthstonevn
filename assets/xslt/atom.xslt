@@ -15,7 +15,7 @@
   
 
 	<script src="https://duybl.github.io/hearthstonevn//assets/js/modernizr.min.js"></script>
-	<script type="text/javascript" src="https://duybl.github.io/hearthstonevn//assets/js/deck.js"></script>
+	<!-- <script type="text/javascript" src="https://duybl.github.io/hearthstonevn//assets/js/deck.js"></script> -->
 	<script type="text/javascript" src="https://duybl.github.io/hearthstonevn//assets/js/decode.js"></script>
 		<!-- <script type="text/javascript" src="https://duybl.github.io/hearthstonevn//assets/js/decode-bk.js"></script> -->
 	<!-- <script type="text/javascript" src="https://duybl.github.io/hearthstonevn//assets/js/copydeck.js"></script> -->
