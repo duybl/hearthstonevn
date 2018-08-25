@@ -63,6 +63,7 @@ var deckDecoder = function() {
 			return (a.card.name > b.card.name) - (a.card.name < b.card.name);
 		});
 		return {heroClass: cardClasses[lookup[deck.hero].cardClass], type: (deck.type === 1 ? "Wild" : "Standard"), hero: lookup[deck.hero], cards: cards};
+		// return {heroClass: cardClasses[lookup[deck.hero].cardClass], type: (deck.type === 1 ? "Wild" : "Standard"), hero: lookup[deck.hero], cards: cards};
 	};
 
 	var deck = function(encoded) {
@@ -97,11 +98,14 @@ var deckDecoder = function() {
 
 var decoder = deckDecoder();
 var showDeck = function(text) {
-  var $encoded = text;
-  decoder.decode($encoded).then((deck) => {
+  var _enc = text;
+
+  decoder.decode(_enc).then((deck) => {
     document.getElementById("type").innerText = deck.type + ' Deck';
+		console.log(document.getElementById('type').innerText);
     document.getElementById("hero").innerText = deck.hero.name + ' (' + deck.heroClass + ')';
-    var list = document.getElementById("cards");
+		console.log(document.getElementById('hero').innerText);
+		var list = document.getElementById("cards");
     list.innerHTML = "";
     for (var i = 0; i < deck.cards.length; i++) {
     var card = deck.cards[i].card;
@@ -112,13 +116,12 @@ var showDeck = function(text) {
       row.appendChild(document.createTextNode(deck.cards[i].count + "x - "+ card.name));
       list.appendChild(row);
     }
-  
   });
 };
 
 var showDeckbyID = function() {
-  var encoded = document.getElementById('deckString').value;
-  decoder.decode(encoded).then((deck) => {
+  var _enc = document.getElementById('deckString').value;
+  decoder.decode(_enc).then((deck) => {
     document.getElementById("type").innerText = deck.type + ' Deck';
     document.getElementById("hero").innerText = deck.hero.name + ' (' + deck.heroClass + ')';
     var list = document.getElementById("cards");

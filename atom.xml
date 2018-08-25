@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://duybl.github.io/hearthstonevn//</id>
 	<title>Hearthstone Việt Nam</title>
-	<updated>2018-08-24T15:12:59-07:00</updated>
+	<updated>2018-08-25T16:30:30+07:00</updated>
 
 	<subtitle>Không việc có gì khó, chỉ sợ bụng không no</subtitle>
 
@@ -31,7 +31,7 @@
 			<id>https://duybl.github.io/hearthstonevn//druid/meta-druid-deck/</id>
 			<title>Druid Deck đầu bảng tuần 3 tháng 8</title>
 			<link href="https://duybl.github.io/hearthstonevn//druid/meta-druid-deck/" rel="alternate" type="text/html" title="Druid Deck đầu bảng tuần 3 tháng 8" />
-			<updated>2018-08-22T00:00:00-07:00</updated>
+			<updated>2018-08-22T00:00:00+07:00</updated>
 
 			
 				
@@ -46,43 +46,31 @@
 				</author>
 			
 			<summary>Dữ liệu lấy trên trang hsreplay</summary>
-			<content type="html" xml:base="https://duybl.github.io/hearthstonevn//druid/meta-druid-deck/">
-&lt;div class=&quot;alert-box success &quot;&gt;&lt;p&gt;BOOMSDAY TAUNT DRUID – #68 LEGEND (HOKAGE, LOST_HEAD)&lt;/p&gt;
+			<content type="html" xml:base="https://duybl.github.io/hearthstonevn//druid/meta-druid-deck/">&lt;div&gt;
+
+
+
+
+&lt;div class=&quot;alert-box success &quot;&gt;&lt;p&gt;Egg Paladin – 66.1% win rate/56 games&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;div&gt;
-      &lt;script&gt;showDeck(&quot;AAECAZICBMQGws4Cr9MC8eoCDUBf6QHkCMnHApTSApjSAp7SAubTAovhAoTmAt3rAo3wAgA=&quot;);&lt;/script&gt;
-      &lt;p&gt;above type&lt;/p&gt;
-  		&lt;div id=&quot;type&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
-      &lt;p&gt;above hero&lt;/p&gt;
-      &lt;div id=&quot;hero&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
-      &lt;p&gt;above cards&lt;/p&gt;
-      &lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
+
+&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/decode.js&quot;&gt;&lt;/script&gt;
+
+
+
+&lt;script&gt;showDeck(&quot;AAECAZ8FDPsFzwaPCarBArnBAsnCAojHAo7TAsvsAoT8AvH+AqCAAwncA/QF9gebwgKrwgKr0AKL4QLZ/gKRgAMA&quot;);&lt;/script&gt;
+
+&lt;div id=&quot;type&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;hero&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
+
+&lt;pre&gt;AAECAZ8FDPsFzwaPCarBArnBAsnCAojHAo7TAsvsAoT8AvH+AqCAAwncA/QF9gebwgKrwgKr0AKL4QLZ/gKRgAMA&lt;/pre&gt;
+&lt;button onclick=&quot;copyToClipboard('AAECAZ8FDPsFzwaPCarBArnBAsnCAojHAo7TAsvsAoT8AvH+AqCAAwncA/QF9gebwgKrwgKr0AKL4QLZ/gKRgAMA')&quot;&gt;Copy&lt;/button&gt;
+&lt;div class=&quot;deckbox&quot;&gt;
 &lt;/div&gt;
 
-&lt;div&gt;
-&lt;p style=&quot;color: red&quot;&gt;Ma code: AAECAZICBMQGws4Cr9MC8eoCDUBf6QHkCMnHApTSApjSAp7SAubTAovhAoTmAt3rAo3wAgA=&lt;/p&gt;
-&lt;button onclick=&quot;copyToClipboard('AAECAZICBMQGws4Cr9MC8eoCDUBf6QHkCMnHApTSApjSAp7SAubTAovhAoTmAt3rAo3wAgA=')&quot;&gt;Copy&lt;/button&gt;
 &lt;/div&gt;
-
-&lt;div class=&quot;alert-box text &quot;&gt;&lt;p&gt;BIG CUBE DRUID – #69 LEGEND (CASIE)&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div&gt;
-      &lt;script&gt;showDeck(&quot;AAECAZICCMUE4scCh84Cws4CmdMCm+gCjPsC9fwCC0Bf6QGTBOQIxsICoM0CmNICi+ECv/IC5PsCAA==&quot;);&lt;/script&gt;
-      &lt;p&gt;above type&lt;/p&gt;
-  		&lt;div id=&quot;type&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
-      &lt;p&gt;above hero&lt;/p&gt;
-      &lt;div id=&quot;hero&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
-      &lt;p&gt;above cards&lt;/p&gt;
-      &lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div&gt;
-&lt;p style=&quot;color: red&quot;&gt;Ma code: AAECAZICCMUE4scCh84Cws4CmdMCm+gCjPsC9fwCC0Bf6QGTBOQIxsICoM0CmNICi+ECv/IC5PsCAA==&lt;/p&gt;
-&lt;button onclick=&quot;copyToClipboard('AAECAZICCMUE4scCh84Cws4CmdMCm+gCjPsC9fwCC0Bf6QGTBOQIxsICoM0CmNICi+ECv/IC5PsCAA==')&quot;&gt;Copy&lt;/button&gt;
-&lt;/div&gt;
-
 </content>
 
 			
@@ -96,14 +84,14 @@
 				<category term="post" />
 			
 
-			<published>2018-08-22T00:00:00-07:00</published>
+			<published>2018-08-22T00:00:00+07:00</published>
 		</entry>
 	
 		<entry>
 			<id>https://duybl.github.io/hearthstonevn//druid/meta-druid-deck-bk/</id>
 			<title>Druid Deck đầu bảng tuần 3 tháng 8</title>
 			<link href="https://duybl.github.io/hearthstonevn//druid/meta-druid-deck-bk/" rel="alternate" type="text/html" title="Druid Deck đầu bảng tuần 3 tháng 8" />
-			<updated>2018-08-22T00:00:00-07:00</updated>
+			<updated>2018-08-22T00:00:00+07:00</updated>
 
 			
 				
@@ -122,127 +110,113 @@
 &lt;div class=&quot;alert-box info &quot;&gt;&lt;p&gt;BIG CUBE DRUID – #69 LEGEND (CASIE)&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;div&gt;
-      &lt;script&gt;showDeck(&quot;AAECAZICCMUE4scCh84Cws4CmdMCm+gCjPsC9fwCC0Bf6QGTBOQIxsICoM0CmNICi+ECv/IC5PsCAA==&quot;);&lt;/script&gt;
-      &lt;p&gt;above type&lt;/p&gt;
-  		&lt;div id=&quot;type&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
-      &lt;p&gt;above hero&lt;/p&gt;
-      &lt;div id=&quot;hero&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
-      &lt;p&gt;above cards&lt;/p&gt;
-      &lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/decode.js&quot;&gt;&lt;/script&gt;
 
-&lt;div&gt;
-&lt;p style=&quot;color: red&quot;&gt;Ma code: AAECAZICCMUE4scCh84Cws4CmdMCm+gCjPsC9fwCC0Bf6QGTBOQIxsICoM0CmNICi+ECv/IC5PsCAA==&lt;/p&gt;
-&lt;button onclick=&quot;copyToClipboard('AAECAZICCMUE4scCh84Cws4CmdMCm+gCjPsC9fwCC0Bf6QGTBOQIxsICoM0CmNICi+ECv/IC5PsCAA==')&quot;&gt;Copy&lt;/button&gt;
+&lt;script&gt;showDeck(&quot;AAECAZICCMUE4scCh84Cws4CmdMCm+gCjPsC9fwCC0Bf6QGTBOQIxsICoM0CmNICi+ECv/IC5PsCAA==&quot;);&lt;/script&gt;
+
+&lt;div id=&quot;type&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;hero&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
+
+&lt;pre&gt;AAECAZICCMUE4scCh84Cws4CmdMCm+gCjPsC9fwCC0Bf6QGTBOQIxsICoM0CmNICi+ECv/IC5PsCAA==&lt;/pre&gt;
+&lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAZICCMUE4scCh84Cws4CmdMCm+gCjPsC9fwCC0Bf6QGTBOQIxsICoM0CmNICi+ECv/IC5PsCAA==')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
+&lt;div class=&quot;deckbox&quot;&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;alert-box info &quot;&gt;&lt;p&gt;BOOMSDAY TAUNT DRUID – #68 LEGEND (HOKAGE, LOST_HEAD)&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;div&gt;
-      &lt;script&gt;showDeck(&quot;AAECAZICBMQGws4Cr9MC8eoCDUBf6QHkCMnHApTSApjSAp7SAubTAovhAoTmAt3rAo3wAgA=&quot;);&lt;/script&gt;
-      &lt;p&gt;above type&lt;/p&gt;
-  		&lt;div id=&quot;type&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
-      &lt;p&gt;above hero&lt;/p&gt;
-      &lt;div id=&quot;hero&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
-      &lt;p&gt;above cards&lt;/p&gt;
-      &lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/decode.js&quot;&gt;&lt;/script&gt;
 
-&lt;div&gt;
-&lt;p style=&quot;color: red&quot;&gt;Ma code: AAECAZICBMQGws4Cr9MC8eoCDUBf6QHkCMnHApTSApjSAp7SAubTAovhAoTmAt3rAo3wAgA=&lt;/p&gt;
-&lt;button onclick=&quot;copyToClipboard('AAECAZICBMQGws4Cr9MC8eoCDUBf6QHkCMnHApTSApjSAp7SAubTAovhAoTmAt3rAo3wAgA=')&quot;&gt;Copy&lt;/button&gt;
+&lt;script&gt;showDeck(&quot;AAECAZICBMQGws4Cr9MC8eoCDUBf6QHkCMnHApTSApjSAp7SAubTAovhAoTmAt3rAo3wAgA=&quot;);&lt;/script&gt;
+
+&lt;div id=&quot;type&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;hero&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
+
+&lt;pre&gt;AAECAZICBMQGws4Cr9MC8eoCDUBf6QHkCMnHApTSApjSAp7SAubTAovhAoTmAt3rAo3wAgA=&lt;/pre&gt;
+&lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAZICBMQGws4Cr9MC8eoCDUBf6QHkCMnHApTSApjSAp7SAubTAovhAoTmAt3rAo3wAgA=')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
+&lt;div class=&quot;deckbox&quot;&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;alert-box info &quot;&gt;&lt;p&gt;#1 LEGEND MALYWAGGLE DRUID (SJOW, TYLEROOTD)&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;div&gt;
-      &lt;script&gt;showDeck(&quot;AAECAZICCLQDmdMCm+gC/esCmu4C4vgC5PsC9fwCC0Bf6QHTA+QIoM0Ch84CmNICntIC29MCv/ICAA==&quot;);&lt;/script&gt;
-      &lt;p&gt;above type&lt;/p&gt;
-  		&lt;div id=&quot;type&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
-      &lt;p&gt;above hero&lt;/p&gt;
-      &lt;div id=&quot;hero&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
-      &lt;p&gt;above cards&lt;/p&gt;
-      &lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/decode.js&quot;&gt;&lt;/script&gt;
 
-&lt;div&gt;
-&lt;p style=&quot;color: red&quot;&gt;Ma code: AAECAZICCLQDmdMCm+gC/esCmu4C4vgC5PsC9fwCC0Bf6QHTA+QIoM0Ch84CmNICntIC29MCv/ICAA==&lt;/p&gt;
-&lt;button onclick=&quot;copyToClipboard('AAECAZICCLQDmdMCm+gC/esCmu4C4vgC5PsC9fwCC0Bf6QHTA+QIoM0Ch84CmNICntIC29MCv/ICAA==')&quot;&gt;Copy&lt;/button&gt;
+&lt;script&gt;showDeck(&quot;AAECAZICCLQDmdMCm+gC/esCmu4C4vgC5PsC9fwCC0Bf6QHTA+QIoM0Ch84CmNICntIC29MCv/ICAA==&quot;);&lt;/script&gt;
+
+&lt;div id=&quot;type&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;hero&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
+
+&lt;pre&gt;AAECAZICCLQDmdMCm+gC/esCmu4C4vgC5PsC9fwCC0Bf6QHTA+QIoM0Ch84CmNICntIC29MCv/ICAA==&lt;/pre&gt;
+&lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAZICCLQDmdMCm+gC/esCmu4C4vgC5PsC9fwCC0Bf6QHTA+QIoM0Ch84CmNICntIC29MCv/ICAA==')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
+&lt;div class=&quot;deckbox&quot;&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;alert-box info &quot;&gt;&lt;p&gt;LEGEND TOKEN DRUID – BOOMSDAY – #87 (HOKAGE)&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;div&gt;
-      &lt;script&gt;showDeck(&quot;AAECAZICApnTAuL4Ag5AX/0C9wPmBYUI5AigzQKHzgKY0gKe0gLb0wKE5gLX7wIA&quot;);&lt;/script&gt;
-      &lt;p&gt;above type&lt;/p&gt;
-  		&lt;div id=&quot;type&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
-      &lt;p&gt;above hero&lt;/p&gt;
-      &lt;div id=&quot;hero&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
-      &lt;p&gt;above cards&lt;/p&gt;
-      &lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/decode.js&quot;&gt;&lt;/script&gt;
 
-&lt;div&gt;
-&lt;p style=&quot;color: red&quot;&gt;Ma code: AAECAZICApnTAuL4Ag5AX/0C9wPmBYUI5AigzQKHzgKY0gKe0gLb0wKE5gLX7wIA&lt;/p&gt;
-&lt;button onclick=&quot;copyToClipboard('AAECAZICApnTAuL4Ag5AX/0C9wPmBYUI5AigzQKHzgKY0gKe0gLb0wKE5gLX7wIA')&quot;&gt;Copy&lt;/button&gt;
+&lt;script&gt;showDeck(&quot;AAECAZICApnTAuL4Ag5AX/0C9wPmBYUI5AigzQKHzgKY0gKe0gLb0wKE5gLX7wIA&quot;);&lt;/script&gt;
+
+&lt;div id=&quot;type&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;hero&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
+
+&lt;pre&gt;AAECAZICApnTAuL4Ag5AX/0C9wPmBYUI5AigzQKHzgKY0gKe0gLb0wKE5gLX7wIA&lt;/pre&gt;
+&lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAZICApnTAuL4Ag5AX/0C9wPmBYUI5AigzQKHzgKY0gKe0gLb0wKE5gLX7wIA')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
+&lt;div class=&quot;deckbox&quot;&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;alert-box info &quot;&gt;&lt;p&gt;MALYGOS DRUID BOOMSDAY PROJECT – #98 LEGEND (ZEDDY)&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;div&gt;
-      &lt;script&gt;showDeck(&quot;AAECAZICCP4BtAPFBMQGws4CmdMC5PsC9fwCC0Bf6QHTA+QIoM0Ch84CmNICntIC29MCv/ICAA==&quot;);&lt;/script&gt;
-      &lt;p&gt;above type&lt;/p&gt;
-  		&lt;div id=&quot;type&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
-      &lt;p&gt;above hero&lt;/p&gt;
-      &lt;div id=&quot;hero&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
-      &lt;p&gt;above cards&lt;/p&gt;
-      &lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/decode.js&quot;&gt;&lt;/script&gt;
 
-&lt;div&gt;
-&lt;p style=&quot;color: red&quot;&gt;Ma code: AAECAZICCP4BtAPFBMQGws4CmdMC5PsC9fwCC0Bf6QHTA+QIoM0Ch84CmNICntIC29MCv/ICAA==&lt;/p&gt;
-&lt;button onclick=&quot;copyToClipboard('AAECAZICCP4BtAPFBMQGws4CmdMC5PsC9fwCC0Bf6QHTA+QIoM0Ch84CmNICntIC29MCv/ICAA==')&quot;&gt;Copy&lt;/button&gt;
+&lt;script&gt;showDeck(&quot;AAECAZICCP4BtAPFBMQGws4CmdMC5PsC9fwCC0Bf6QHTA+QIoM0Ch84CmNICntIC29MCv/ICAA==&quot;);&lt;/script&gt;
+
+&lt;div id=&quot;type&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;hero&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
+
+&lt;pre&gt;AAECAZICCP4BtAPFBMQGws4CmdMC5PsC9fwCC0Bf6QHTA+QIoM0Ch84CmNICntIC29MCv/ICAA==&lt;/pre&gt;
+&lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAZICCP4BtAPFBMQGws4CmdMC5PsC9fwCC0Bf6QHTA+QIoM0Ch84CmNICntIC29MCv/ICAA==')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
+&lt;div class=&quot;deckbox&quot;&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;alert-box info &quot;&gt;&lt;p&gt;BOOMSDAY SPITEFUL DRUID – #15 LEGEND (BOARCONTROL)&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;div&gt;
-      &lt;script&gt;showDeck(&quot;AAECAZICCPIF8wWZ0wKc4gLQ5wLh+wL1/AL6/gIL3gWXwQLrwgKbywKHzgKR0ALR4QL55gL96gLX6wLi+AIA&quot;);&lt;/script&gt;
-      &lt;p&gt;above type&lt;/p&gt;
-  		&lt;div id=&quot;type&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
-      &lt;p&gt;above hero&lt;/p&gt;
-      &lt;div id=&quot;hero&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
-      &lt;p&gt;above cards&lt;/p&gt;
-      &lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/decode.js&quot;&gt;&lt;/script&gt;
 
-&lt;div&gt;
-&lt;p style=&quot;color: red&quot;&gt;Ma code: AAECAZICCPIF8wWZ0wKc4gLQ5wLh+wL1/AL6/gIL3gWXwQLrwgKbywKHzgKR0ALR4QL55gL96gLX6wLi+AIA&lt;/p&gt;
-&lt;button onclick=&quot;copyToClipboard('AAECAZICCPIF8wWZ0wKc4gLQ5wLh+wL1/AL6/gIL3gWXwQLrwgKbywKHzgKR0ALR4QL55gL96gLX6wLi+AIA')&quot;&gt;Copy&lt;/button&gt;
+&lt;script&gt;showDeck(&quot;AAECAZICCPIF8wWZ0wKc4gLQ5wLh+wL1/AL6/gIL3gWXwQLrwgKbywKHzgKR0ALR4QL55gL96gLX6wLi+AIA&quot;);&lt;/script&gt;
+
+&lt;div id=&quot;type&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;hero&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
+
+&lt;pre&gt;AAECAZICCPIF8wWZ0wKc4gLQ5wLh+wL1/AL6/gIL3gWXwQLrwgKbywKHzgKR0ALR4QL55gL96gLX6wLi+AIA&lt;/pre&gt;
+&lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAZICCPIF8wWZ0wKc4gLQ5wLh+wL1/AL6/gIL3gWXwQLrwgKbywKHzgKR0ALR4QL55gL96gLX6wLi+AIA')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
+&lt;div class=&quot;deckbox&quot;&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;alert-box info &quot;&gt;&lt;p&gt;BOOMSDAY PROJECT TOGWAGGLE DRUID – #2 LEGEND (ELFANDOR)&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;div&gt;
-      &lt;script&gt;showDeck(&quot;AAECAZICBsQGmdMC/esCmu4Cv/IC5PsCDEBf6QHkCKDNAofOApTSApjSAp7SAtvTAoTmAo/2AgA=&quot;);&lt;/script&gt;
-      &lt;p&gt;above type&lt;/p&gt;
-  		&lt;div id=&quot;type&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
-      &lt;p&gt;above hero&lt;/p&gt;
-      &lt;div id=&quot;hero&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
-      &lt;p&gt;above cards&lt;/p&gt;
-      &lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/decode.js&quot;&gt;&lt;/script&gt;
 
-&lt;div&gt;
-&lt;p style=&quot;color: red&quot;&gt;Ma code: AAECAZICBsQGmdMC/esCmu4Cv/IC5PsCDEBf6QHkCKDNAofOApTSApjSAp7SAtvTAoTmAo/2AgA=&lt;/p&gt;
-&lt;button onclick=&quot;copyToClipboard('AAECAZICBsQGmdMC/esCmu4Cv/IC5PsCDEBf6QHkCKDNAofOApTSApjSAp7SAtvTAoTmAo/2AgA=')&quot;&gt;Copy&lt;/button&gt;
+&lt;script&gt;showDeck(&quot;AAECAZICBsQGmdMC/esCmu4Cv/IC5PsCDEBf6QHkCKDNAofOApTSApjSAp7SAtvTAoTmAo/2AgA=&quot;);&lt;/script&gt;
+
+&lt;div id=&quot;type&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;hero&quot; style=&quot;font-weight:700&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
+
+&lt;pre&gt;AAECAZICBsQGmdMC/esCmu4Cv/IC5PsCDEBf6QHkCKDNAofOApTSApjSAp7SAtvTAoTmAo/2AgA=&lt;/pre&gt;
+&lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAZICBsQGmdMC/esCmu4Cv/IC5PsCDEBf6QHkCKDNAofOApTSApjSAp7SAtvTAoTmAo/2AgA=')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
+&lt;div class=&quot;deckbox&quot;&gt;
 &lt;/div&gt;
 
 </content>
@@ -258,14 +232,14 @@
 				<category term="post" />
 			
 
-			<published>2018-08-22T00:00:00-07:00</published>
+			<published>2018-08-22T00:00:00+07:00</published>
 		</entry>
 	
 		<entry>
 			<id>https://duybl.github.io/hearthstonevn//design/mediaelement_js/</id>
 			<title>Play Audio &amp; Video with media&amp;shy;element.js</title>
 			<link href="https://duybl.github.io/hearthstonevn//design/mediaelement_js/" rel="alternate" type="text/html" title="Play Audio &amp; Video with media&amp;shy;element.js" />
-			<updated>2015-10-15T00:00:00-07:00</updated>
+			<updated>2015-10-15T00:00:00+07:00</updated>
 
 			
 				
@@ -322,14 +296,14 @@
 				<category term="streaming music" />
 			
 
-			<published>2015-10-15T00:00:00-07:00</published>
+			<published>2015-10-15T00:00:00+07:00</published>
 		</entry>
 	
 		<entry>
 			<id>https://duybl.github.io/hearthstonevn//design/typography/typography/</id>
 			<title>Wonderful Typography</title>
 			<link href="https://duybl.github.io/hearthstonevn//design/typography/typography/" rel="alternate" type="text/html" title="Wonderful Typography" />
-			<updated>2015-08-16T00:00:00-07:00</updated>
+			<updated>2015-08-16T00:00:00+07:00</updated>
 
 			
 				
@@ -790,14 +764,14 @@ element&lt;/td&gt;
 			
 			
 
-			<published>2015-08-16T00:00:00-07:00</published>
+			<published>2015-08-16T00:00:00+07:00</published>
 		</entry>
 	
 		<entry>
 			<id>https://duybl.github.io/hearthstonevn//design/comments/</id>
 			<title>Now with Comments!</title>
 			<link href="https://duybl.github.io/hearthstonevn//design/comments/" rel="alternate" type="text/html" title="Now with Comments!" />
-			<updated>2015-08-15T00:00:00-07:00</updated>
+			<updated>2015-08-15T00:00:00+07:00</updated>
 
 			
 				
@@ -823,14 +797,14 @@ element&lt;/td&gt;
 			
 			
 
-			<published>2015-08-15T00:00:00-07:00</published>
+			<published>2015-08-15T00:00:00+07:00</published>
 		</entry>
 	
 		<entry>
 			<id>https://duybl.github.io/hearthstonevn//design/no-header/</id>
 			<title>No Header</title>
 			<link href="https://duybl.github.io/hearthstonevn//design/no-header/" rel="alternate" type="text/html" title="No Header" />
-			<updated>2015-08-11T00:00:00-07:00</updated>
+			<updated>2015-08-11T00:00:00+07:00</updated>
 
 			
 				
@@ -889,14 +863,14 @@ element&lt;/td&gt;
 				<category term="header" />
 			
 
-			<published>2015-08-11T00:00:00-07:00</published>
+			<published>2015-08-11T00:00:00+07:00</published>
 		</entry>
 	
 		<entry>
 			<id>https://duybl.github.io/hearthstonevn//design/no-header-but-image/</id>
 			<title>No Header but Article Image</title>
 			<link href="https://duybl.github.io/hearthstonevn//design/no-header-but-image/" rel="alternate" type="text/html" title="No Header but Article Image" />
-			<updated>2015-03-12T00:00:00-07:00</updated>
+			<updated>2015-03-12T00:00:00+07:00</updated>
 
 			
 				
@@ -959,14 +933,14 @@ image:
 				<category term="header" />
 			
 
-			<published>2015-03-12T00:00:00-07:00</published>
+			<published>2015-03-12T00:00:00+07:00</published>
 		</entry>
 	
 		<entry>
 			<id>https://duybl.github.io/hearthstonevn//design/header-with-text/</id>
 			<title>Header With Text</title>
 			<link href="https://duybl.github.io/hearthstonevn//design/header-with-text/" rel="alternate" type="text/html" title="Header With Text" />
-			<updated>2015-02-10T00:00:00-08:00</updated>
+			<updated>2015-02-10T00:00:00+07:00</updated>
 
 			
 				
@@ -1030,14 +1004,14 @@ image:
 				<category term="header" />
 			
 
-			<published>2015-02-10T00:00:00-08:00</published>
+			<published>2015-02-10T00:00:00+07:00</published>
 		</entry>
 	
 		<entry>
 			<id>https://duybl.github.io/hearthstonevn//design/header-logo-only/</id>
 			<title>Header With Logo Only</title>
 			<link href="https://duybl.github.io/hearthstonevn//design/header-logo-only/" rel="alternate" type="text/html" title="Header With Logo Only" />
-			<updated>2014-10-09T00:00:00-07:00</updated>
+			<updated>2014-10-09T00:00:00+07:00</updated>
 
 			
 				
@@ -1093,14 +1067,14 @@ image:
 				<category term="header" />
 			
 
-			<published>2014-10-09T00:00:00-07:00</published>
+			<published>2014-10-09T00:00:00+07:00</published>
 		</entry>
 	
 		<entry>
 			<id>https://duybl.github.io/hearthstonevn//design/header-image-color/</id>
 			<title>Header Image With Background Color</title>
 			<link href="https://duybl.github.io/hearthstonevn//design/header-image-color/" rel="alternate" type="text/html" title="Header Image With Background Color" />
-			<updated>2014-10-09T00:00:00-07:00</updated>
+			<updated>2014-10-09T00:00:00+07:00</updated>
 
 			
 				
@@ -1168,7 +1142,7 @@ image:
 				<category term="header" />
 			
 
-			<published>2014-10-09T00:00:00-07:00</published>
+			<published>2014-10-09T00:00:00+07:00</published>
 		</entry>
 	
 </feed>
