@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 46 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 55 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
-	<loc>https://duybl.github.io/hearthstonevn//404.html</loc>
+	<loc>https://duybl.github.io/hearthstonevn/404.html</loc>
 	
-		<lastmod>2018-08-26T15:14:07+07:00</lastmod>
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -20,58 +20,9 @@
 
 	
 	<url>
-	<loc>https://duybl.github.io/hearthstonevn//Deck/Druid/</loc>
+	<loc>https://duybl.github.io/hearthstonevn/Deck/Druid/</loc>
 	
-		<lastmod>2018-08-26T15:14:07+07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://duybl.github.io/hearthstonevn//blog/archive/</loc>
-	
-		<lastmod>2018-08-26T15:14:07+07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-	<url>
-	<loc>https://duybl.github.io/hearthstonevn//atom.xml</loc>
-	
-		<lastmod>2018-08-26T15:14:07+07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-	<url>
-	<loc>https://duybl.github.io/hearthstonevn//set/basic/</loc>
-	
-		<lastmod>2018-08-26T15:14:07+07:00</lastmod>
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -84,24 +35,9 @@
 
 	
 	<url>
-	<loc>https://duybl.github.io/hearthstonevn//set/blackrock/</loc>
+	<loc>https://duybl.github.io/hearthstonevn/Deck/Hunter/</loc>
 	
-		<lastmod>2018-08-26T15:14:07+07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://duybl.github.io/hearthstonevn//set/boomsday/</loc>
-	
-		<lastmod>2018-08-26T15:14:07+07:00</lastmod>
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -114,24 +50,9 @@
 
 	
 	<url>
-	<loc>https://duybl.github.io/hearthstonevn//changelog/</loc>
+	<loc>https://duybl.github.io/hearthstonevn/Deck/Mage/</loc>
 	
-		<lastmod>2018-08-26T15:14:07+07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://duybl.github.io/hearthstonevn//set/classic/</loc>
-	
-		<lastmod>2018-08-26T15:14:07+07:00</lastmod>
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -144,24 +65,9 @@
 
 	
 	<url>
-	<loc>https://duybl.github.io/hearthstonevn//contact/</loc>
+	<loc>https://duybl.github.io/hearthstonevn/Deck/Paladin/</loc>
 	
-		<lastmod>2018-08-26T15:14:07+07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://duybl.github.io/hearthstonevn//deckstring/</loc>
-	
-		<lastmod>2018-08-26T15:14:07+07:00</lastmod>
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -174,24 +80,9 @@
 
 	
 	<url>
-	<loc>https://duybl.github.io/hearthstonevn//design/</loc>
+	<loc>https://duybl.github.io/hearthstonevn/Deck/Priest/</loc>
 	
-		<lastmod>2018-08-26T15:14:07+07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://duybl.github.io/hearthstonevn//documentation/</loc>
-	
-		<lastmod>2018-08-26T15:14:07+07:00</lastmod>
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -204,24 +95,9 @@
 
 	
 	<url>
-	<loc>https://duybl.github.io/hearthstonevn//feed.xml</loc>
+	<loc>https://duybl.github.io/hearthstonevn/Deck/Rogue/</loc>
 	
-		<lastmod>2018-08-26T15:14:07+07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://duybl.github.io/hearthstonevn//set/frozenthrone/</loc>
-	
-		<lastmod>2018-08-26T15:14:07+07:00</lastmod>
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -234,24 +110,9 @@
 
 	
 	<url>
-	<loc>https://duybl.github.io/hearthstonevn//getting-started/</loc>
+	<loc>https://duybl.github.io/hearthstonevn/Deck/Shaman/</loc>
 	
-		<lastmod>2018-08-26T15:14:07+07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://duybl.github.io/hearthstonevn//set/grandtournament/</loc>
-	
-		<lastmod>2018-08-26T15:14:07+07:00</lastmod>
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -264,24 +125,9 @@
 
 	
 	<url>
-	<loc>https://duybl.github.io/hearthstonevn//set/gvg/</loc>
+	<loc>https://duybl.github.io/hearthstonevn/Deck/Warlock/</loc>
 	
-		<lastmod>2018-08-26T15:14:07+07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://duybl.github.io/hearthstonevn//set/halloffame/</loc>
-	
-		<lastmod>2018-08-26T15:14:07+07:00</lastmod>
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -294,24 +140,9 @@
 
 	
 	<url>
-	<loc>https://duybl.github.io/hearthstonevn//headers/</loc>
+	<loc>https://duybl.github.io/hearthstonevn/Deck/Warrior/</loc>
 	
-		<lastmod>2018-08-26T15:14:07+07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://duybl.github.io/hearthstonevn//humans.txt</loc>
-	
-		<lastmod>2018-08-26T15:14:07+07:00</lastmod>
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -324,193 +155,9 @@
 
 	
 	<url>
-	<loc>https://duybl.github.io/hearthstonevn//blog/</loc>
+	<loc>https://duybl.github.io/hearthstonevn/blog/archive/</loc>
 	
-		<lastmod>2018-08-26T15:14:07+07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://duybl.github.io/hearthstonevn//</loc>
-	
-		<lastmod>2018-08-26T15:14:07+07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://duybl.github.io/hearthstonevn//info/</loc>
-	
-		<lastmod>2018-08-26T15:14:07+07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://duybl.github.io/hearthstonevn//set/journeyungoro/</loc>
-	
-		<lastmod>2018-08-26T15:14:07+07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://duybl.github.io/hearthstonevn//set/kandc/</loc>
-	
-		<lastmod>2018-08-26T15:14:07+07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://duybl.github.io/hearthstonevn//set/leagueexplorers/</loc>
-	
-		<lastmod>2018-08-26T15:14:07+07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://duybl.github.io/hearthstonevn//set/meanstreet/</loc>
-	
-		<lastmod>2018-08-26T15:14:07+07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://duybl.github.io/hearthstonevn//set/nightkarazhan/</loc>
-	
-		<lastmod>2018-08-26T15:14:07+07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://duybl.github.io/hearthstonevn//redirect-page/</loc>
-	
-		<lastmod>2018-08-26T15:14:07+07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://duybl.github.io/hearthstonevn//roadmap/</loc>
-	
-		<lastmod>2018-08-26T15:14:07+07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://duybl.github.io/hearthstonevn//robots.txt</loc>
-	
-		<lastmod>2018-08-26T15:14:07+07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-
-	
-	<url>
-	<loc>https://duybl.github.io/hearthstonevn//search/</loc>
-	
-		<lastmod>2018-08-26T15:14:07+07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://duybl.github.io/hearthstonevn//sitemap.xml</loc>
-	
-		<lastmod>2018-08-26T15:14:07+07:00</lastmod>
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -525,9 +172,26 @@
 
 	
 	<url>
-	<loc>https://duybl.github.io/hearthstonevn//tut/</loc>
+	<loc>https://duybl.github.io/hearthstonevn/atom.xml</loc>
 	
-		<lastmod>2018-08-26T15:14:07+07:00</lastmod>
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/set/basic/</loc>
+	
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -540,24 +204,9 @@
 
 	
 	<url>
-	<loc>https://duybl.github.io/hearthstonevn//set/whispergod/</loc>
+	<loc>https://duybl.github.io/hearthstonevn/set/blackrock/</loc>
 	
-		<lastmod>2018-08-26T15:14:07+07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://duybl.github.io/hearthstonevn//set/witchwood/</loc>
-	
-		<lastmod>2018-08-26T15:14:07+07:00</lastmod>
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -570,24 +219,9 @@
 
 	
 	<url>
-	<loc>https://duybl.github.io/hearthstonevn//blog/page2/</loc>
+	<loc>https://duybl.github.io/hearthstonevn/set/boomsday/</loc>
 	
-		<lastmod>2018-08-26T15:14:07+07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://duybl.github.io/hearthstonevn//blog/page3/</loc>
-	
-		<lastmod>2018-08-26T15:14:07+07:00</lastmod>
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -600,9 +234,9 @@
 
 	
 	<url>
-	<loc>https://duybl.github.io/hearthstonevn//blog/page4/</loc>
+	<loc>https://duybl.github.io/hearthstonevn/changelog/</loc>
 	
-		<lastmod>2018-08-26T15:14:07+07:00</lastmod>
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -615,9 +249,510 @@
 
 	
 	<url>
-	<loc>https://duybl.github.io/hearthstonevn//blog/page5/</loc>
+	<loc>https://duybl.github.io/hearthstonevn/set/classic/</loc>
 	
-		<lastmod>2018-08-26T15:14:07+07:00</lastmod>
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/contact/</loc>
+	
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/deckstring/</loc>
+	
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/design/</loc>
+	
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/documentation/</loc>
+	
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/feed.xml</loc>
+	
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/set/frozenthrone/</loc>
+	
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/getting-started/</loc>
+	
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/set/grandtournament/</loc>
+	
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/set/gvg/</loc>
+	
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/set/halloffame/</loc>
+	
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/headers/</loc>
+	
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/humans.txt</loc>
+	
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/blog/</loc>
+	
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/</loc>
+	
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/info/</loc>
+	
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/set/journeyungoro/</loc>
+	
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/set/kandc/</loc>
+	
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/set/leagueexplorers/</loc>
+	
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/set/meanstreet/</loc>
+	
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/set/nightkarazhan/</loc>
+	
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/redirect-page/</loc>
+	
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/roadmap/</loc>
+	
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/robots.txt</loc>
+	
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/search/</loc>
+	
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/sitemap.xml</loc>
+	
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/tut/</loc>
+	
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/set/whispergod/</loc>
+	
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/set/witchwood/</loc>
+	
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/blog/page2/</loc>
+	
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/blog/page3/</loc>
+	
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/blog/page4/</loc>
+	
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/blog/page5/</loc>
+	
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/blog/page6/</loc>
+	
+		<lastmod>2018-08-26T16:21:39+07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -629,11 +764,131 @@
 	
 
 
-<!-- Posts: 21 links with priority=0.5, changefreq=monthly -->
+<!-- Posts: 28 links with priority=0.5, changefreq=monthly -->
 
 	
 	<url>
-	<loc>https://duybl.github.io/hearthstonevn//druid/meta-druid-deck/</loc>
+	<loc>https://duybl.github.io/hearthstonevn/mage/mage-big-spell-1/</loc>
+	
+		<lastmod>2018-08-26T00:00:00+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/hunter/hunter-spell-1/</loc>
+	
+		<lastmod>2018-08-26T00:00:00+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/hunter/hunter-midrange-1/</loc>
+	
+		<lastmod>2018-08-26T00:00:00+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/hunter/hunter-deathrattle-1/</loc>
+	
+		<lastmod>2018-08-26T00:00:00+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/druid/druid-token-1/</loc>
+	
+		<lastmod>2018-08-26T00:00:00+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/druid/druid-spiteful-1/</loc>
+	
+		<lastmod>2018-08-26T00:00:00+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/druid/druid-mill-1/</loc>
+	
+		<lastmod>2018-08-26T00:00:00+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/druid/druid-malygos-1/</loc>
+	
+		<lastmod>2018-08-26T00:00:00+07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://duybl.github.io/hearthstonevn/druid/druid-togwaggle-1/</loc>
 	
 		<lastmod>2018-08-22T00:00:00+07:00</lastmod>
 	
@@ -648,22 +903,7 @@
 
 	
 	<url>
-	<loc>https://duybl.github.io/hearthstonevn//druid/meta-druid-deck-bk/</loc>
-	
-		<lastmod>2018-08-22T00:00:00+07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://duybl.github.io/hearthstonevn//design/mediaelement_js/</loc>
+	<loc>https://duybl.github.io/hearthstonevn/design/mediaelement_js/</loc>
 	
 		<lastmod>2015-10-15T00:00:00+07:00</lastmod>
 	
@@ -678,7 +918,7 @@
 
 	
 	<url>
-	<loc>https://duybl.github.io/hearthstonevn//design/typography/typography/</loc>
+	<loc>https://duybl.github.io/hearthstonevn/design/typography/typography/</loc>
 	
 		<lastmod>2015-08-16T00:00:00+07:00</lastmod>
 	
@@ -693,7 +933,7 @@
 
 	
 	<url>
-	<loc>https://duybl.github.io/hearthstonevn//design/comments/</loc>
+	<loc>https://duybl.github.io/hearthstonevn/design/comments/</loc>
 	
 		<lastmod>2015-08-15T00:00:00+07:00</lastmod>
 	
@@ -708,7 +948,7 @@
 
 	
 	<url>
-	<loc>https://duybl.github.io/hearthstonevn//design/no-header/</loc>
+	<loc>https://duybl.github.io/hearthstonevn/design/no-header/</loc>
 	
 		<lastmod>2015-08-11T00:00:00+07:00</lastmod>
 	
@@ -723,7 +963,7 @@
 
 	
 	<url>
-	<loc>https://duybl.github.io/hearthstonevn//design/no-header-but-image/</loc>
+	<loc>https://duybl.github.io/hearthstonevn/design/no-header-but-image/</loc>
 	
 		<lastmod>2015-03-12T00:00:00+07:00</lastmod>
 	
@@ -738,7 +978,7 @@
 
 	
 	<url>
-	<loc>https://duybl.github.io/hearthstonevn//design/header-with-text/</loc>
+	<loc>https://duybl.github.io/hearthstonevn/design/header-with-text/</loc>
 	
 		<lastmod>2015-02-10T00:00:00+07:00</lastmod>
 	
@@ -753,7 +993,7 @@
 
 	
 	<url>
-	<loc>https://duybl.github.io/hearthstonevn//design/header-logo-only/</loc>
+	<loc>https://duybl.github.io/hearthstonevn/design/header-logo-only/</loc>
 	
 		<lastmod>2014-10-09T00:00:00+07:00</lastmod>
 	
@@ -768,7 +1008,7 @@
 
 	
 	<url>
-	<loc>https://duybl.github.io/hearthstonevn//design/header-image-color/</loc>
+	<loc>https://duybl.github.io/hearthstonevn/design/header-image-color/</loc>
 	
 		<lastmod>2014-10-09T00:00:00+07:00</lastmod>
 	
@@ -783,7 +1023,7 @@
 
 	
 	<url>
-	<loc>https://duybl.github.io/hearthstonevn//design/header-full-width-image/</loc>
+	<loc>https://duybl.github.io/hearthstonevn/design/header-full-width-image/</loc>
 	
 		<lastmod>2014-10-09T00:00:00+07:00</lastmod>
 	
@@ -798,7 +1038,7 @@
 
 	
 	<url>
-	<loc>https://duybl.github.io/hearthstonevn//design/header-image-pattern/</loc>
+	<loc>https://duybl.github.io/hearthstonevn/design/header-image-pattern/</loc>
 	
 		<lastmod>2014-10-08T00:00:00+07:00</lastmod>
 	
@@ -813,7 +1053,7 @@
 
 	
 	<url>
-	<loc>https://duybl.github.io/hearthstonevn//design/gallery/</loc>
+	<loc>https://duybl.github.io/hearthstonevn/design/gallery/</loc>
 	
 		<lastmod>2014-09-15T00:00:00+07:00</lastmod>
 	
@@ -828,7 +1068,7 @@
 
 	
 	<url>
-	<loc>https://duybl.github.io/hearthstonevn//design/video/</loc>
+	<loc>https://duybl.github.io/hearthstonevn/design/video/</loc>
 	
 		<lastmod>2014-09-14T00:00:00+07:00</lastmod>
 	
@@ -843,7 +1083,7 @@
 
 	
 	<url>
-	<loc>https://duybl.github.io/hearthstonevn//design/grid/</loc>
+	<loc>https://duybl.github.io/hearthstonevn/design/grid/</loc>
 	
 		<lastmod>2014-09-13T00:00:00+07:00</lastmod>
 	
@@ -858,7 +1098,7 @@
 
 	
 	<url>
-	<loc>https://duybl.github.io/hearthstonevn//design/portfolio/</loc>
+	<loc>https://duybl.github.io/hearthstonevn/design/portfolio/</loc>
 	
 		<lastmod>2014-09-10T00:00:00+07:00</lastmod>
 	
@@ -873,7 +1113,7 @@
 
 	
 	<url>
-	<loc>https://duybl.github.io/hearthstonevn//design/page-fullwidth/</loc>
+	<loc>https://duybl.github.io/hearthstonevn/design/page-fullwidth/</loc>
 	
 		<lastmod>2014-08-19T00:00:00+07:00</lastmod>
 	
@@ -888,7 +1128,7 @@
 
 	
 	<url>
-	<loc>https://duybl.github.io/hearthstonevn//design/post-right-sidebar/</loc>
+	<loc>https://duybl.github.io/hearthstonevn/design/post-right-sidebar/</loc>
 	
 		<lastmod>2014-07-10T00:00:00+07:00</lastmod>
 	
@@ -903,7 +1143,7 @@
 
 	
 	<url>
-	<loc>https://duybl.github.io/hearthstonevn//design/page/</loc>
+	<loc>https://duybl.github.io/hearthstonevn/design/page/</loc>
 	
 		<lastmod>2014-07-10T00:00:00+07:00</lastmod>
 	
@@ -918,7 +1158,7 @@
 
 	
 	<url>
-	<loc>https://duybl.github.io/hearthstonevn//design/breadcrumb/</loc>
+	<loc>https://duybl.github.io/hearthstonevn/design/breadcrumb/</loc>
 	
 		<lastmod>2014-07-10T00:00:00+07:00</lastmod>
 	
@@ -933,7 +1173,7 @@
 
 	
 	<url>
-	<loc>https://duybl.github.io/hearthstonevn//design/post-left-sidebar/</loc>
+	<loc>https://duybl.github.io/hearthstonevn/design/post-left-sidebar/</loc>
 	
 		<lastmod>2014-07-09T00:00:00+07:00</lastmod>
 	
