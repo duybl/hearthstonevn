@@ -100,9 +100,17 @@ var decoder = deckDecoder();
 var showDeck = function(text) {
   var _enc = text;
   decoder.decode(_enc).then((deck) => {
-		document.getElementById('type').innerText = deck.type + ' Deck';
-    document.getElementById("hero").innerText = deck.hero.name + ' (' + deck.heroClass + ')';
+		// var typeA = document.getElementsByName('code1');
+		// typeA[0].innerText = deck.type + ' Deck';
+		// console.log(typeA[0].innerText);
+		// typeA[0].contentText = deck.hero.name + ' (' + deck.heroClass + ')';
+		// console.log(typeA[0].contentText);
 
+		document.getElementById('type').innerText = deck.type + ' Deck';
+		// console.log(document.getElementById('type').innerText);
+    document.getElementById("hero").innerText = deck.hero.name + ' (' + deck.heroClass + ')';
+		// console.log(document.getElementById('hero').innerText);
+		//
 		var list = document.getElementById("cards");
     list.innerHTML = "";
     for (var i = 0; i < deck.cards.length; i++) {

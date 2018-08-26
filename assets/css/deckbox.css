@@ -1,5 +1,7 @@
 .deckbox {
-  background-color: #b6f9da;
+  background-color: grey;
+  display: block;
   margin-bottom: 20px;
   width: auto;
+  position: relative;
 }

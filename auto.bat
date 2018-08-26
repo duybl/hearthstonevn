@@ -1,5 +1,5 @@
-.\D:\DL\dev tools\dsynchronize\DSynchronize.exe /START
-pause
+cls
+DSynchronize /START
 cd _site
 git add .
 git commit -m "sth new"
