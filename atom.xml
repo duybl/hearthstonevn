@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://duybl.github.io/hearthstonevn/</id>
 	<title>Hearthstone Việt Nam</title>
-	<updated>2018-08-26T16:21:39+07:00</updated>
+	<updated>2018-08-29T10:07:02+07:00</updated>
 
 	<subtitle>Không việc có gì khó, chỉ sợ bụng không no</subtitle>
 
@@ -28,10 +28,10 @@
 
 	
 		<entry>
-			<id>https://duybl.github.io/hearthstonevn/mage/mage-big-spell-1/</id>
-			<title>Big Spell Mage</title>
-			<link href="https://duybl.github.io/hearthstonevn/mage/mage-big-spell-1/" rel="alternate" type="text/html" title="Big Spell Mage" />
-			<updated>2018-08-26T00:00:00+07:00</updated>
+			<id>https://duybl.github.io/hearthstonevn/warrior/warrior-odd-quest-1/</id>
+			<title>Odd Quest Warrior</title>
+			<link href="https://duybl.github.io/hearthstonevn/warrior/warrior-odd-quest-1/" rel="alternate" type="text/html" title="Odd Quest Warrior" />
+			<updated>2018-08-29T00:00:00+07:00</updated>
 
 			
 				
@@ -45,91 +45,44 @@
 					
 				</author>
 			
-			<summary>Anh chỉ chơi spell nhiều mana, các em lưu ý nhé!!! Đừng để late game với anh nhé!</summary>
-			<content type="html" xml:base="https://duybl.github.io/hearthstonevn/mage/mage-big-spell-1/">
-&lt;div class=&quot;alert-box success &quot;&gt;&lt;p&gt;Big Spell Mage đánh chắc tay, bài aggro vấp phải thì coi như ọp.&lt;/p&gt;
+			<summary>Odd Quest Warrior kết hợp vừa quest vừa odd.</summary>
+			<content type="html" xml:base="https://duybl.github.io/hearthstonevn/warrior/warrior-odd-quest-1/">
+&lt;div class=&quot;alert-box success &quot;&gt;&lt;p&gt;Odd Quest Warrior.&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/decode.js&quot;&gt;&lt;/script&gt;
 
-&lt;script&gt;showDeck(&quot;AAECAf0EBtPFAqDOAsLOApvTApziAqPrAgxNyQPeBewH+wzKwwKWxwKbywLb0wLX4QKW5ALi+AIA&quot;);&lt;/script&gt;
+&lt;script&gt;showDeck(&quot;AAECAQcE08MC08UCnvgCoIADDUuiAqIE3gX/B5vCAsrDAqLHAsrnAqrsAuL4Ao77Ap77AgA=&quot;);&lt;/script&gt;
 
 &lt;div id=&quot;type&quot; style=&quot;letter-spacing: 4px; color: #008CBA; text-align: justify;&quot;&gt;&lt;/div&gt;
 &lt;div id=&quot;hero&quot; style=&quot;letter-spacing: 4px; color: #008CBA; text-align: justify;&quot;&gt;&lt;/div&gt;
 &lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
-&lt;pre&gt;AAECAf0EBtPFAqDOAsLOApvTApziAqPrAgxNyQPeBewH+wzKwwKWxwKbywLb0wLX4QKW5ALi+AIA&lt;/pre&gt;
-&lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAf0EBtPFAqDOAsLOApvTApziAqPrAgxNyQPeBewH+wzKwwKWxwKbywLb0wLX4QKW5ALi+AIA')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
+&lt;pre&gt;AAECAQcE08MC08UCnvgCoIADDUuiAqIE3gX/B5vCAsrDAqLHAsrnAqrsAuL4Ao77Ap77AgA=&lt;/pre&gt;
+&lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAQcE08MC08UCnvgCoIADDUuiAqIE3gX/B5vCAsrDAqLHAsrnAqrsAuL4Ao77Ap77AgA=')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
 
 </content>
 
 			
-				<category term="Mage" />
+				<category term="Warrior" />
 			
 			
-				<category term="Mage" />
+				<category term="Warrior" />
 			
-				<category term="spell" />
+				<category term="odd" />
 			
-				<category term="big spell" />
-			
-
-			<published>2018-08-26T00:00:00+07:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://duybl.github.io/hearthstonevn/hunter/hunter-spell-1/</id>
-			<title>Spell Hunter</title>
-			<link href="https://duybl.github.io/hearthstonevn/hunter/hunter-spell-1/" rel="alternate" type="text/html" title="Spell Hunter" />
-			<updated>2018-08-26T00:00:00+07:00</updated>
-
-			
-				
-				<author>
-					
-						<name>duy</name>
-					
-					
-						<email>binhbet@gmail.com</email>
-					
-					
-				</author>
-			
-			<summary>Deck không có một bài lính nào, toàn sử dụng bài spell, nhưng rất độc.</summary>
-			<content type="html" xml:base="https://duybl.github.io/hearthstonevn/hunter/hunter-spell-1/">
-&lt;div class=&quot;alert-box success &quot;&gt;&lt;p&gt;Spell Hunter đang xếp đầu bảng trong các deck Hunter (update 26-8)&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/decode.js&quot;&gt;&lt;/script&gt;
-
-&lt;script&gt;showDeck(&quot;AAECAR8E6dIChtMC8uoCmPACDagCtQOHBMkElwjFCNsJ/gzd0gLf0gLj0gLh4wLq4wIA&quot;);&lt;/script&gt;
-
-&lt;div id=&quot;type&quot; style=&quot;letter-spacing: 4px; color: #008CBA; text-align: justify;&quot;&gt;&lt;/div&gt;
-&lt;div id=&quot;hero&quot; style=&quot;letter-spacing: 4px; color: #008CBA; text-align: justify;&quot;&gt;&lt;/div&gt;
-&lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
-&lt;pre&gt;AAECAR8E6dIChtMC8uoCmPACDagCtQOHBMkElwjFCNsJ/gzd0gLf0gLj0gLh4wLq4wIA&lt;/pre&gt;
-&lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAR8E6dIChtMC8uoCmPACDagCtQOHBMkElwjFCNsJ/gzd0gLf0gLj0gLh4wLq4wIA')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
-
-</content>
-
-			
-				<category term="Hunter" />
-			
-			
-				<category term="Hunter" />
-			
-				<category term="spell" />
+				<category term="quest" />
 			
 				<category term="control" />
 			
 
-			<published>2018-08-26T00:00:00+07:00</published>
+			<published>2018-08-29T00:00:00+07:00</published>
 		</entry>
 	
 		<entry>
-			<id>https://duybl.github.io/hearthstonevn/hunter/hunter-midrange-1/</id>
-			<title>Midrange Hunter</title>
-			<link href="https://duybl.github.io/hearthstonevn/hunter/hunter-midrange-1/" rel="alternate" type="text/html" title="Midrange Hunter" />
-			<updated>2018-08-26T00:00:00+07:00</updated>
+			<id>https://duybl.github.io/hearthstonevn/warrior/warrior-odd-1/</id>
+			<title>Odd Warrior</title>
+			<link href="https://duybl.github.io/hearthstonevn/warrior/warrior-odd-1/" rel="alternate" type="text/html" title="Odd Warrior" />
+			<updated>2018-08-29T00:00:00+07:00</updated>
 
 			
 				
@@ -143,42 +96,285 @@
 					
 				</author>
 			
-			<summary>Deck kết hợp giữa secret, aggro, control và spell, thường khiến đối phương khó lòng nhận ra Hunter đang chơi bài gì. Đến lúc nhận ra thì máu dưới 0 rồi.</summary>
-			<content type="html" xml:base="https://duybl.github.io/hearthstonevn/hunter/hunter-midrange-1/">
-&lt;div class=&quot;alert-box success &quot;&gt;&lt;p&gt;Midrange Hunter&lt;/p&gt;
+			<summary>Odd Warrior.</summary>
+			<content type="html" xml:base="https://duybl.github.io/hearthstonevn/warrior/warrior-odd-1/">
+&lt;div class=&quot;alert-box success &quot;&gt;&lt;p&gt;Odd Warrior.&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/decode.js&quot;&gt;&lt;/script&gt;
 
-&lt;script&gt;showDeck(&quot;AAECAR8IxwOHBMkEncwChtMCy+wCmPACp4IDC54BqAK1A+sHlwj+DI7DAt3SAt/SAuPSAovlAgA=&quot;);&lt;/script&gt;
+&lt;script&gt;showDeck(&quot;AAECAQcMogKqBvkM08UCz8cCmu4Cze8CnfACkvgCnvgCjvsCoIADCUuiBP8Hm8ICyucC4vgCg/sCnvsCs/wCAA==&quot;);&lt;/script&gt;
 
 &lt;div id=&quot;type&quot; style=&quot;letter-spacing: 4px; color: #008CBA; text-align: justify;&quot;&gt;&lt;/div&gt;
 &lt;div id=&quot;hero&quot; style=&quot;letter-spacing: 4px; color: #008CBA; text-align: justify;&quot;&gt;&lt;/div&gt;
 &lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
-&lt;pre&gt;AAECAR8IxwOHBMkEncwChtMCy+wCmPACp4IDC54BqAK1A+sHlwj+DI7DAt3SAt/SAuPSAovlAgA=&lt;/pre&gt;
-&lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAR8IxwOHBMkEncwChtMCy+wCmPACp4IDC54BqAK1A+sHlwj+DI7DAt3SAt/SAuPSAovlAgA=')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
+&lt;pre&gt;AAECAQcMogKqBvkM08UCz8cCmu4Cze8CnfACkvgCnvgCjvsCoIADCUuiBP8Hm8ICyucC4vgCg/sCnvsCs/wCAA==&lt;/pre&gt;
+&lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAQcMogKqBvkM08UCz8cCmu4Cze8CnfACkvgCnvgCjvsCoIADCUuiBP8Hm8ICyucC4vgCg/sCnvsCs/wCAA==')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
 
 </content>
 
 			
-				<category term="Hunter" />
+				<category term="Warrior" />
 			
 			
-				<category term="Hunter" />
+				<category term="Warrior" />
+			
+				<category term="odd" />
+			
+				<category term="control" />
+			
+
+			<published>2018-08-29T00:00:00+07:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://duybl.github.io/hearthstonevn/warrior/warrior-control-1/</id>
+			<title>Control Warrior</title>
+			<link href="https://duybl.github.io/hearthstonevn/warrior/warrior-control-1/" rel="alternate" type="text/html" title="Control Warrior" />
+			<updated>2018-08-29T00:00:00+07:00</updated>
+
+			
+				
+				<author>
+					
+						<name>duy</name>
+					
+					
+						<email>binhbet@gmail.com</email>
+					
+					
+				</author>
+			
+			<summary>Control Warrior.</summary>
+			<content type="html" xml:base="https://duybl.github.io/hearthstonevn/warrior/warrior-control-1/">
+&lt;div class=&quot;alert-box success &quot;&gt;&lt;p&gt;Control Warrior.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/decode.js&quot;&gt;&lt;/script&gt;
+
+&lt;script&gt;showDeck(&quot;AAECAQcGws4C6uoCmu4Cm/MCkvgCoIADDEuKAaIEkQayCPsMzM0C8dMCz+cC4vgCg/sCnvsCAA==&quot;);&lt;/script&gt;
+
+&lt;div id=&quot;type&quot; style=&quot;letter-spacing: 4px; color: #008CBA; text-align: justify;&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;hero&quot; style=&quot;letter-spacing: 4px; color: #008CBA; text-align: justify;&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
+&lt;pre&gt;AAECAQcGws4C6uoCmu4Cm/MCkvgCoIADDEuKAaIEkQayCPsMzM0C8dMCz+cC4vgCg/sCnvsCAA==&lt;/pre&gt;
+&lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAQcGws4C6uoCmu4Cm/MCkvgCoIADDEuKAaIEkQayCPsMzM0C8dMCz+cC4vgCg/sCnvsCAA==')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
+
+</content>
+
+			
+				<category term="Warrior" />
+			
+			
+				<category term="Warrior" />
+			
+				<category term="control" />
+			
+
+			<published>2018-08-29T00:00:00+07:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://duybl.github.io/hearthstonevn/warlock/warlock-zoo-1/</id>
+			<title>Zoo Warlock</title>
+			<link href="https://duybl.github.io/hearthstonevn/warlock/warlock-zoo-1/" rel="alternate" type="text/html" title="Zoo Warlock" />
+			<updated>2018-08-29T00:00:00+07:00</updated>
+
+			
+				
+				<author>
+					
+						<name>duy</name>
+					
+					
+						<email>binhbet@gmail.com</email>
+					
+					
+				</author>
+			
+			<summary>Zoo Warlock rất rất aggro.</summary>
+			<content type="html" xml:base="https://duybl.github.io/hearthstonevn/warlock/warlock-zoo-1/">
+&lt;div class=&quot;alert-box success &quot;&gt;&lt;p&gt;Zoo Warlock&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/decode.js&quot;&gt;&lt;/script&gt;
+
+&lt;script&gt;showDeck(&quot;AAECAf0GBK8E3gXyBZziAg0whAHOB8II9wzKwwKbywL3zQKfzgLy0ALR4QKH6ALv8QIA&quot;);&lt;/script&gt;
+
+&lt;div id=&quot;type&quot; style=&quot;letter-spacing: 4px; color: #008CBA; text-align: justify;&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;hero&quot; style=&quot;letter-spacing: 4px; color: #008CBA; text-align: justify;&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
+&lt;pre&gt;AAECAf0GBK8E3gXyBZziAg0whAHOB8II9wzKwwKbywL3zQKfzgLy0ALR4QKH6ALv8QIA&lt;/pre&gt;
+&lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAf0GBK8E3gXyBZziAg0whAHOB8II9wzKwwKbywL3zQKfzgLy0ALR4QKH6ALv8QIA')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
+
+</content>
+
+			
+				<category term="Warlock" />
+			
+			
+				<category term="Warlock" />
+			
+				<category term="Zoo" />
+			
+				<category term="aggro" />
+			
+
+			<published>2018-08-29T00:00:00+07:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://duybl.github.io/hearthstonevn/warlock/warlock-even-1/</id>
+			<title>Even Warlock</title>
+			<link href="https://duybl.github.io/hearthstonevn/warlock/warlock-even-1/" rel="alternate" type="text/html" title="Even Warlock" />
+			<updated>2018-08-29T00:00:00+07:00</updated>
+
+			
+				
+				<author>
+					
+						<name>duy</name>
+					
+					
+						<email>binhbet@gmail.com</email>
+					
+					
+				</author>
+			
+			<summary>Even Warlock.</summary>
+			<content type="html" xml:base="https://duybl.github.io/hearthstonevn/warlock/warlock-even-1/">
+&lt;div class=&quot;alert-box success &quot;&gt;&lt;p&gt;Even Warlock&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/decode.js&quot;&gt;&lt;/script&gt;
+
+&lt;script&gt;showDeck(&quot;AAECAf0GCIoH+wfMCPgMws4Cl9MC6uYCzfQCC/IF+wa2B+EHjQjmwgLnywLx0AL90AKI0gLY5QIA&quot;);&lt;/script&gt;
+
+&lt;div id=&quot;type&quot; style=&quot;letter-spacing: 4px; color: #008CBA; text-align: justify;&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;hero&quot; style=&quot;letter-spacing: 4px; color: #008CBA; text-align: justify;&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
+&lt;pre&gt;AAECAf0GCIoH+wfMCPgMws4Cl9MC6uYCzfQCC/IF+wa2B+EHjQjmwgLnywLx0AL90AKI0gLY5QIA&lt;/pre&gt;
+&lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAf0GCIoH+wfMCPgMws4Cl9MC6uYCzfQCC/IF+wa2B+EHjQjmwgLnywLx0AL90AKI0gLY5QIA')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
+
+</content>
+
+			
+				<category term="Warlock" />
+			
+			
+				<category term="Warlock" />
+			
+				<category term="even" />
+			
+				<category term="control" />
+			
+
+			<published>2018-08-29T00:00:00+07:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://duybl.github.io/hearthstonevn/shaman/shaman-shuddlewock-1/</id>
+			<title>Shudderwock Shaman</title>
+			<link href="https://duybl.github.io/hearthstonevn/shaman/shaman-shuddlewock-1/" rel="alternate" type="text/html" title="Shudderwock Shaman" />
+			<updated>2018-08-29T00:00:00+07:00</updated>
+
+			
+				
+				<author>
+					
+						<name>duy</name>
+					
+					
+						<email>binhbet@gmail.com</email>
+					
+					
+				</author>
+			
+			<summary>Shudderwock Shaman.</summary>
+			<content type="html" xml:base="https://duybl.github.io/hearthstonevn/shaman/shaman-shuddlewock-1/">&lt;h1 id=&quot;to-use-this-deck-copy-it-to-your-clipboard-and-create-a-new-deck-in-hearthstone&quot;&gt;To use this deck, copy it to your clipboard and create a new deck in Hearthstone&lt;/h1&gt;
+&lt;h1 id=&quot;find-this-deck-on-httpshsreplaynetdeckscori60tetoqmnwpx7hu55f&quot;&gt;Find this deck on https://hsreplay.net/decks/CoRI60teToqMNWpx7HU55f/&lt;/h1&gt;
+
+&lt;div class=&quot;alert-box success &quot;&gt;&lt;p&gt;Shudderwock Shaman.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/decode.js&quot;&gt;&lt;/script&gt;
+
+&lt;script&gt;showDeck(&quot;AAECAaoIBtPFApziAqvnAsPqAqfuAu/3AgyBBPUE3gX+Bf8Fsgb7DJfBAsfBApvLAvPnAu/xAgA=&quot;);&lt;/script&gt;
+
+&lt;div id=&quot;type&quot; style=&quot;letter-spacing: 4px; color: #008CBA; text-align: justify;&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;hero&quot; style=&quot;letter-spacing: 4px; color: #008CBA; text-align: justify;&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
+&lt;pre&gt;AAECAaoIBtPFApziAqvnAsPqAqfuAu/3AgyBBPUE3gX+Bf8Fsgb7DJfBAsfBApvLAvPnAu/xAgA=&lt;/pre&gt;
+&lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAaoIBtPFApziAqvnAsPqAqfuAu/3AgyBBPUE3gX+Bf8Fsgb7DJfBAsfBApvLAvPnAu/xAgA=')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
+
+</content>
+
+			
+				<category term="Shaman" />
+			
+			
+				<category term="Shaman" />
+			
+				<category term="Shudderwock" />
+			
+				<category term="control" />
+			
+
+			<published>2018-08-29T00:00:00+07:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://duybl.github.io/hearthstonevn/shaman/shaman-midrange-1/</id>
+			<title>Midrange Shaman</title>
+			<link href="https://duybl.github.io/hearthstonevn/shaman/shaman-midrange-1/" rel="alternate" type="text/html" title="Midrange Shaman" />
+			<updated>2018-08-29T00:00:00+07:00</updated>
+
+			
+				
+				<author>
+					
+						<name>duy</name>
+					
+					
+						<email>binhbet@gmail.com</email>
+					
+					
+				</author>
+			
+			<summary>Midrange Shaman.</summary>
+			<content type="html" xml:base="https://duybl.github.io/hearthstonevn/shaman/shaman-midrange-1/">
+&lt;div class=&quot;alert-box success &quot;&gt;&lt;p&gt;Midrange Shaman.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/decode.js&quot;&gt;&lt;/script&gt;
+
+&lt;script&gt;showDeck(&quot;AAECAaoICoEEsgaTCfPCAsLOApziAqfuAu/3Aur6Apn7Agq9AfUE/gWXwQLrwgLKwwKbywLR4QLi+AKc/wIA&quot;);&lt;/script&gt;
+
+&lt;div id=&quot;type&quot; style=&quot;letter-spacing: 4px; color: #008CBA; text-align: justify;&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;hero&quot; style=&quot;letter-spacing: 4px; color: #008CBA; text-align: justify;&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
+&lt;pre&gt;AAECAaoICoEEsgaTCfPCAsLOApziAqfuAu/3Aur6Apn7Agq9AfUE/gWXwQLrwgLKwwKbywLR4QLi+AKc/wIA&lt;/pre&gt;
+&lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAaoICoEEsgaTCfPCAsLOApziAqfuAu/3Aur6Apn7Agq9AfUE/gWXwQLrwgLKwwKbywLR4QLi+AKc/wIA')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
+
+</content>
+
+			
+				<category term="Shaman" />
+			
+			
+				<category term="Shaman" />
 			
 				<category term="midrange" />
 			
-				<category term="control" />
-			
 
-			<published>2018-08-26T00:00:00+07:00</published>
+			<published>2018-08-29T00:00:00+07:00</published>
 		</entry>
 	
 		<entry>
-			<id>https://duybl.github.io/hearthstonevn/hunter/hunter-deathrattle-1/</id>
-			<title>Deathrattle Hunter</title>
-			<link href="https://duybl.github.io/hearthstonevn/hunter/hunter-deathrattle-1/" rel="alternate" type="text/html" title="Deathrattle Hunter" />
-			<updated>2018-08-26T00:00:00+07:00</updated>
+			<id>https://duybl.github.io/hearthstonevn/shaman/shaman-even-1/</id>
+			<title>Even Shaman</title>
+			<link href="https://duybl.github.io/hearthstonevn/shaman/shaman-even-1/" rel="alternate" type="text/html" title="Even Shaman" />
+			<updated>2018-08-29T00:00:00+07:00</updated>
 
 			
 				
@@ -192,42 +388,42 @@
 					
 				</author>
 			
-			<summary>Chết chưa phải là hết, deathrattle là thế. Deathrattle Hunter mạnh hơn các deck deathrattle khác ở thời điểm hiện tại.</summary>
-			<content type="html" xml:base="https://duybl.github.io/hearthstonevn/hunter/hunter-deathrattle-1/">
-&lt;div class=&quot;alert-box success &quot;&gt;&lt;p&gt;Deathrattle Hunter cũng không thua kém Spell Hunter là mấy rất phổ biến trong leo rank&lt;/p&gt;
+			<summary>Even Shaman rất rất rất aggro.</summary>
+			<content type="html" xml:base="https://duybl.github.io/hearthstonevn/shaman/shaman-even-1/">
+&lt;div class=&quot;alert-box success &quot;&gt;&lt;p&gt;Even Shaman.&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/decode.js&quot;&gt;&lt;/script&gt;
 
-&lt;script&gt;showDeck(&quot;AAECAR8K+AjtCdPFAobTApziArbqAv3qAsvsAoDzAuL4AgqNAZcIq8IC2MICnM0C3dICi+EC4eMC8vECufgCAA==&quot;);&lt;/script&gt;
+&lt;script&gt;showDeck(&quot;AAECAaoIBiCZAsLOAvbsAqfuAs30Agy9AdMB/gXZB/AHsQiRwQKswgKbywKW6AKU7wKw8AIA&quot;);&lt;/script&gt;
 
 &lt;div id=&quot;type&quot; style=&quot;letter-spacing: 4px; color: #008CBA; text-align: justify;&quot;&gt;&lt;/div&gt;
 &lt;div id=&quot;hero&quot; style=&quot;letter-spacing: 4px; color: #008CBA; text-align: justify;&quot;&gt;&lt;/div&gt;
 &lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
-&lt;pre&gt;AAECAR8K+AjtCdPFAobTApziArbqAv3qAsvsAoDzAuL4AgqNAZcIq8IC2MICnM0C3dICi+EC4eMC8vECufgCAA==&lt;/pre&gt;
-&lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAR8K+AjtCdPFAobTApziArbqAv3qAsvsAoDzAuL4AgqNAZcIq8IC2MICnM0C3dICi+EC4eMC8vECufgCAA==')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
+&lt;pre&gt;AAECAaoIBiCZAsLOAvbsAqfuAs30Agy9AdMB/gXZB/AHsQiRwQKswgKbywKW6AKU7wKw8AIA&lt;/pre&gt;
+&lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAaoIBiCZAsLOAvbsAqfuAs30Agy9AdMB/gXZB/AHsQiRwQKswgKbywKW6AKU7wKw8AIA')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
 
 </content>
 
 			
-				<category term="Hunter" />
+				<category term="Shaman" />
 			
 			
-				<category term="Hunter" />
+				<category term="Shaman" />
 			
-				<category term="deathrattle" />
+				<category term="even" />
 			
-				<category term="control" />
+				<category term="aggro" />
 			
 
-			<published>2018-08-26T00:00:00+07:00</published>
+			<published>2018-08-29T00:00:00+07:00</published>
 		</entry>
 	
 		<entry>
-			<id>https://duybl.github.io/hearthstonevn/druid/druid-token-1/</id>
-			<title>Druid Token</title>
-			<link href="https://duybl.github.io/hearthstonevn/druid/druid-token-1/" rel="alternate" type="text/html" title="Druid Token" />
-			<updated>2018-08-26T00:00:00+07:00</updated>
+			<id>https://duybl.github.io/hearthstonevn/rogue/rogue-tempo-1/</id>
+			<title>Tempo Rogue</title>
+			<link href="https://duybl.github.io/hearthstonevn/rogue/rogue-tempo-1/" rel="alternate" type="text/html" title="Tempo Rogue" />
+			<updated>2018-08-29T00:00:00+07:00</updated>
 
 			
 				
@@ -241,42 +437,40 @@
 					
 				</author>
 			
-			<summary>Druid chơi dạng kiểm soát board (control board). Deck này game thủ Quatro sử dụng đến rank 90 hạng legend.</summary>
-			<content type="html" xml:base="https://duybl.github.io/hearthstonevn/druid/druid-token-1/">
-&lt;div class=&quot;alert-box success &quot;&gt;&lt;p&gt;BOOMSDAY LEGEND TOKEN DRUID – #90 (QUATRO)&lt;/p&gt;
+			<summary>Tempo Rogue rất truyền thống nhưng hiệu quả cao.</summary>
+			<content type="html" xml:base="https://duybl.github.io/hearthstonevn/rogue/rogue-tempo-1/">
+&lt;div class=&quot;alert-box success &quot;&gt;&lt;p&gt;Tempo Rogue.&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/decode.js&quot;&gt;&lt;/script&gt;
 
-&lt;script&gt;showDeck(&quot;AAECAZICBkCKB5vLAp7SApnTAvX8Agxf/QL3A+YF5AigzQKHzgKO0AKY0gLb0wLX7wLi+AIA&quot;);&lt;/script&gt;
+&lt;script&gt;showDeck(&quot;AAECAaIHArICrwQOtAGMAs0DvQT2BJsFiAfdCIYJgcIC68IC3NEC2+MCpu8CAA==&quot;);&lt;/script&gt;
 
 &lt;div id=&quot;type&quot; style=&quot;letter-spacing: 4px; color: #008CBA; text-align: justify;&quot;&gt;&lt;/div&gt;
 &lt;div id=&quot;hero&quot; style=&quot;letter-spacing: 4px; color: #008CBA; text-align: justify;&quot;&gt;&lt;/div&gt;
 &lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
-&lt;pre&gt;AAECAZICBkCKB5vLAp7SApnTAvX8Agxf/QL3A+YF5AigzQKHzgKO0AKY0gLb0wLX7wLi+AIA&lt;/pre&gt;
-&lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAZICBkCKB5vLAp7SApnTAvX8Agxf/QL3A+YF5AigzQKHzgKO0AKY0gLb0wLX7wLi+AIA')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
+&lt;pre&gt;AAECAaIHArICrwQOtAGMAs0DvQT2BJsFiAfdCIYJgcIC68IC3NEC2+MCpu8CAA==&lt;/pre&gt;
+&lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAaIHArICrwQOtAGMAs0DvQT2BJsFiAfdCIYJgcIC68IC3NEC2+MCpu8CAA==')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
 
 </content>
 
 			
-				<category term="Druid" />
+				<category term="Rogue" />
 			
 			
-				<category term="Druid" />
+				<category term="Rogue" />
 			
-				<category term="token" />
-			
-				<category term="control" />
+				<category term="tempo" />
 			
 
-			<published>2018-08-26T00:00:00+07:00</published>
+			<published>2018-08-29T00:00:00+07:00</published>
 		</entry>
 	
 		<entry>
-			<id>https://duybl.github.io/hearthstonevn/druid/druid-spiteful-1/</id>
-			<title>Druid Spiteful</title>
-			<link href="https://duybl.github.io/hearthstonevn/druid/druid-spiteful-1/" rel="alternate" type="text/html" title="Druid Spiteful" />
-			<updated>2018-08-26T00:00:00+07:00</updated>
+			<id>https://duybl.github.io/hearthstonevn/rogue/rogue-pogo-1/</id>
+			<title>Pogo Rogue</title>
+			<link href="https://duybl.github.io/hearthstonevn/rogue/rogue-pogo-1/" rel="alternate" type="text/html" title="Pogo Rogue" />
+			<updated>2018-08-29T00:00:00+07:00</updated>
 
 			
 				
@@ -290,246 +484,35 @@
 					
 				</author>
 			
-			<summary>Druid Spiteful sẽ khiến mấy deck control rất khổ sở, cho dù card Spiteful đã bị Blizzard làm giảm sức mạnh.</summary>
-			<content type="html" xml:base="https://duybl.github.io/hearthstonevn/druid/druid-spiteful-1/">
-&lt;div class=&quot;alert-box success &quot;&gt;&lt;p&gt;Spiteful DRUID&lt;/p&gt;
+			<summary>Pogo Rogue có lối chơi vui và hay.</summary>
+			<content type="html" xml:base="https://duybl.github.io/hearthstonevn/rogue/rogue-pogo-1/">
+&lt;div class=&quot;alert-box success &quot;&gt;&lt;p&gt;Pogo Rogue.&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/decode.js&quot;&gt;&lt;/script&gt;
 
-&lt;script&gt;showDeck(&quot;AAECAZICBq8ErMICyssCmdMCnOIC0OcCDN4F8gWXwQLrwgKbywKHzgKR0ALR4QKL5QL55gLX6wKL7gIA&quot;);&lt;/script&gt;
+&lt;script&gt;showDeck(&quot;AAECAaIHBvYEgNMCz+ECw+oC5/oCoIADDLQBxAHtAs0DmwWIB4YJ0OMC2+MC4vgC1/oC4PoCAA==&quot;);&lt;/script&gt;
 
 &lt;div id=&quot;type&quot; style=&quot;letter-spacing: 4px; color: #008CBA; text-align: justify;&quot;&gt;&lt;/div&gt;
 &lt;div id=&quot;hero&quot; style=&quot;letter-spacing: 4px; color: #008CBA; text-align: justify;&quot;&gt;&lt;/div&gt;
 &lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
-&lt;pre&gt;AAECAZICBq8ErMICyssCmdMCnOIC0OcCDN4F8gWXwQLrwgKbywKHzgKR0ALR4QKL5QL55gLX6wKL7gIA&lt;/pre&gt;
-&lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAZICBq8ErMICyssCmdMCnOIC0OcCDN4F8gWXwQLrwgKbywKHzgKR0ALR4QKL5QL55gLX6wKL7gIA')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
+&lt;pre&gt;AAECAaIHBvYEgNMCz+ECw+oC5/oCoIADDLQBxAHtAs0DmwWIB4YJ0OMC2+MC4vgC1/oC4PoCAA==&lt;/pre&gt;
+&lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAaIHBvYEgNMCz+ECw+oC5/oCoIADDLQBxAHtAs0DmwWIB4YJ0OMC2+MC4vgC1/oC4PoCAA==')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
 
 </content>
 
 			
-				<category term="Druid" />
+				<category term="Rogue" />
 			
 			
-				<category term="Druid" />
+				<category term="Rogue" />
 			
-				<category term="Spiteful" />
+				<category term="Pogo" />
 			
 				<category term="control" />
 			
 
-			<published>2018-08-26T00:00:00+07:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://duybl.github.io/hearthstonevn/druid/druid-mill-1/</id>
-			<title>Druid Mill</title>
-			<link href="https://duybl.github.io/hearthstonevn/druid/druid-mill-1/" rel="alternate" type="text/html" title="Druid Mill" />
-			<updated>2018-08-26T00:00:00+07:00</updated>
-
-			
-				
-				<author>
-					
-						<name>duy</name>
-					
-					
-						<email>binhbet@gmail.com</email>
-					
-					
-				</author>
-			
-			<summary>Mill là dạng chơi đốt bài đối phương. Mill Druid không phải dễ chơi nhưng rất hiệu quả khi đối đầu với các deck control.</summary>
-			<content type="html" xml:base="https://duybl.github.io/hearthstonevn/druid/druid-mill-1/">
-&lt;div class=&quot;alert-box success &quot;&gt;&lt;p&gt;Milling mill&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/decode.js&quot;&gt;&lt;/script&gt;
-
-&lt;script&gt;showDeck(&quot;AAECAZICBpnTApvoAv3rApruAuL4AuT7AgxAX+kB5AigzQKHzgKU0gKY0gKe0gLb0wKE5gK/8gIA&quot;);&lt;/script&gt;
-
-&lt;div id=&quot;type&quot; style=&quot;letter-spacing: 4px; color: #008CBA; text-align: justify;&quot;&gt;&lt;/div&gt;
-&lt;div id=&quot;hero&quot; style=&quot;letter-spacing: 4px; color: #008CBA; text-align: justify;&quot;&gt;&lt;/div&gt;
-&lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
-&lt;pre&gt;AAECAZICBpnTApvoAv3rApruAuL4AuT7AgxAX+kB5AigzQKHzgKU0gKY0gKe0gLb0wKE5gK/8gIA&lt;/pre&gt;
-&lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAZICBpnTApvoAv3rApruAuL4AuT7AgxAX+kB5AigzQKHzgKU0gKY0gKe0gLb0wKE5gK/8gIA')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
-
-</content>
-
-			
-				<category term="Druid" />
-			
-			
-				<category term="Druid" />
-			
-				<category term="mill" />
-			
-				<category term="control" />
-			
-
-			<published>2018-08-26T00:00:00+07:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://duybl.github.io/hearthstonevn/druid/druid-malygos-1/</id>
-			<title>Malygos Druid</title>
-			<link href="https://duybl.github.io/hearthstonevn/druid/druid-malygos-1/" rel="alternate" type="text/html" title="Malygos Druid" />
-			<updated>2018-08-26T00:00:00+07:00</updated>
-
-			
-				
-				<author>
-					
-						<name>duy</name>
-					
-					
-						<email>binhbet@gmail.com</email>
-					
-					
-				</author>
-			
-			<summary>Malygos Druid có thể xem là dạng chơi OTK (One Time Killing), đơn giản là một phát chết luôn. Deck dựa trên lá bài Malygos thần thánh.</summary>
-			<content type="html" xml:base="https://duybl.github.io/hearthstonevn/druid/druid-malygos-1/">
-&lt;div class=&quot;alert-box success &quot;&gt;&lt;p&gt;Malygos DRUID&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/decode.js&quot;&gt;&lt;/script&gt;
-
-&lt;script&gt;showDeck(&quot;AAECAZICBrQDxQSZ0wKb6ALi+AL1/AIMQF/pAdMD3gXkCKDNAofOApjSAp7SAtvTAr/yAgA=&quot;);&lt;/script&gt;
-
-&lt;div id=&quot;type&quot; style=&quot;letter-spacing: 4px; color: #008CBA; text-align: justify;&quot;&gt;&lt;/div&gt;
-&lt;div id=&quot;hero&quot; style=&quot;letter-spacing: 4px; color: #008CBA; text-align: justify;&quot;&gt;&lt;/div&gt;
-&lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
-&lt;pre&gt;AAECAZICBrQDxQSZ0wKb6ALi+AL1/AIMQF/pAdMD3gXkCKDNAofOApjSAp7SAtvTAr/yAgA=&lt;/pre&gt;
-&lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAZICBrQDxQSZ0wKb6ALi+AL1/AIMQF/pAdMD3gXkCKDNAofOApjSAp7SAtvTAr/yAgA=')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
-
-</content>
-
-			
-				<category term="Druid" />
-			
-			
-				<category term="Druid" />
-			
-				<category term="malygos" />
-			
-				<category term="control" />
-			
-
-			<published>2018-08-26T00:00:00+07:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://duybl.github.io/hearthstonevn/druid/druid-togwaggle-1/</id>
-			<title>Druid Togwaggle</title>
-			<link href="https://duybl.github.io/hearthstonevn/druid/druid-togwaggle-1/" rel="alternate" type="text/html" title="Druid Togwaggle" />
-			<updated>2018-08-22T00:00:00+07:00</updated>
-
-			
-				
-				<author>
-					
-						<name>duy</name>
-					
-					
-						<email>binhbet@gmail.com</email>
-					
-					
-				</author>
-			
-			<summary>Druid Togwaggle dạng deck fatigue, với chiêu cuối là đổi bài đối phương.</summary>
-			<content type="html" xml:base="https://duybl.github.io/hearthstonevn/druid/druid-togwaggle-1/">
-&lt;div class=&quot;alert-box success &quot;&gt;&lt;p&gt;TOGWAGGLE DRUID - #44 (ROLLE)&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;script type=&quot;text/javascript&quot; src=&quot;/assets/js/decode.js&quot;&gt;&lt;/script&gt;
-
-&lt;script&gt;showDeck(&quot;AAECAZICBsQGmdMC/esCmu4Cv/IC5PsCDEBf6QHkCKDNAofOApTSApjSAp7SAtvTAoTmAo/2AgA=&quot;);&lt;/script&gt;
-
-&lt;div id=&quot;type&quot; style=&quot;letter-spacing: 4px; color: #008CBA; text-align: justify;&quot;&gt;&lt;/div&gt;
-&lt;div id=&quot;hero&quot; style=&quot;letter-spacing: 4px; color: #008CBA; text-align: justify;&quot;&gt;&lt;/div&gt;
-&lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
-&lt;pre&gt;AAECAZICBsQGmdMC/esCmu4Cv/IC5PsCDEBf6QHkCKDNAofOApTSApjSAp7SAtvTAoTmAo/2AgA=&lt;/pre&gt;
-&lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAZICBsQGmdMC/esCmu4Cv/IC5PsCDEBf6QHkCKDNAofOApTSApjSAp7SAtvTAoTmAo/2AgA=')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
-
-</content>
-
-			
-				<category term="Druid" />
-			
-			
-				<category term="Druid" />
-			
-				<category term="fatigue" />
-			
-				<category term="Togwaggle" />
-			
-
-			<published>2018-08-22T00:00:00+07:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://duybl.github.io/hearthstonevn/design/mediaelement_js/</id>
-			<title>Play Audio &amp; Video with media&amp;shy;element.js</title>
-			<link href="https://duybl.github.io/hearthstonevn/design/mediaelement_js/" rel="alternate" type="text/html" title="Play Audio &amp; Video with media&amp;shy;element.js" />
-			<updated>2015-10-15T00:00:00+07:00</updated>
-
-			
-				
-				<author>
-					
-						<name>duy</name>
-					
-					
-						<email>binhbet@gmail.com</email>
-					
-					
-				</author>
-			
-			<summary>Do you like music? Or are you a podcaster? Do you want to stream your videos in a nice player? Than you likely will like the integration of &lt;em&gt;mediaelement.js&lt;/em&gt;. It enables you to play music and stream video in a consistent player that looks in each browser delicious. It even works in IE6-8.</summary>
-			<content type="html" xml:base="https://duybl.github.io/hearthstonevn/design/mediaelement_js/">&lt;p&gt;&lt;a href=&quot;http://mediaelementjs.com/&quot;&gt;mediaelement.js&lt;/a&gt; is like magic. It’s browser and device support is perfect. To activate the video or audio player just set the following variable in front matter to &lt;code class=&quot;highlighter-rouge&quot;&gt;true&lt;/code&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;mediaplayer: true
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;To use the player just use some HTML5-magic like…&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;audio&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;http://path-to-file.com/music.mp3&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;audio/mp3&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;controls=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;controls&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/audio&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;All possible functions and how to use &lt;em&gt;mediaelement.js&lt;/em&gt; is well-documented on the &lt;a href=&quot;http://mediaelementjs.com/&quot;&gt;players website&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;music-from-all-around-the-world&quot;&gt;»Music From All Around The World«&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://archive.org/details/music_from_all_around_the_world&quot;&gt;»Music From All Around The World«&lt;/a&gt; is a compilation curated by Jeannette Corneille and Moritz “mo.” Sauer for &lt;a href=&quot;http://phlow-magazine.com/&quot;&gt;Phlow-Magazine.com&lt;/a&gt;. Cover &lt;a href=&quot;http://mediaelementjs.com/&quot;&gt;Artwork designed by Jeannette Corneille&lt;/a&gt;. All tracks were released under a &lt;a href=&quot;http://jcorneille.de/&quot;&gt;creative commons licence&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;b-ju---philly-run&quot;&gt;B-Ju - »Philly Run«&lt;/h3&gt;
-
-&lt;audio src=&quot;http://archive.org/download/music_from_all_around_the_world/13._music_from_all_around_the_world_-_b-ju_-_philly_run.mp3&quot; type=&quot;audio/mp3&quot; controls=&quot;controls&quot;&gt;&lt;/audio&gt;
-
-&lt;h3 id=&quot;comfort-fit---freeze-the-cut&quot;&gt;Comfort Fit - »Freeze The Cut«&lt;/h3&gt;
-
-&lt;audio src=&quot;http://archive.org/download/music_from_all_around_the_world/05._music_from_all_around_the_world_-_comfort_fit_-_freeze_the_cut_opolopos_emotional_draft_remix.mp3&quot; type=&quot;audio/mp3&quot; controls=&quot;controls&quot;&gt;&lt;/audio&gt;
-
-&lt;h3 id=&quot;the-black-atlantic---dandelion&quot;&gt;The Black Atlantic - »Dandelion«&lt;/h3&gt;
-
-&lt;audio src=&quot;http://archive.org/download/music_from_all_around_the_world/02._music_from_all_around_the_world_-_the_black_atlantic_-_dandelion.mp3&quot; type=&quot;audio/mp3&quot; controls=&quot;controls&quot;&gt;&lt;/audio&gt;
-
-&lt;p class=&quot;t30 button radius&quot;&gt;&lt;a href=&quot;https://archive.org/details/music_from_all_around_the_world&quot;&gt;Download Compilation ›&lt;/a&gt;&lt;/p&gt;
-
-</content>
-
-			
-				<category term="design" />
-			
-			
-				<category term="audio player" />
-			
-				<category term="video player" />
-			
-				<category term="streaming music" />
-			
-
-			<published>2015-10-15T00:00:00+07:00</published>
+			<published>2018-08-29T00:00:00+07:00</published>
 		</entry>
 	
 </feed>
