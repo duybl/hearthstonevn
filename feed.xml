@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://duybl.github.io/hearthstonevn/assets/xslt/rss.xslt" ?>
-<?xml-stylesheet type="text/css" href="https://duybl.github.io/hearthstonevn/assets/css/rss.css" ?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:4000/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="http://localhost:4000/assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Hearthstone Việt Nam</title>
 		<description>Không việc có gì khó, chỉ sợ bụng không no</description>
-		<link>https://duybl.github.io/hearthstonevn/</link>
-		<atom:link href="https://duybl.github.io/hearthstonevn/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://localhost:4000/</link>
+		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Thuật ngữ trong game</title>
-				<link>https://duybl.github.io/hearthstonevn/Hearthstone-basic/terminology/</link>
+				<link>http://localhost:4000/Hearthstone-basic/terminology/</link>
 				<pubDate>Thu, 30 Aug 2018 00:00:00 +0700</pubDate>
 				<description>&lt;p id=&quot;toc&quot;&gt;&lt;strong&gt;Mục lục&lt;/strong&gt;&lt;/p&gt;
 &lt;ul id=&quot;markdown-toc&quot;&gt;
@@ -22,7 +22,7 @@
 
 &lt;h3 id=&quot;thuật-ngữ-card&quot;&gt;Thuật ngữ card&lt;/h3&gt;
 
-&lt;p&gt;Rất nhiều thuật ngữ này có nguồn gốc từ game Magic the Gathering (MTG) và các card game phổ biến khác.&lt;/p&gt;
+&lt;p&gt;Rất nhiều thuật ngữ này có nguồn gốc từ game &lt;a href=&quot;https://magic.wizards.com/en&quot;&gt;Magic the Gathering&lt;/a&gt; (MTG) và các card game phổ biến khác. MTG thuộc board game (game vật lý, chia theo bộ, giống như đánh bài).&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Aggro&lt;/strong&gt;: viết tắt của aggression, nghĩa tạm bợ là ‘anh í rất máu’, thường dành để chỉ những card ít mana và tập trung dồn sát thương vào tướng địch làm sao cho tiêu diệt càng nhanh càng tốt.&lt;/p&gt;
 
@@ -34,28 +34,104 @@
 &lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_400_premium.gif&quot; alt=&quot;Whirlwind&quot; /&gt;Whirlwind&lt;/a&gt;
 .&lt;/p&gt;
 
-&lt;p&gt;Bomb: Một thẻ có hiệu ứng lớn trên bảng và có thể kết thúc trò chơi một cách nhanh chóng nếu không được xử lý (ví dụ: Deathwing).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bomb&lt;/strong&gt;: là card có hiệu ứng lớn trên board và có thể kết thúc game rất nhanh nếu đối phương không có câu trả lời, ví dụ: 
+&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/NEW1_030_premium.gif&quot; alt=&quot;Deathwing&quot; /&gt;Deathwing&lt;/a&gt;
+.&lt;/p&gt;
 
-&lt;p&gt;Bounce: Thẻ trả lại sinh vật cho tay chủ sở hữu (ví dụ: Sap và Kidnapper).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bounce&lt;/strong&gt;: Card trả lại một card khác cho đối phương hoặc cho bạn, ví dụ: 
+&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_581_premium.gif&quot; alt=&quot;Sap&quot; /&gt;Sap&lt;/a&gt;
+ và 
+&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/NEW1_005_premium.gif&quot; alt=&quot;Kidnapper&quot; /&gt;Kidnapper&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Burn: Điều này có thể có nhiều ý nghĩa, một là một tham chiếu đến MTG mà phép thuật thiệt hại trực tiếp thường được gọi là ‘Burn’. Trong Hearthstone, Burn thường có nghĩa là một thẻ đã bị đốt cháy từ boong của bạn. Khi bạn cầm 10 lá bài và rút ra một lá bài khác, nó sẽ bị hủy. Các hình ảnh động của quá trình này xuất hiện như một thẻ bị cháy.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Burn&lt;/strong&gt;: Từ này có thể có nhiều nghĩa, như là một dạng phép tác động ‘Burn’. Nhưng trong Hearthstone, Burn thường có nghĩa là khi bạn/đối phương bị hết bài mà phải rút bài tiếp, lúc ấy bạn/đối phương bị Burn.&lt;/p&gt;
 
-&lt;p&gt;Cantrip: Một thuật ngữ khác từ MTG đề cập đến các thẻ có tác dụng ‘vẽ thẻ’ cùng với hiệu ứng chính của chúng (ví dụ: Gitaxian Probe trong MTG). Ví dụ hoàn hảo về điều này trong Hearthstone là Flare. Thuật ngữ này đôi khi được sử dụng như một sản phẩm bắt buộc cho các thẻ cho phép bạn rút thẻ.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cantrip&lt;/strong&gt;: Một thuật ngữ khác có gốc từ MTG,  chỉ các card có tác dụng rút card (draw a card). Ví dụ như trong Hearthstone là card 
+&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_544_premium.gif&quot; alt=&quot;Flare&quot; /&gt;Flare&lt;/a&gt;
+.&lt;/p&gt;
 
-&lt;p&gt;Combo: Decks được gọi là combo decks tìm cách để bắt đầu tương tác mạnh mẽ với nhiều thẻ mà chắc chắn dẫn đến chiến thắng. Một kết thúc chung kết trong sàn Rogue là Leeroy Jenkins và 1x - 2x Cold Blood.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Combo&lt;/strong&gt;: Một card được gọi là combo khi card đó kết hợp với một hay nhiều card khác trong một lượt đi. Lối chơi combo thường thấy nhất ở Rogue, ví dụ như 
+&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_116_premium.gif&quot; alt=&quot;Leeroy Jenkins&quot; /&gt;Leeroy Jenkins&lt;/a&gt;
+ và 1x-2x 
+&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_073_premium.gif&quot; alt=&quot;Cold Blood&quot; /&gt;Cold Blood&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Xây dựng: Thuật ngữ này đề cập đến khả năng xây dựng một cỗ bài từ thẻ bạn sở hữu để sử dụng trong trò chơi Xếp hạng hoặc Giản dị. Arena là cái được gọi là định dạng Limited, bởi vì bạn bị giới hạn số lượng thẻ bạn chơi.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Contructed&lt;/strong&gt;: Thuật ngữ này nói đến khả năng tạo deck từ những card mà bạn có ở kiểu chơi &lt;strong&gt;Casual&lt;/strong&gt; (chơi không xếp hạng, chơi thoải mái) hay &lt;strong&gt;Ranked&lt;/strong&gt; (chơi xếp hạng). Còn kiểu chơi &lt;strong&gt;Arena&lt;/strong&gt; là kiểu chơi giới hạn số lượng card, bạn phải tốn 150 gold cho một lần vào chơi.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Control&lt;/strong&gt;: Một deck được gọi là deck Control khi sử dụng những card thiên về phòng thủ (như các có khả năng &lt;strong&gt;Taunt&lt;/strong&gt;) và sử dụng card AOE và Spell để giữ nhịp game. Cuối cùng là kết thúc đối thủ bằng những card mạnh.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cycle&lt;/strong&gt;: Sử dụng card rút bài và thay thế card đó bằng một card khác. Ví dụ như 
+&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_278_premium.gif&quot; alt=&quot;Shiv&quot; /&gt;Shiv&lt;/a&gt;
+ , tạo 1 sát thương và rút 1 card thay thế nó. Bạn cũng có thể quay vòng card bằng cách sử dụng một card khác như 
+&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_595_premium.gif&quot; alt=&quot;Cult Master&quot; /&gt;Cult Master&lt;/a&gt;
+. Hy sinh một card để rút card khác về cơ bản là thay thế card bị mất. Cycle card cũng là cách làm giảm card trong deck lại để rút được card mà bạn mong muốn để kết thúc game.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Direct Damage&lt;/strong&gt;: là card có thể gây sát thương trực tiếp cho đối thủ, ví dụ: 
+&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/_premium.gif&quot; alt=&quot; Lightning Bolt&quot; /&gt; Lightning Bolt&lt;/a&gt;
+, 
+&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_308_premium.gif&quot; alt=&quot;Soulfire&quot; /&gt;Soulfire&lt;/a&gt;
+.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Draft, Drafting&lt;/strong&gt;: thuật ngữ này gốc từ MTG và là cách chơi phổ biến. Mỗi người chơi nhận được ba bộ deck, sau đó người chơi mở một deck, chọn một card và chuyển phần còn lại của deck cho người chơi tiếp theo. Cứ chơi như thế cho đến khi tất cả card và deck được chia đều. Sau đó, bạn có thời gian để tạo deck cho mình rồi chơi với đối thủ. Cách này trong Hearthstone giống với chơi ở Chế độ &lt;strong&gt;Arena&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Face&lt;/strong&gt;: Mỗi người chơi Hearthstone có một ảnh đại diện là một tướng (Hero). Nên chơi Face là cách chơi chỉ tập trung đánh vào tướng.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Face Tank&lt;/strong&gt;: Thuật ngữ ‘tank’ gốc trong dòng game MMORPG (game nhập vai trực tuyến nhiều người chơi, ví dụ &lt;strong&gt;World of Warcraft&lt;/strong&gt;), là bạn đứng ra “đỡ đạn” cho nhóm của mình để họ rảnh tay tập trung tấn công đối thủ. Trong Hearthstone, Face Tank là bạn sử dụng Hero (Face) để gây sát thương cho lính dùng card để đánh lính đối phương. Cách này phổ biến với các tướng sử dụng vũ khí như Rogue, Shaman và Warrior.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Initiative&lt;/strong&gt;: Khi bạn initiative nghĩa là bạn tấn công đối thủ trước. Khi bạn đi một card lính (minion), nghĩa là lính đó “còn ngủ” trong lượt đi đó mà phải chờ đến lượt đi sau, trừ khi lính ấy có khả năng &lt;strong&gt;Charge&lt;/strong&gt; (đánh ngay). Nếu bạn đi một lính lên board trống, rồi mới đến lượt đối phương đi một lính khác sau đó, lúc này bạn có initiative bởi vì bạn có thể chọn tấn công minion hoặc vào Hero (face).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ladder&lt;/strong&gt;: leo hạng ý nói đến kiểu chơi xếp hạng &lt;strong&gt;Ranked&lt;/strong&gt; của game. Trong kiểu chơi Ranked này, có hai hệ thống xếp hạng riêng: Hạng từ 25 - 1 và hạng Legend. Trong hạng 25 - 1 (25 là thấp nhất), cứ mỗi trận thắng bạn sẽ nhận được một sao, một khi bạn đạt cấp 1 và có đủ sao, bạn sẽ chuyển sang hạng Legend. Trong hạng Legend, thứ hạng không tính theo sao mà hiển thị chính xác thứ tự hạng của bạn trên Legend Ladder. Điểm cao nhất có thể đạt được Legend 1, còn điểm thấp nhất là số người đạt được Legend ở thời điểm đó. Vì vậy, nếu mới chỉ có 5 người lọt vào hạng Legend thì mức Legend thấp nhất là Legend 5.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Meta&lt;/strong&gt;: Vì tính chất các card luôn được Blizzard cập nhật theo những khoảng thời gian nhất định trong năm nên meta được cho là những deck hiện tại được nhiều người chơi nhất, phổ biến nhất trên bảng xếp hạng. Nắm được điểm mạnh/yếu từng thời điểm của card sẽ giúp bạn tạo được deck phù hợp và chống lại đối phương hiệu quả. Ví dụ 
+&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_002_premium.gif&quot; alt=&quot;The Black Knight&quot; /&gt;The Black Knight&lt;/a&gt;
+ rất hiệu quả khi đối đầu với những lính Taunt, còn 
+&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_558_premium.gif&quot; alt=&quot;Harrison Jones&quot; /&gt;Harrison Jones&lt;/a&gt;
+ lại phù hợp nếu người chơi thường xuyên chơi những deck sử dụng vũ khí.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Midrange&lt;/strong&gt;:  thuật ngữ chỉ lối chơi kết hợp Aggro-Control của deck, chủ yếu sử dụng lính có mana từ 4-8. Midrange chống được các deck Aggro và cũng có thể đánh bại deck Control. Khác biệt giữa Midrange và Control không nhiều như giữa Midrange và Aggro.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mill, Milling&lt;/strong&gt;: thuật ngữ khác có gốc từ card &lt;a href=&quot;http://magiccards.info/query?q=%21Millstone&quot;&gt;Millstone&lt;/a&gt; của MTG. Trong Hearthstone, để &lt;em&gt;Mill&lt;/em&gt; ai đó là làm cho đối thủ bị burn card (rút bài liên tục) và khiến đối thủ bị &lt;strong&gt;fatigue&lt;/strong&gt;.
+&lt;img src=&quot;/assets/img//fatigue.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mulligan&lt;/strong&gt;: là thuật ngữ chỉ những card ban đầu hiển thị cho bạn chọn hoặc bỏ chọn.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nerf, Nerfed&lt;/strong&gt;: là Blizzard làm giảm sức mạnh của một lá bài quá mạnh. Thông thường Blizzard thêm Mana vào một số card quá mạnh. Ví dụ như 
+&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_237_premium.gif&quot; alt=&quot;Starving Buzzard&quot; /&gt;Starving Buzzard&lt;/a&gt;
+ bị tăng lên 5 mana từ 2 mana.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Netdeck&lt;/strong&gt;: Sử dụng các trang web chất lượng (như trên trang này) để lấy deck tốt nhất thay vì bạn tự  tạo deck cho mình.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;OTK&lt;/strong&gt;:  là viết tắt của &lt;em&gt;One Turn Kill&lt;/em&gt;, cũng ý chỉ đến những deck có thể tạo ra damage lớn và có thể giết chết đối thủ trong một lượt.
+&lt;strong&gt;Overpowered, OP&lt;/strong&gt;: card quá mạnh đến mức làm hỏng game.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ping&lt;/strong&gt;: thường nói đến chiêu của Mage Hero, là gây 1 sát thương lên 1 mục tiêu hoặc loại bỏ Divine Shield.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ramp&lt;/strong&gt;: Sử dụng card để tăng Mana vĩnh viễn hoặc tạm thời. Druid thường dùng Ramp nhờ card Innervate và Wild Growth. Hiệu ứng ramp cũng có thể được dùng với các card làm giảm mana như 
+&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_006_premium.gif&quot; alt=&quot;Mechwarper&quot; /&gt;Mechwarper&lt;/a&gt;
+  và 
+&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_315_premium.gif&quot; alt=&quot;Summoning Portal&quot; /&gt;Summoning Portal&lt;/a&gt;
+.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RNG&lt;/strong&gt;:  viết tắt của Random Number Generator. Thuật ngữ lập trình máy tính thôi, là cách máy tính chọn ra số “ngẫu nhiên” để xác định kết quả. Chi tiết hơn có &lt;a href=&quot;https://en.wikipedia.org/wiki/Random_number_generation&quot;&gt;ở đây&lt;/a&gt;. Thuật ngữ này được sử dụng để giải thích yếu tố ngẫu nhiên trong Hearthstone. Một số card nhất định phụ thuộc nhiều vào RNG, ví dụ: 
+&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/_premium.gif&quot; alt=&quot;Ragnaros Firelord&quot; /&gt;Ragnaros Firelord&lt;/a&gt;
+ , 
+&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_038_premium.gif&quot; alt=&quot;Crackle&quot; /&gt;Crackle&lt;/a&gt;
+ và 
+&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOEA15_2_premium.gif&quot; alt=&quot;Unstable Portal&quot; /&gt;Unstable Portal&lt;/a&gt;
+.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Roping&lt;/strong&gt;:  Là khi bạn suy nghĩ lượt đi của bạn cho đến gần hết thời gian quy định được gọi là roping. Lý do có cái tên này là game hiển thị một sợi dây thừng bị đốt cháy, báo hiệu thời gian lượt đi của bạn sắp hết. Từ đó có thêm từ &lt;strong&gt;Lifecoach&lt;/strong&gt;, &lt;strong&gt;Ropecoach&lt;/strong&gt; chỉ những người chơi thích đợi đến khi nào dây thừng hiện ra mới bắt đầu đi. Ai chơi giỏi cũng nên như thế.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Standard&lt;/strong&gt;: Standard hiện là một trong hai định dạng bạn có thể chơi ở Hearthstone (định dạng còn lại là Wild). Các quy tắc trong Standard là bạn chỉ được chơi với các bộ card năm trước và năm hiện tại. Bất kỳ bộ card nào xuất hiện trước khoảng thời gian này đều không được phép sử dụng trong kiểu chơi Standard. Ngoại lệ duy nhất là các bộ &lt;a href=&quot;/set/basic/&quot;&gt;Basic&lt;/a&gt; và &lt;a href=&quot;/set/classic/&quot;&gt;Classic&lt;/a&gt; luôn thuộc Standard, bất kể thời gian.&lt;/p&gt;
 
 &lt;h3 id=&quot;từ-khóa&quot;&gt;Từ khóa&lt;/h3&gt;
 &lt;h3 id=&quot;nickname-của-card-và&quot;&gt;Nickname của card và&lt;/h3&gt;
 &lt;h3 id=&quot;thuật-ngữ-trên-twitchreddit&quot;&gt;Thuật ngữ trên Twitch/Reddit&lt;/h3&gt;
 </description>
-				<guid isPermaLink="true">https://duybl.github.io/hearthstonevn/Hearthstone-basic/terminology/</guid>
+				<guid isPermaLink="true">http://localhost:4000/Hearthstone-basic/terminology/</guid>
 			</item>
 		
 			<item>
 				<title>Odd Quest Warrior</title>
-				<link>https://duybl.github.io/hearthstonevn/warrior/warrior-odd-quest-1/</link>
+				<link>http://localhost:4000/warrior/warrior-odd-quest-1/</link>
 				<pubDate>Wed, 29 Aug 2018 00:00:00 +0700</pubDate>
 				<description>
 &lt;div class=&quot;alert-box success &quot;&gt;&lt;p&gt;Odd Quest Warrior.&lt;/p&gt;
@@ -70,12 +146,12 @@
 &lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAQcE08MC08UCnvgCoIADDUuiAqIE3gX/B5vCAsrDAqLHAsrnAqrsAuL4Ao77Ap77AgA=')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://duybl.github.io/hearthstonevn/warrior/warrior-odd-quest-1/</guid>
+				<guid isPermaLink="true">http://localhost:4000/warrior/warrior-odd-quest-1/</guid>
 			</item>
 		
 			<item>
 				<title>Odd Warrior</title>
-				<link>https://duybl.github.io/hearthstonevn/warrior/warrior-odd-1/</link>
+				<link>http://localhost:4000/warrior/warrior-odd-1/</link>
 				<pubDate>Wed, 29 Aug 2018 00:00:00 +0700</pubDate>
 				<description>
 &lt;div class=&quot;alert-box success &quot;&gt;&lt;p&gt;Odd Warrior.&lt;/p&gt;
@@ -90,12 +166,12 @@
 &lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAQcMogKqBvkM08UCz8cCmu4Cze8CnfACkvgCnvgCjvsCoIADCUuiBP8Hm8ICyucC4vgCg/sCnvsCs/wCAA==')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://duybl.github.io/hearthstonevn/warrior/warrior-odd-1/</guid>
+				<guid isPermaLink="true">http://localhost:4000/warrior/warrior-odd-1/</guid>
 			</item>
 		
 			<item>
 				<title>Control Warrior</title>
-				<link>https://duybl.github.io/hearthstonevn/warrior/warrior-control-1/</link>
+				<link>http://localhost:4000/warrior/warrior-control-1/</link>
 				<pubDate>Wed, 29 Aug 2018 00:00:00 +0700</pubDate>
 				<description>
 &lt;div class=&quot;alert-box success &quot;&gt;&lt;p&gt;Control Warrior.&lt;/p&gt;
@@ -110,12 +186,12 @@
 &lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAQcGws4C6uoCmu4Cm/MCkvgCoIADDEuKAaIEkQayCPsMzM0C8dMCz+cC4vgCg/sCnvsCAA==')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://duybl.github.io/hearthstonevn/warrior/warrior-control-1/</guid>
+				<guid isPermaLink="true">http://localhost:4000/warrior/warrior-control-1/</guid>
 			</item>
 		
 			<item>
 				<title>Zoo Warlock</title>
-				<link>https://duybl.github.io/hearthstonevn/warlock/warlock-zoo-1/</link>
+				<link>http://localhost:4000/warlock/warlock-zoo-1/</link>
 				<pubDate>Wed, 29 Aug 2018 00:00:00 +0700</pubDate>
 				<description>
 &lt;div class=&quot;alert-box success &quot;&gt;&lt;p&gt;Zoo Warlock&lt;/p&gt;
@@ -130,12 +206,12 @@
 &lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAf0GBK8E3gXyBZziAg0whAHOB8II9wzKwwKbywL3zQKfzgLy0ALR4QKH6ALv8QIA')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://duybl.github.io/hearthstonevn/warlock/warlock-zoo-1/</guid>
+				<guid isPermaLink="true">http://localhost:4000/warlock/warlock-zoo-1/</guid>
 			</item>
 		
 			<item>
 				<title>Even Warlock</title>
-				<link>https://duybl.github.io/hearthstonevn/warlock/warlock-even-1/</link>
+				<link>http://localhost:4000/warlock/warlock-even-1/</link>
 				<pubDate>Wed, 29 Aug 2018 00:00:00 +0700</pubDate>
 				<description>
 &lt;div class=&quot;alert-box success &quot;&gt;&lt;p&gt;Even Warlock&lt;/p&gt;
@@ -150,12 +226,12 @@
 &lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAf0GCIoH+wfMCPgMws4Cl9MC6uYCzfQCC/IF+wa2B+EHjQjmwgLnywLx0AL90AKI0gLY5QIA')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://duybl.github.io/hearthstonevn/warlock/warlock-even-1/</guid>
+				<guid isPermaLink="true">http://localhost:4000/warlock/warlock-even-1/</guid>
 			</item>
 		
 			<item>
 				<title>Shudderwock Shaman</title>
-				<link>https://duybl.github.io/hearthstonevn/shaman/shaman-shuddlewock-1/</link>
+				<link>http://localhost:4000/shaman/shaman-shuddlewock-1/</link>
 				<pubDate>Wed, 29 Aug 2018 00:00:00 +0700</pubDate>
 				<description>&lt;h1 id=&quot;to-use-this-deck-copy-it-to-your-clipboard-and-create-a-new-deck-in-hearthstone&quot;&gt;To use this deck, copy it to your clipboard and create a new deck in Hearthstone&lt;/h1&gt;
 &lt;h1 id=&quot;find-this-deck-on-httpshsreplaynetdeckscori60tetoqmnwpx7hu55f&quot;&gt;Find this deck on https://hsreplay.net/decks/CoRI60teToqMNWpx7HU55f/&lt;/h1&gt;
@@ -172,12 +248,12 @@
 &lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAaoIBtPFApziAqvnAsPqAqfuAu/3AgyBBPUE3gX+Bf8Fsgb7DJfBAsfBApvLAvPnAu/xAgA=')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://duybl.github.io/hearthstonevn/shaman/shaman-shuddlewock-1/</guid>
+				<guid isPermaLink="true">http://localhost:4000/shaman/shaman-shuddlewock-1/</guid>
 			</item>
 		
 			<item>
 				<title>Midrange Shaman</title>
-				<link>https://duybl.github.io/hearthstonevn/shaman/shaman-midrange-1/</link>
+				<link>http://localhost:4000/shaman/shaman-midrange-1/</link>
 				<pubDate>Wed, 29 Aug 2018 00:00:00 +0700</pubDate>
 				<description>
 &lt;div class=&quot;alert-box success &quot;&gt;&lt;p&gt;Midrange Shaman.&lt;/p&gt;
@@ -192,12 +268,12 @@
 &lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAaoICoEEsgaTCfPCAsLOApziAqfuAu/3Aur6Apn7Agq9AfUE/gWXwQLrwgLKwwKbywLR4QLi+AKc/wIA')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://duybl.github.io/hearthstonevn/shaman/shaman-midrange-1/</guid>
+				<guid isPermaLink="true">http://localhost:4000/shaman/shaman-midrange-1/</guid>
 			</item>
 		
 			<item>
 				<title>Even Shaman</title>
-				<link>https://duybl.github.io/hearthstonevn/shaman/shaman-even-1/</link>
+				<link>http://localhost:4000/shaman/shaman-even-1/</link>
 				<pubDate>Wed, 29 Aug 2018 00:00:00 +0700</pubDate>
 				<description>
 &lt;div class=&quot;alert-box success &quot;&gt;&lt;p&gt;Even Shaman.&lt;/p&gt;
@@ -212,12 +288,12 @@
 &lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAaoIBiCZAsLOAvbsAqfuAs30Agy9AdMB/gXZB/AHsQiRwQKswgKbywKW6AKU7wKw8AIA')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://duybl.github.io/hearthstonevn/shaman/shaman-even-1/</guid>
+				<guid isPermaLink="true">http://localhost:4000/shaman/shaman-even-1/</guid>
 			</item>
 		
 			<item>
 				<title>Tempo Rogue</title>
-				<link>https://duybl.github.io/hearthstonevn/rogue/rogue-tempo-1/</link>
+				<link>http://localhost:4000/rogue/rogue-tempo-1/</link>
 				<pubDate>Wed, 29 Aug 2018 00:00:00 +0700</pubDate>
 				<description>
 &lt;div class=&quot;alert-box success &quot;&gt;&lt;p&gt;Tempo Rogue.&lt;/p&gt;
@@ -232,7 +308,7 @@
 &lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAaIHArICrwQOtAGMAs0DvQT2BJsFiAfdCIYJgcIC68IC3NEC2+MCpu8CAA==')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://duybl.github.io/hearthstonevn/rogue/rogue-tempo-1/</guid>
+				<guid isPermaLink="true">http://localhost:4000/rogue/rogue-tempo-1/</guid>
 			</item>
 		
 	</channel>
