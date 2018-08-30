@@ -11,7 +11,7 @@
 	<title>Atom Feed (Styled)</title>
 
     <link rel="stylesheet" type="text/css" href="https://duybl.github.io/hearthstonevn/assets/css/styles_feeling_responsive.css">
-		<link rel="stylesheet" type="text/css" href="https://duybl.github.io/hearthstonevn/assets/css/deckbox.css">
+		<!-- <link rel="stylesheet" type="text/css" href="https://duybl.github.io/hearthstonevn/assets/css/deckbox.css"> -->
 
   
 

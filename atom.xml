@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://duybl.github.io/hearthstonevn/</id>
 	<title>Hearthstone Việt Nam</title>
-	<updated>2018-08-29T10:12:55+07:00</updated>
+	<updated>2018-08-30T13:20:55+07:00</updated>
 
 	<subtitle>Không việc có gì khó, chỉ sợ bụng không no</subtitle>
 
@@ -26,6 +26,70 @@
 
 	<generator uri="http://jekyllrb.com" version="3.8.3">Jekyll</generator>
 
+	
+		<entry>
+			<id>https://duybl.github.io/hearthstonevn/Hearthstone-basic/terminology/</id>
+			<title>Thuật ngữ trong game</title>
+			<link href="https://duybl.github.io/hearthstonevn/Hearthstone-basic/terminology/" rel="alternate" type="text/html" title="Thuật ngữ trong game" />
+			<updated>2018-08-30T00:00:00+07:00</updated>
+
+			
+				
+				<author>
+					
+						<name>duy</name>
+					
+					
+						<email>binhbet@gmail.com</email>
+					
+					
+				</author>
+			
+			<summary>Để tiện tra cứu, bạn nhấn Ctrl+F và gõ vào từ tìm kiếm để tìm nhanh đúng thuật ngữ cần tra cứu.</summary>
+			<content type="html" xml:base="https://duybl.github.io/hearthstonevn/Hearthstone-basic/terminology/">&lt;p id=&quot;toc&quot;&gt;&lt;strong&gt;Mục lục&lt;/strong&gt;&lt;/p&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#thuật-ngữ-card&quot; id=&quot;markdown-toc-thuật-ngữ-card&quot;&gt;Thuật ngữ card&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#từ-khóa&quot; id=&quot;markdown-toc-từ-khóa&quot;&gt;Từ khóa&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#nickname-của-card-và&quot; id=&quot;markdown-toc-nickname-của-card-và&quot;&gt;Nickname của card và&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#thuật-ngữ-trên-twitchreddit&quot; id=&quot;markdown-toc-thuật-ngữ-trên-twitchreddit&quot;&gt;Thuật ngữ trên Twitch/Reddit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;thuật-ngữ-card&quot;&gt;Thuật ngữ card&lt;/h3&gt;
+
+&lt;p&gt;Rất nhiều thuật ngữ này có nguồn gốc từ game Magic the Gathering (MTG) và các card game phổ biến khác.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Aggro&lt;/strong&gt;: viết tắt của aggression, nghĩa tạm bợ là ‘anh í rất máu’, thường dành để chỉ những card ít mana và tập trung dồn sát thương vào tướng địch làm sao cho tiêu diệt càng nhanh càng tốt.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;AOE&lt;/strong&gt;: viết tắt của &lt;strong&gt;Area of Effect&lt;/strong&gt;, là tác dụng lên một khu vực rộng gồm nhiều card, không phải tác dụng lên một card, ví dụ: 
+&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_032_premium.gif&quot; alt=&quot;Flamestrike&quot; /&gt;Flamestrike&lt;/a&gt;
+, 
+&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS1_112_premium.gif&quot; alt=&quot;Holy Nova&quot; /&gt;Holy Nova&lt;/a&gt;
+, 
+&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_400_premium.gif&quot; alt=&quot;Whirlwind&quot; /&gt;Whirlwind&lt;/a&gt;
+.&lt;/p&gt;
+
+&lt;p&gt;Bomb: Một thẻ có hiệu ứng lớn trên bảng và có thể kết thúc trò chơi một cách nhanh chóng nếu không được xử lý (ví dụ: Deathwing).&lt;/p&gt;
+
+&lt;p&gt;Bounce: Thẻ trả lại sinh vật cho tay chủ sở hữu (ví dụ: Sap và Kidnapper).&lt;/p&gt;
+
+&lt;p&gt;Burn: Điều này có thể có nhiều ý nghĩa, một là một tham chiếu đến MTG mà phép thuật thiệt hại trực tiếp thường được gọi là ‘Burn’. Trong Hearthstone, Burn thường có nghĩa là một thẻ đã bị đốt cháy từ boong của bạn. Khi bạn cầm 10 lá bài và rút ra một lá bài khác, nó sẽ bị hủy. Các hình ảnh động của quá trình này xuất hiện như một thẻ bị cháy.&lt;/p&gt;
+
+&lt;p&gt;Cantrip: Một thuật ngữ khác từ MTG đề cập đến các thẻ có tác dụng ‘vẽ thẻ’ cùng với hiệu ứng chính của chúng (ví dụ: Gitaxian Probe trong MTG). Ví dụ hoàn hảo về điều này trong Hearthstone là Flare. Thuật ngữ này đôi khi được sử dụng như một sản phẩm bắt buộc cho các thẻ cho phép bạn rút thẻ.&lt;/p&gt;
+
+&lt;p&gt;Combo: Decks được gọi là combo decks tìm cách để bắt đầu tương tác mạnh mẽ với nhiều thẻ mà chắc chắn dẫn đến chiến thắng. Một kết thúc chung kết trong sàn Rogue là Leeroy Jenkins và 1x - 2x Cold Blood.&lt;/p&gt;
+
+&lt;p&gt;Xây dựng: Thuật ngữ này đề cập đến khả năng xây dựng một cỗ bài từ thẻ bạn sở hữu để sử dụng trong trò chơi Xếp hạng hoặc Giản dị. Arena là cái được gọi là định dạng Limited, bởi vì bạn bị giới hạn số lượng thẻ bạn chơi.&lt;/p&gt;
+
+&lt;h3 id=&quot;từ-khóa&quot;&gt;Từ khóa&lt;/h3&gt;
+&lt;h3 id=&quot;nickname-của-card-và&quot;&gt;Nickname của card và&lt;/h3&gt;
+&lt;h3 id=&quot;thuật-ngữ-trên-twitchreddit&quot;&gt;Thuật ngữ trên Twitch/Reddit&lt;/h3&gt;
+</content>
+
+			
+			
+
+			<published>2018-08-30T00:00:00+07:00</published>
+		</entry>
 	
 		<entry>
 			<id>https://duybl.github.io/hearthstonevn/warrior/warrior-odd-quest-1/</id>
@@ -443,53 +507,6 @@
 				<category term="Rogue" />
 			
 				<category term="tempo" />
-			
-
-			<published>2018-08-29T00:00:00+07:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://duybl.github.io/hearthstonevn/rogue/rogue-pogo-1/</id>
-			<title>Pogo Rogue</title>
-			<link href="https://duybl.github.io/hearthstonevn/rogue/rogue-pogo-1/" rel="alternate" type="text/html" title="Pogo Rogue" />
-			<updated>2018-08-29T00:00:00+07:00</updated>
-
-			
-				
-				<author>
-					
-						<name>duy</name>
-					
-					
-						<email>binhbet@gmail.com</email>
-					
-					
-				</author>
-			
-			<summary>Pogo Rogue có lối chơi vui và hay.</summary>
-			<content type="html" xml:base="https://duybl.github.io/hearthstonevn/rogue/rogue-pogo-1/">
-&lt;div class=&quot;alert-box success &quot;&gt;&lt;p&gt;Pogo Rogue.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;script&gt;showDeck(&quot;AAECAaIHBvYEgNMCz+ECw+oC5/oCoIADDLQBxAHtAs0DmwWIB4YJ0OMC2+MC4vgC1/oC4PoCAA==&quot;);&lt;/script&gt;
-
-&lt;div id=&quot;type&quot; style=&quot;letter-spacing: 4px; color: #008CBA; text-align: justify;&quot;&gt;&lt;/div&gt;
-&lt;div id=&quot;hero&quot; style=&quot;letter-spacing: 4px; color: #008CBA; text-align: justify;&quot;&gt;&lt;/div&gt;
-&lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
-&lt;pre&gt;AAECAaIHBvYEgNMCz+ECw+oC5/oCoIADDLQBxAHtAs0DmwWIB4YJ0OMC2+MC4vgC1/oC4PoCAA==&lt;/pre&gt;
-&lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAaIHBvYEgNMCz+ECw+oC5/oCoIADDLQBxAHtAs0DmwWIB4YJ0OMC2+MC4vgC1/oC4PoCAA==')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
-
-</content>
-
-			
-				<category term="Rogue" />
-			
-			
-				<category term="Rogue" />
-			
-				<category term="Pogo" />
-			
-				<category term="control" />
 			
 
 			<published>2018-08-29T00:00:00+07:00</published>
