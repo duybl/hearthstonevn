@@ -1,24 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://localhost:4000/assets/xslt/rss.xslt" ?>
-<?xml-stylesheet type="text/css" href="http://localhost:4000/assets/css/rss.css" ?>
+<?xml-stylesheet type="text/xsl" href="https://duybl.github.io/hearthstonevn/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="https://duybl.github.io/hearthstonevn/assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Hearthstone Việt Nam</title>
 		<description>Không việc có gì khó, chỉ sợ bụng không no</description>
-		<link>http://localhost:4000/</link>
-		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		<link>https://duybl.github.io/hearthstonevn/</link>
+		<atom:link href="https://duybl.github.io/hearthstonevn/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Tổng quan về Tướng</title>
+				<link>https://duybl.github.io/hearthstonevn/Hearthstone-basic/classes-overview/</link>
+				<pubDate>Fri, 31 Aug 2018 00:00:00 +0700</pubDate>
+				<description>&lt;div class=&quot;panel radius&quot;&gt;
+  &lt;p id=&quot;toc&quot;&gt;&lt;strong&gt;Mục lục&lt;/strong&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+</description>
+				<guid isPermaLink="true">https://duybl.github.io/hearthstonevn/Hearthstone-basic/classes-overview/</guid>
+			</item>
 		
 			<item>
 				<title>Thuật ngữ trong game</title>
-				<link>http://localhost:4000/Hearthstone-basic/terminology/</link>
+				<link>https://duybl.github.io/hearthstonevn/Hearthstone-basic/terminology/</link>
 				<pubDate>Thu, 30 Aug 2018 00:00:00 +0700</pubDate>
-				<description>&lt;p id=&quot;toc&quot;&gt;&lt;strong&gt;Mục lục&lt;/strong&gt;&lt;/p&gt;
+				<description>&lt;div class=&quot;panel radius&quot;&gt;
+  &lt;p id=&quot;toc&quot;&gt;&lt;strong&gt;Mục lục&lt;/strong&gt;&lt;/p&gt;
 &lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#thuật-ngữ-card&quot; id=&quot;markdown-toc-thuật-ngữ-card&quot;&gt;Thuật ngữ card&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#từ-khóa&quot; id=&quot;markdown-toc-từ-khóa&quot;&gt;Từ khóa&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#nickname-của-card-và&quot; id=&quot;markdown-toc-nickname-của-card-và&quot;&gt;Nickname của card và&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#thuật-ngữ-trên-twitchreddit&quot; id=&quot;markdown-toc-thuật-ngữ-trên-twitchreddit&quot;&gt;Thuật ngữ trên Twitch/Reddit&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;/div&gt;
 
 &lt;h3 id=&quot;thuật-ngữ-card&quot;&gt;Thuật ngữ card&lt;/h3&gt;
 
@@ -122,16 +135,85 @@
 
 &lt;p&gt;&lt;strong&gt;Standard&lt;/strong&gt;: Standard hiện là một trong hai định dạng bạn có thể chơi ở Hearthstone (định dạng còn lại là Wild). Các quy tắc trong Standard là bạn chỉ được chơi với các bộ card năm trước và năm hiện tại. Bất kỳ bộ card nào xuất hiện trước khoảng thời gian này đều không được phép sử dụng trong kiểu chơi Standard. Ngoại lệ duy nhất là các bộ &lt;a href=&quot;/set/basic/&quot;&gt;Basic&lt;/a&gt; và &lt;a href=&quot;/set/classic/&quot;&gt;Classic&lt;/a&gt; luôn thuộc Standard, bất kể thời gian.&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;Tempo&lt;/strong&gt;: hiểu đơn giản Tempo là đi trước một bước so với đối phương (hoặc cố gắng đi trước một bước). Cách tốt nhất để nhận biết Tempo là mana, ví dụ nếu đối phương đi lính mất 6 mana còn bạn “xử” lính ấy chỉ mất một card 4 mana thì bạn lợi 2 mana so với đối phương. Sau đó, bạn có thể tận dụng lợi thế hơn mana để đi lính khác. Rogue là tướng chuyên có lối chơi Tempo này và nếu bạn muốn biết thế nào là Tempo, hãy thử chơi Rogue. 
+&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_072_premium.gif&quot; alt=&quot;Backstab&quot; /&gt;Backstab&lt;/a&gt;
+ là card thuần về Tempo. Bạn tốn 0 mana để loại được lính địch và đi thêm lính. Tempo rất mạnh ở đầu game bởi vì bạn dễ dàng chiếm được board và ép đối phương phải tốn nhiều tài nguyên để dọn board.&lt;/p&gt;
+
+&lt;p&gt;Một ví dụ điển hình khác của lối chơi Tempo là chơi lính thay vì chơi chiêu của tướng và chơi phép. Ví dụ như Mage, nếu đang lượt thứ 2 và đối phương có một lính 1/1 trên board, bạn có thể dùng chiêu của Mage để loại lính đó, nhưng bạn cũng có thể đi lính 3/2. Nếu bạn sử dụng chiêu của Mage, đối phương sẽ có cơ hội đi lính trên board trống ở lượt tiếp theo. Nhưng nếu bạn đi lính thì đối phương buộc phải tìm cách giải quyết lính của bạn, không thảnh thơi để chiếm board.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Token&lt;/strong&gt;: Card được sinh ra từ card khác, không phải card gốc thì được xem là Token, ví dụ như 
+&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_152_premium.gif&quot; alt=&quot;Squire&quot; /&gt;Squire&lt;/a&gt;
+ từ card 
+&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_151_premium.gif&quot; alt=&quot;Silver Hand Knight&quot; /&gt;Silver Hand Knight&lt;/a&gt;
+. Có một số deck chỉ hướng đến tạo càng nhiều token càng tốt và sử dụng token để chiến thắng.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Top Deck, Top Decking, Top Deckin’ và Wreckin’&lt;/strong&gt;: rút card ngay với tình huống đang cần card ấy. Bốn thuật ngữ này thường bị người chơi lạm dụng để đổ lỗi. Top deck thực sự nghĩa là người chơi hầu như gần hết hy vọng chiến thắng nhưng rút ngay được card lật ngược tình thế.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Value&lt;/strong&gt;: Có được value (giá trị) nghĩa là bạn chỉ mất một card để đổi lấy nhiều card của đối phương.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Wild&lt;/strong&gt;: Wild là một trong hai dạng chơi, dạng còn lại là Standard. Trong khi Standard chỉ sử dụng các bộ bài cố định từ một năm trở lại thì Wild cho phép sử dụng tất cả bộ bài từ trước tới nay.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zoo&lt;/strong&gt;: thuật ngữ này gốc ở MTG, chỉ những lính tốn ít mana và giải quyết đối phương nhanh gọn. Game thủ Reynad nổi tiếng ở lối chơi này với những deck Aggro/Control Warlock. Đến nay, thuật ngữ này chỉ  deck Warlock sử dụng nhiều lính nhỏ nhưng rất nhanh, mạnh, giữ board tốt và tiêu diệt đối phương nhanh.&lt;/p&gt;
+
 &lt;h3 id=&quot;từ-khóa&quot;&gt;Từ khóa&lt;/h3&gt;
-&lt;h3 id=&quot;nickname-của-card-và&quot;&gt;Nickname của card và&lt;/h3&gt;
-&lt;h3 id=&quot;thuật-ngữ-trên-twitchreddit&quot;&gt;Thuật ngữ trên Twitch/Reddit&lt;/h3&gt;
+&lt;p&gt;Từ khóa Hearthstone là bất kỳ từ nào bạn thấy in đậm trong mô tả của card. Chúng được sử dụng để đơn giản hóa giải thích các hiệu ứng phổ biến trong game. Bên dưới là các định nghĩa của các từ khóa này.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Adapt&lt;/strong&gt;: chọn một trong ba hiệu ứng.
+&lt;strong&gt;Battlecry&lt;/strong&gt;: thực hiện một chiêu gì đó khi chơi card ấy.
+&lt;strong&gt;Charge&lt;/strong&gt;: có thể tấn công ngay.
+&lt;strong&gt;Choose One&lt;/strong&gt;: Trong game không có định nghĩa riêng cho thuật ngữ này, nhưng tóm lại là bạn sẽ có hai chọn lựa. Khả năng này chỉ có ở tướng Druid.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Combo&lt;/strong&gt;: là tác dụng bạn sẽ có được sau khi đã đi một card. Hiện Combo chỉ có trên tướng Rogue.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Counter&lt;/strong&gt;: card bị Counter sẽ không có tác dụng. Hiện chỉ có một card có từ khóa này là 
+&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_287_premium.gif&quot; alt=&quot;Counterspell&quot; /&gt;Counterspell&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Deathrattle&lt;/strong&gt;: làm một thứ gì đó sau khi chết.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Discover&lt;/strong&gt;: chọn một trong ba card để lấy vào tay bài.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Divine Shield&lt;/strong&gt;: lần đầu tiên một lính có divine shield bị dính damage, damage ấy không có tác dụng.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Enrage&lt;/strong&gt;: khi bị dính damage, lsinh đó có sức mạnh mới.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Freeze&lt;/strong&gt;: đóng băng đối tượng, không cho đối tượng đi lượt kế tiếp.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Immune&lt;/strong&gt;: đối tượng được “miễn nhiễm” với mọi damage vật lý hay phép.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Inspire&lt;/strong&gt;: làm một thứ gì đó sau khi Tướng sử dụng chiêu của Tướng.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mega-Winfury&lt;/strong&gt;: một card có thể tấn công bốn lần trong một lượt. Hiện thời, từ khóa này chỉ có hai card có được là 
+&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_111t_premium.gif&quot; alt=&quot;V-07-TR-0N&quot; /&gt;V-07-TR-0N&lt;/a&gt;
+ và 
+&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_111_premium.gif&quot; alt=&quot;Mimiron's Head&quot; /&gt;Mimiron’s Head&lt;/a&gt;
+.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Overload&lt;/strong&gt;: lượt tiếp theo, bạn sẽ bị mất đi X mana. X sẽ hiển thị trên card có hiệu ứng Overload. Hiện tại, từ khóa này chỉ áp dụng cho những card của tướng Shaman.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Poisonous&lt;/strong&gt;: “độc” sẽ tiêu diệt bất kỳ lính nào, bất kể máu lính đó như thế nào.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Quest&lt;/strong&gt;:  card quest sẽ xuất hiện ngay từ khi chọn card bắt đầu ván đấu. Hoàn thành quest, bạn sẽ nhận thưởng. Bạn có thể chọn không làm quest nếu muốn.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Secret&lt;/strong&gt;: là “bí mật”, ẩn trên đầu tướng và sẽ áp dụng bí mật này khi đối phương vấp phải. Hiện có ba Tướng có chiêu Secret gồm: Hunter, Mage và Paladin.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Spell Damage&lt;/strong&gt;: Card sẽ cộng thêm/giảm bớt damage, ví dụ như 
+&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_563_premium.gif&quot; alt=&quot;Malygos&quot; /&gt;Malygos&lt;/a&gt;
+ sẽ cộng thêm 5 spell damage cho card spell của bạn.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stealth&lt;/strong&gt;: “ẩn”, không thể tấn công card stealth cho đến khi card ấy lộ mình. Hiện chỉ có card 
+&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_544_premium.gif&quot; alt=&quot;Flare&quot; /&gt;Flare&lt;/a&gt;
+ là có thể loại bỏ chiêu Stealth của đối phương.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Taunt&lt;/strong&gt;: đối phương buộc phải tấn công card có Taunt trước khi tấn công được vào Tướng.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Winfury&lt;/strong&gt;: có thể tấn công hai lần mỗi lượt.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/Hearthstone-basic/terminology/</guid>
+				<guid isPermaLink="true">https://duybl.github.io/hearthstonevn/Hearthstone-basic/terminology/</guid>
 			</item>
 		
 			<item>
 				<title>Odd Quest Warrior</title>
-				<link>http://localhost:4000/warrior/warrior-odd-quest-1/</link>
+				<link>https://duybl.github.io/hearthstonevn/warrior/warrior-odd-quest-1/</link>
 				<pubDate>Wed, 29 Aug 2018 00:00:00 +0700</pubDate>
 				<description>
 &lt;div class=&quot;alert-box success &quot;&gt;&lt;p&gt;Odd Quest Warrior.&lt;/p&gt;
@@ -146,12 +228,12 @@
 &lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAQcE08MC08UCnvgCoIADDUuiAqIE3gX/B5vCAsrDAqLHAsrnAqrsAuL4Ao77Ap77AgA=')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/warrior/warrior-odd-quest-1/</guid>
+				<guid isPermaLink="true">https://duybl.github.io/hearthstonevn/warrior/warrior-odd-quest-1/</guid>
 			</item>
 		
 			<item>
 				<title>Odd Warrior</title>
-				<link>http://localhost:4000/warrior/warrior-odd-1/</link>
+				<link>https://duybl.github.io/hearthstonevn/warrior/warrior-odd-1/</link>
 				<pubDate>Wed, 29 Aug 2018 00:00:00 +0700</pubDate>
 				<description>
 &lt;div class=&quot;alert-box success &quot;&gt;&lt;p&gt;Odd Warrior.&lt;/p&gt;
@@ -166,12 +248,12 @@
 &lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAQcMogKqBvkM08UCz8cCmu4Cze8CnfACkvgCnvgCjvsCoIADCUuiBP8Hm8ICyucC4vgCg/sCnvsCs/wCAA==')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/warrior/warrior-odd-1/</guid>
+				<guid isPermaLink="true">https://duybl.github.io/hearthstonevn/warrior/warrior-odd-1/</guid>
 			</item>
 		
 			<item>
 				<title>Control Warrior</title>
-				<link>http://localhost:4000/warrior/warrior-control-1/</link>
+				<link>https://duybl.github.io/hearthstonevn/warrior/warrior-control-1/</link>
 				<pubDate>Wed, 29 Aug 2018 00:00:00 +0700</pubDate>
 				<description>
 &lt;div class=&quot;alert-box success &quot;&gt;&lt;p&gt;Control Warrior.&lt;/p&gt;
@@ -186,12 +268,12 @@
 &lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAQcGws4C6uoCmu4Cm/MCkvgCoIADDEuKAaIEkQayCPsMzM0C8dMCz+cC4vgCg/sCnvsCAA==')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/warrior/warrior-control-1/</guid>
+				<guid isPermaLink="true">https://duybl.github.io/hearthstonevn/warrior/warrior-control-1/</guid>
 			</item>
 		
 			<item>
 				<title>Zoo Warlock</title>
-				<link>http://localhost:4000/warlock/warlock-zoo-1/</link>
+				<link>https://duybl.github.io/hearthstonevn/warlock/warlock-zoo-1/</link>
 				<pubDate>Wed, 29 Aug 2018 00:00:00 +0700</pubDate>
 				<description>
 &lt;div class=&quot;alert-box success &quot;&gt;&lt;p&gt;Zoo Warlock&lt;/p&gt;
@@ -206,12 +288,12 @@
 &lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAf0GBK8E3gXyBZziAg0whAHOB8II9wzKwwKbywL3zQKfzgLy0ALR4QKH6ALv8QIA')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/warlock/warlock-zoo-1/</guid>
+				<guid isPermaLink="true">https://duybl.github.io/hearthstonevn/warlock/warlock-zoo-1/</guid>
 			</item>
 		
 			<item>
 				<title>Even Warlock</title>
-				<link>http://localhost:4000/warlock/warlock-even-1/</link>
+				<link>https://duybl.github.io/hearthstonevn/warlock/warlock-even-1/</link>
 				<pubDate>Wed, 29 Aug 2018 00:00:00 +0700</pubDate>
 				<description>
 &lt;div class=&quot;alert-box success &quot;&gt;&lt;p&gt;Even Warlock&lt;/p&gt;
@@ -226,12 +308,12 @@
 &lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAf0GCIoH+wfMCPgMws4Cl9MC6uYCzfQCC/IF+wa2B+EHjQjmwgLnywLx0AL90AKI0gLY5QIA')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/warlock/warlock-even-1/</guid>
+				<guid isPermaLink="true">https://duybl.github.io/hearthstonevn/warlock/warlock-even-1/</guid>
 			</item>
 		
 			<item>
 				<title>Shudderwock Shaman</title>
-				<link>http://localhost:4000/shaman/shaman-shuddlewock-1/</link>
+				<link>https://duybl.github.io/hearthstonevn/shaman/shaman-shuddlewock-1/</link>
 				<pubDate>Wed, 29 Aug 2018 00:00:00 +0700</pubDate>
 				<description>&lt;h1 id=&quot;to-use-this-deck-copy-it-to-your-clipboard-and-create-a-new-deck-in-hearthstone&quot;&gt;To use this deck, copy it to your clipboard and create a new deck in Hearthstone&lt;/h1&gt;
 &lt;h1 id=&quot;find-this-deck-on-httpshsreplaynetdeckscori60tetoqmnwpx7hu55f&quot;&gt;Find this deck on https://hsreplay.net/decks/CoRI60teToqMNWpx7HU55f/&lt;/h1&gt;
@@ -248,12 +330,12 @@
 &lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAaoIBtPFApziAqvnAsPqAqfuAu/3AgyBBPUE3gX+Bf8Fsgb7DJfBAsfBApvLAvPnAu/xAgA=')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/shaman/shaman-shuddlewock-1/</guid>
+				<guid isPermaLink="true">https://duybl.github.io/hearthstonevn/shaman/shaman-shuddlewock-1/</guid>
 			</item>
 		
 			<item>
 				<title>Midrange Shaman</title>
-				<link>http://localhost:4000/shaman/shaman-midrange-1/</link>
+				<link>https://duybl.github.io/hearthstonevn/shaman/shaman-midrange-1/</link>
 				<pubDate>Wed, 29 Aug 2018 00:00:00 +0700</pubDate>
 				<description>
 &lt;div class=&quot;alert-box success &quot;&gt;&lt;p&gt;Midrange Shaman.&lt;/p&gt;
@@ -268,12 +350,12 @@
 &lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAaoICoEEsgaTCfPCAsLOApziAqfuAu/3Aur6Apn7Agq9AfUE/gWXwQLrwgLKwwKbywLR4QLi+AKc/wIA')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/shaman/shaman-midrange-1/</guid>
+				<guid isPermaLink="true">https://duybl.github.io/hearthstonevn/shaman/shaman-midrange-1/</guid>
 			</item>
 		
 			<item>
 				<title>Even Shaman</title>
-				<link>http://localhost:4000/shaman/shaman-even-1/</link>
+				<link>https://duybl.github.io/hearthstonevn/shaman/shaman-even-1/</link>
 				<pubDate>Wed, 29 Aug 2018 00:00:00 +0700</pubDate>
 				<description>
 &lt;div class=&quot;alert-box success &quot;&gt;&lt;p&gt;Even Shaman.&lt;/p&gt;
@@ -288,27 +370,7 @@
 &lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAaoIBiCZAsLOAvbsAqfuAs30Agy9AdMB/gXZB/AHsQiRwQKswgKbywKW6AKU7wKw8AIA')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/shaman/shaman-even-1/</guid>
-			</item>
-		
-			<item>
-				<title>Tempo Rogue</title>
-				<link>http://localhost:4000/rogue/rogue-tempo-1/</link>
-				<pubDate>Wed, 29 Aug 2018 00:00:00 +0700</pubDate>
-				<description>
-&lt;div class=&quot;alert-box success &quot;&gt;&lt;p&gt;Tempo Rogue.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;script&gt;showDeck(&quot;AAECAaIHArICrwQOtAGMAs0DvQT2BJsFiAfdCIYJgcIC68IC3NEC2+MCpu8CAA==&quot;);&lt;/script&gt;
-
-&lt;div id=&quot;type&quot; style=&quot;letter-spacing: 4px; color: #008CBA; text-align: justify;&quot;&gt;&lt;/div&gt;
-&lt;div id=&quot;hero&quot; style=&quot;letter-spacing: 4px; color: #008CBA; text-align: justify;&quot;&gt;&lt;/div&gt;
-&lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
-&lt;pre&gt;AAECAaIHArICrwQOtAGMAs0DvQT2BJsFiAfdCIYJgcIC68IC3NEC2+MCpu8CAA==&lt;/pre&gt;
-&lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAaIHArICrwQOtAGMAs0DvQT2BJsFiAfdCIYJgcIC68IC3NEC2+MCpu8CAA==')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
-
-</description>
-				<guid isPermaLink="true">http://localhost:4000/rogue/rogue-tempo-1/</guid>
+				<guid isPermaLink="true">https://duybl.github.io/hearthstonevn/shaman/shaman-even-1/</guid>
 			</item>
 		
 	</channel>
