@@ -9,13 +9,378 @@
 		<atom:link href="https://duybl.github.io/hearthstonevn/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title></title>
+				<link>https://duybl.github.io/hearthstonevn/Hearthstone-basic/classes-hunter/</link>
+				<pubDate>Thu, 13 Sep 2018 00:00:00 +0700</pubDate>
+				<description>&lt;h1 id=&quot;cơ-bản-về-hunter&quot;&gt;Cơ bản về Hunter&lt;/h1&gt;
+
+&lt;div class=&quot;panel radius&quot;&gt;
+  &lt;p id=&quot;toc&quot;&gt;&lt;strong&gt;Mục lục&lt;/strong&gt;&lt;/p&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#cơ-bản-về-hunter&quot; id=&quot;markdown-toc-cơ-bản-về-hunter&quot;&gt;Cơ bản về Hunter&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#lối-chơi-và-cơ-chế&quot; id=&quot;markdown-toc-lối-chơi-và-cơ-chế&quot;&gt;Lối chơi và cơ chế&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;Hunter (Thợ săn) còn có biệt danh là chuyên gia sống sót. Được trang bị cung tên hoặc súng trường, họ đi lang thang quanh rừng rậm để tìm kiếm con mồi. Nhưng họ không chỉ giết bất kỳ sinh vật nào gặp phải, Hunter có mối liên hệ sâu sắc với thiên nhiên và cố gắng giữ sự cân bằng hợp lý. Họ không muốn phá vỡ vòng tròn tự nhiên của sự sống và cái chết, họ muốn trở thành một phần của tự nhiên. Thay vì giết một con vật, một Hunter thường thích làm bạn và biến nó trở thành bạn đồng hành của mình.&lt;/p&gt;
+
+&lt;p&gt;Hunter sử dụng sức mạnh cụ thể của bạn đồng hành (companion) khác nhau để vươn lên chiến đấu. Mặc dù cung và súng trường là vũ khí ưu tiên của Hunter nhưng họ không sợ cận chiến. Là chuyên gia về tàng hình và bẫy, họ thường phục kích đối thủ và đưa đối phương phải lao vào chiến với các loài động vật hoang dã khác nhau. Hầu hết Hunter cũng  học được cách làm thế nào để tẩm mũi tên bằng phép thuật, hoặc gia cố bẫy rập, chất độc hoặc thậm chí nướng kẻ thù  trên lửa với đủ mọi thể loại tra tấn khác nhau.&lt;/p&gt;
+
+&lt;p&gt;Trong Hearthstone, đại diện cho Tướng Hunter là &lt;strong&gt;Rexxar&lt;/strong&gt;. Ngoài ra, bạn cũng có thể mở khóa một tướng Hunter khác tên là &lt;strong&gt;Alleria Windrunner&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;lối-chơi-và-cơ-chế&quot;&gt;Lối chơi và cơ chế&lt;/h3&gt;
+&lt;p&gt;Chiêu của Hunter là &lt;strong&gt;Steady Shot&lt;/strong&gt;. Sau khi dùng, Hunter sẽ gây 2 damage lên tướng đối phương. Đây là chiêu Tướng được xem là hung hăng nhất game, thay vì những chiêu tướng khác như hồi máu, tương tác với board… Ngoài ra, đây là chiêu rất phù hợp với lối chơi “đánh nhanh, tiêu diệt gọn”. Bởi vì Hunter có thể gây 2 damage mỗi lượt mà không tốn bất kỳ card nào nên chiêu Tướng này thường là công cụ chính để giành chiến thắng trong một trận đấu dài hơi.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/steady-shot-217x300.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Secret&lt;/strong&gt; (bí mật) là cơ chế độc đáo của Hunter. Có hai Tướng cũng có cơ chế Secret này nhưng cách vận hành lại khác nhau. Secret của Hunter là một loạt bẫy (trap) cho hầu như mọi tình huống. Secret khác với card phép thông thường, phản ứng tùy theo cách đi của đối phương. Secret của Hunter rất mạnh bởi vì chỉ tốn 2 mana mà còn tác dụng thức sự của chúng có thể là 3 hoặc 4 mana (tùy vào Secret). Trên hết, đối phương không biết bạn đi Secret nào, dĩ nhiên nếu chơi thuần thục, đối phương có thể đoán biết được. Vì vậy, để tránh khỏi vấp phải trap secret của Hunter, đối phương buộc phải có những con bài để thử và kích hoạt trap ấy.&lt;/p&gt;
+
+&lt;p&gt;Ví dụ, một trong những Secret phổ biến của Hunter là 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Common&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_610_premium.gif&quot; alt=&quot;Explosive Trap&quot; /&gt;Explosive Trap&lt;/a&gt;
+, tương tự như phép 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Free&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_093_premium.gif&quot; alt=&quot;Consecration&quot; /&gt;Consecration&lt;/a&gt;
+ xét theo cách vận hành. Nên nếu đối phương không né được và tấn công Tướng của bạn trong khi đang có nhiều lính nhỏ trên board, thì giá trị của card này rất cao, có thể loại bỏ hết đám lính nhỏ ấy dễ dàng. Nhưng cùng lúc đó, nếu Secret chưa được kích hoạt và những lính nhỏ đó đã trao đổi với một lính nào khác có giá trị lớn của bạn thì Secret này có vẻ không mấy hiệu quả.&lt;/p&gt;
+
+&lt;p&gt;Bên cạnh bộ Secret, Hunter cũng có một số card đồng bộ rất tốt với Secret. 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Rare&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_536_premium.gif&quot; alt=&quot;Eaglehorn Bow&quot; /&gt;Eaglehorn Bow&lt;/a&gt;
+ sẽ tăng thêm một lần Durability nếu một Secret được kích hoạt, 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Common&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_006_premium.gif&quot; alt=&quot;Cloaked Huntress&quot; /&gt;Cloaked Huntress&lt;/a&gt;
+ cho Hunter đi Secret miễn phí (thay vì thông thường phải tốn 2 mana) miễn là card này xuất hiện trên board, còn 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Legendary&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_204_premium.gif&quot; alt=&quot;Professor Putricide&quot; /&gt;Professor Putricide&lt;/a&gt;
+ đi thêm một Secret khác miễn phí nếu bạn đi một Secret.&lt;/p&gt;
+
+&lt;p&gt;Cũng vậy, Hunter có nhiều cách chơi khác nhau tùy vào từng thời điểm. Nhưng hiện tại, có những lối chơi chính như sau:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Beast&lt;/strong&gt;: Đây là dòng chính của Hunter. Càng ngày, Hunter càng có nhiều card Beast và card đồng bộ với Beast. Ví dụ điển hình nhất là 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Free&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_539_premium.gif&quot; alt=&quot;Kill Command&quot; /&gt;Kill Command&lt;/a&gt;
+, không có Beast, card này chỉ gây ra 3 damage, tốn 3 mana. Nhưng miễn là Hunter có một beast trên board, card sẽ gây ra đến 5 damage chỉ với 3 mana. Cũng có nhiều card dựa vào beast mới hoạt động được, như 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Free&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/DS1_070_premium.gif&quot; alt=&quot;Houndmaster&quot; /&gt;Houndmaster&lt;/a&gt;
+, 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Common&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_915_premium.gif&quot; alt=&quot;Crackling Razormaw&quot; /&gt;Crackling Razormaw&lt;/a&gt;
+, 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Free&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/DS1_175_premium.gif&quot; alt=&quot;Timber Wolf&quot; /&gt;Timber Wolf&lt;/a&gt;
+, 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Free&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_237_premium.gif&quot; alt=&quot;Starving Buzzard&quot; /&gt;Starving Buzzard&lt;/a&gt;
+, 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Common&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_531_premium.gif&quot; alt=&quot;Scavenging Hyena&quot; /&gt;Scavenging Hyena&lt;/a&gt;
+…&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Deathrattle&lt;/strong&gt;: giống với Rogue, Tướng Hunter có nhiều lính có đặc tính Deathrattle (chết sẽ kích hoạt một thứ gì đó) nhất, cũng như có nhiều card đồng bộ với đặc tính này. Hunter nổi tiếng là có nhiều lính chắc khỏe và đặc tính Deathrattle thường là khi chết sẽ tạo ra lính mới, ví dụ như card 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Rare&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_216_premium.gif&quot; alt=&quot;Infested Wolf&quot; /&gt;Infested Wolf&lt;/a&gt;
+ hay 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Rare&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_534_premium.gif&quot; alt=&quot;Savannah Highmane&quot; /&gt;Savannah Highmane&lt;/a&gt;
+. Hunter cũng có thể buff cho lính Deathrattle khi đang giữ trong tay (như card 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Rare&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_292_premium.gif&quot; alt=&quot;Forlorn Stalker&quot; /&gt;Forlorn Stalker&lt;/a&gt;
+) hoặc kích hoạt Deathrattle cho lính của mình (như 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Rare&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_800_premium.gif&quot; alt=&quot;Terrorscale Stalker&quot; /&gt;Terrorscale Stalker&lt;/a&gt;
+). Hunter cũng có cách chơi lính Deathrattle với ít mana hơn nhờ card 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Rare&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_243_premium.gif&quot; alt=&quot;Corpse Widow&quot; /&gt;Corpse Widow&lt;/a&gt;
+ và thậm chí copy hiệu ứng Deathrattle từ một card ngẫu nhiên bằng card 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Rare&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOOT_520_premium.gif&quot; alt=&quot;Seeping Oozeling&quot; /&gt;Seeping Oozeling&lt;/a&gt;
+.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Không lính/toàn phép&lt;/strong&gt;: một cách chơi mới của Hunter hoạt động rất hiệu quả là chơi deck không có lính nào trong deck. Hiện tại, chỉ có hai card hỗ trợ tốt nhất cho lối chơi này là 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Epic&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOOT_217_premium.gif&quot; alt=&quot;To My Side!&quot; /&gt;To My Side!&lt;/a&gt;
+ và 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Legendary&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOOT_085_premium.gif&quot; alt=&quot;Rhok'delar&quot; /&gt;Rhok’delar&lt;/a&gt;
+.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;ref: https://www.hearthstonetopdecks.com/guides/hearthstone-classes-hunter-overview-guide/&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">https://duybl.github.io/hearthstonevn/Hearthstone-basic/classes-hunter/</guid>
+			</item>
+		
+			<item>
+				<title>Druid</title>
+				<link>https://duybl.github.io/hearthstonevn/Hearthstone-basic/classes-druid/</link>
+				<pubDate>Thu, 13 Sep 2018 00:00:00 +0700</pubDate>
+				<description>&lt;div class=&quot;panel radius&quot;&gt;
+  &lt;p id=&quot;toc&quot;&gt;&lt;strong&gt;Mục lục&lt;/strong&gt;&lt;/p&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#lối-chơi-và-cơ-chế&quot; id=&quot;markdown-toc-lối-chơi-và-cơ-chế&quot;&gt;Lối chơi và cơ chế&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#ưu-khuyết&quot; id=&quot;markdown-toc-ưu-khuyết&quot;&gt;Ưu khuyết&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#ưu&quot; id=&quot;markdown-toc-ưu&quot;&gt;Ưu:&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#khuyết&quot; id=&quot;markdown-toc-khuyết&quot;&gt;Khuyết:&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#meta-deck-và-chiến-thuật&quot; id=&quot;markdown-toc-meta-deck-và-chiến-thuật&quot;&gt;Meta deck và chiến thuật&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#deck-cơ-bản-và-rẻ&quot; id=&quot;markdown-toc-deck-cơ-bản-và-rẻ&quot;&gt;Deck cơ bản và rẻ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#phần-thưởng-lên-hạng&quot; id=&quot;markdown-toc-phần-thưởng-lên-hạng&quot;&gt;Phần thưởng lên hạng&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;Druids là thần bảo vệ thiên nhiên, hút năng lượng từ mọi thứ xung quanh để phóng ra năng lượng chết người nhằm tiêu diệt hoặc phục hồi máu cho đồng minh. Khả năng biến hình cho phép Druid ẩn dưới nhiều hình thức, tăng khả năng phòng thủ và tấn công, tốc độ, hoặc thậm chí cho phép bay khi cần thiết. Druid là một trong những class linh hoạt nhất, có thể phù hợp với nhiều vai trò khác nhau - gây sát thương vật lý hay phép thuật lớn, bảo vệ đồng minh hoặc đưa đồng minh trở lại trận chiến bằng phép thuật chữa bệnh.&lt;/p&gt;
+
+&lt;p&gt;Trong Hearthstone, Druid do Malfurion Stormrage đại diện. Tại thời điểm này, Druid là class duy nhất chưa có Hero nào khác thay thế.&lt;/p&gt;
+
+&lt;h3 id=&quot;lối-chơi-và-cơ-chế&quot;&gt;Lối chơi và cơ chế&lt;/h3&gt;
+
+&lt;p&gt;Chiêu tướng (Hero Power) của Druid là Shapeshift. Sau khi sử dụng, Druid tăng +1 tấn công (chỉ một lượt) và 1 giáp (vĩnh viễn). Chiêu này linh hoạt nếu so sánh với Hero Power khác vì nó vừa tấn công, vừa phòng thủ. Shapeshift được sử dụng để xóa các lính nhỏ, hay loại bỏ lính lớn hơn sau khi chúng còn 1 máu, gây ra một lượng sát thương nhỏ cho Tướng của đối thủ, hoặc tích lũy một chút giáp (Armor) theo thời gian.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/shapeshift-217x300.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Cơ chế độc nhất đầu tiên của Druid là &lt;strong&gt;Choose One&lt;/strong&gt; (Chọn một). Nhiều card như 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Common&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_154_premium.gif&quot; alt=&quot;Wrath&quot; /&gt;Wrath&lt;/a&gt;
+, 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Rare&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_164_premium.gif&quot; alt=&quot;Nourish&quot; /&gt;Nourish&lt;/a&gt;
+, hoặc 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Common&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_165_premium.gif&quot; alt=&quot;Druid of the Claw&quot; /&gt;Druid of the Claw&lt;/a&gt;
+  cho bạn hai lựa chọn khi chơi. Cơ chế linh hoạt này cho phép Druid điều chỉnh hiệu ứng của card tùy tình huống. Lối chơi phổ biến trong các card Choose One là một lựa chọn phòng thủ và một tấn công. 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Common&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_047_premium.gif&quot; alt=&quot;Feral Rage&quot; /&gt;Feral Rage&lt;/a&gt;
+ là ví dụ tuyệt vời về điều này, card thực sự mạnh vì bạn có thể sử dụng nó để có Attack và giết một lính hoặc dồn sát thương cuối cùng, hoặc lấy Armor khi Tướng còn ít máu.&lt;/p&gt;
+
+&lt;p&gt;Lối chơi Druid cơ bản nhất là kích hoạt mana tạm thời hoặc vĩnh viễn cho Tướng (thông thường gọi là “ramp”). Đây được cho là điểm mạnh nhất của Druid, cho phép Druid có được hơn đối thủ từ 2-3 mana để có thể đi được những lính ngốn nhiều mana. Ramp thường có ngay ở hai bộ card Basic lẫn Classic như card 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Free&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_013_premium.gif&quot; alt=&quot;Wild Growth&quot; /&gt;Wild Growth&lt;/a&gt;
+ và 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Rare&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_164_premium.gif&quot; alt=&quot;Nourish&quot; /&gt;Nourish&lt;/a&gt;
+. Các card ramp này có thể tăng mana vĩnh viễn như 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Common&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_713_premium.gif&quot; alt=&quot;Jade Blossom&quot; /&gt;Jade Blossom&lt;/a&gt;
+, 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Rare&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_202_premium.gif&quot; alt=&quot;Mire Keeper&quot; /&gt;Mire Keeper&lt;/a&gt;
+ nhưng cũng có card tăng mana tạm thời trong một lượt như 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Free&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_169_premium.gif&quot; alt=&quot;Innervate&quot; /&gt;Innervate&lt;/a&gt;
+, đồng thời cũng có card lấy lại toàn bộ mana như 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Legendary&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_308_premium.gif&quot; alt=&quot;Kun the Forgotten King&quot; /&gt;Kun the Forgotten King&lt;/a&gt;
+ hoặc một cách khác là làm giảm mana của card trong bộ deck như 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Legendary&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_116_premium.gif&quot; alt=&quot;Jungle Giants&quot; /&gt;Jungle Giants&lt;/a&gt;
+, 
+&lt;a style=&quot;display: inline;&quot; class=&quot;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_116t_premium.gif&quot; alt=&quot;Barnabus the Stomper&quot; /&gt;Barnabus the Stomper&lt;/a&gt;
+.&lt;/p&gt;
+
+&lt;p&gt;Có nhiều cách chơi Druid, và mỗi khi Blizzard bổ sung set card mới, hoặc thay đổi một số card, Druid lại có những lối chơi mới, khác biệt. Nhưng tóm lại, có vài cách chơi phổ biến sau đây:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Beast&lt;/strong&gt;: là gốc chính của Druid. Không chỉ card của Druid có nhiều card Beast (quái thú) mà ngay cả chiêu biến hình (như 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Rare&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_101t3_premium.gif&quot; alt=&quot;Shellshifter&quot; /&gt;Shellshifter&lt;/a&gt;
+) cũng cho ra Beast. Nói chung, Druid có nhiều card có lối chơi đồng bộ với Beast, cả chơi phép thuật (
+&lt;a style=&quot;display: inline;&quot; class=&quot;Common&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_048_premium.gif&quot; alt=&quot;Mark of Y'Shaarj&quot; /&gt;Mark of Y’Shaarj&lt;/a&gt;
+) lẫn chơi lính (
+&lt;a style=&quot;display: inline;&quot; class=&quot;Common&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_065_premium.gif&quot; alt=&quot;Menagerie Warden&quot; /&gt;Menagerie Warden&lt;/a&gt;
+).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Taunt&lt;/strong&gt;: Druid cũng có rất nhiều card Taunt, mà nổi tiếng là những lính Taunt nhiều máu như 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Epic&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_178_premium.gif&quot; alt=&quot;Ancient of War&quot; /&gt;Ancient of War&lt;/a&gt;
+ nhưng cũng có những card phép cho lính bình thường có thể Taunt như 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Free&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_009_premium.gif&quot; alt=&quot;Mark of the Wild&quot; /&gt;Mark of the Wild&lt;/a&gt;
+ và triệu hồi nhiều lính Taunt như 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Legendary&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_832_premium.gif&quot; alt=&quot;Malfurion the Pestilent&quot; /&gt;Malfurion the Pestilent&lt;/a&gt;
+, 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Rare&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_054_premium.gif&quot; alt=&quot;Spreading Plague&quot; /&gt;Spreading Plague&lt;/a&gt;
+. Druid cũng có những card đồng bộ tốt với lính Taunt như 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Rare&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_807_premium.gif&quot; alt=&quot;Strongshell Scavenger&quot; /&gt;Strongshell Scavenger&lt;/a&gt;
+ hay 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Legendary&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_835_premium.gif&quot; alt=&quot;Hadronox&quot; /&gt;Hadronox&lt;/a&gt;
+.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Token/AoE Buff&lt;/strong&gt;: trong khi Druid thường có lối chơi thiên về những lính to khỏe thì cách chơi này lại hoàn toàn trái ngược. Druid có nhiều cách để triệu hồi một loạt lính nhỏ và buff trên toàn bộ board. Lối chơi này dựa nhiều vào những card phép như 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Epic&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_571_premium.gif&quot; alt=&quot;Force of Nature&quot; /&gt;Force of Nature&lt;/a&gt;
+, 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Epic&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_195_premium.gif&quot; alt=&quot;Wisps of the Old Gods&quot; /&gt;Wisps of the Old Gods&lt;/a&gt;
+, 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Common&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_160_premium.gif&quot; alt=&quot;Power of the Wild&quot; /&gt;Power of the Wild&lt;/a&gt;
+ hay 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Epic&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_111_premium.gif&quot; alt=&quot;Living Mana&quot; /&gt;Living Mana&lt;/a&gt;
+, nhưng cũng có vài lính rất hợp với lối chơi này như 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Rare&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_313_premium.gif&quot; alt=&quot;Addled Grizzly&quot; /&gt;Addled Grizzly&lt;/a&gt;
+ hay 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Legendary&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_573_premium.gif&quot; alt=&quot;Cenarius&quot; /&gt;Cenarius&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Life Gain&lt;/strong&gt;: một trong những thế mạnh của Druid là có nhiều card phép tạo giáp (Amor) và hồi máu. Do vậy, bạn có thể có nhiều cách để chọn card phù hợp với lối chơi. Như hồi máu trực tiếp với 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Free&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_007_premium.gif&quot; alt=&quot;Healing Touch&quot; /&gt;Healing Touch&lt;/a&gt;
+, kết hợp giữa phòng ngự/tấn công như 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Common&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_047_premium.gif&quot; alt=&quot;Feral Rage&quot; /&gt;Feral Rage&lt;/a&gt;
+, 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Rare&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_570_premium.gif&quot; alt=&quot;Bite&quot; /&gt;Bite&lt;/a&gt;
+, hồi máu triệu hồi của 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Rare&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_075_premium.gif&quot; alt=&quot;Moonglade Portal&quot; /&gt;Moonglade Portal&lt;/a&gt;
+ hoặc linh hoạt hơn nữa với card vừa tăng giáp, vừa tăng tấn công, phòng thủ cho lính với 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Rare&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/UNG_108_premium.gif&quot; alt=&quot;Earthen Scales&quot; /&gt;Earthen Scales&lt;/a&gt;
+. Mới nhất là hai card 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Common&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOOT_047_premium.gif&quot; alt=&quot;Barkskin&quot; /&gt;Barkskin&lt;/a&gt;
+ và 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Common&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOOT_309_premium.gif&quot; alt=&quot;Oaken Summons&quot; /&gt;Oaken Summons&lt;/a&gt;
+ vừa được nhà phát triển bổ sung cho Druid.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;ưu-khuyết&quot;&gt;Ưu khuyết&lt;/h3&gt;
+&lt;h5 id=&quot;ưu&quot;&gt;Ưu:&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Linh động&lt;/strong&gt;: Với cơ chế &lt;strong&gt;Choose One&lt;/strong&gt; và nhiều card có thể chơi nhiều cách khác nhau, Druid là bậc thầy về tính linh động. Bạn có thể chọn card tùy tình huống cụ thể. Tuy có những card yếu hơn một chút so với card gần như tương đồng về chức năng của class khác, như 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Common&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_154_premium.gif&quot; alt=&quot;Wrath&quot; /&gt;Wrath&lt;/a&gt;
+ yếu hơn một chút so với 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Free&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_024_premium.gif&quot; alt=&quot;Frostbolt&quot; /&gt;Frostbolt&lt;/a&gt;
+ hay 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Free&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_278_premium.gif&quot; alt=&quot;Shiv&quot; /&gt;Shiv&lt;/a&gt;
+ thì thực tế là bạn có thể chọn hiệu ứng nào phù hợp với tình huống, và đây mới là điểm mạnh thực sự của cơ chế Choose One.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Lính to khỏe&lt;/strong&gt;: Druid luôn có những con lính rất nhiều máu và attack. Một trong những chiến thuật của Druid là đẩy mana lên thật cao ở đầu game, sau đó mỗi lượt ra một lính to khỏe. Trong khi đa phần các deck đều chỉ có thể có một đến hai card xử lý được những lính loại này thì lính to khỏe tỏ ra rất khó chịu đối với đối phương.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Lấp board&lt;/strong&gt;: chiến thuật khác trái ngược với chiến thuật sử dụng lính to khỏe mà Druid rất giỏi đó là cách lấp đầy board bằng những lính nhỏ, yếu, sau đó buff chúng cho mạnh lên. Druid có nhiều card buff AoE như 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Common&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CFM_614_premium.gif&quot; alt=&quot;Mark of the Lotus&quot; /&gt;Mark of the Lotus&lt;/a&gt;
+ và khi đúng thời điểm, chúng có thể tạo ra vô vàn damage với 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Free&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_011_premium.gif&quot; alt=&quot;Savage Roar&quot; /&gt;Savage Roar&lt;/a&gt;
+.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Khả năng phòng ngự&lt;/strong&gt;: Druid có thể là một trong những Tướng phòng ngự tốt nhất nhờ có một loạt lính Taunt, có khả năng hồi máu và tạo giáp nên rất khó để tiêu diệt Druid.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;khuyết&quot;&gt;Khuyết:&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Dọn dẹp board&lt;/strong&gt;: một trong những điều mà Druid rất vất vả là thiếu những card dọn board gọn gàng. Druid có thể loại bỏ được mục tiêu có 3-4 máu (với 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Common&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_154_premium.gif&quot; alt=&quot;Wrath&quot; /&gt;Wrath&lt;/a&gt;
+, 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Common&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_047_premium.gif&quot; alt=&quot;Feral Rage&quot; /&gt;Feral Rage&lt;/a&gt;
+) nhưng lại gặp rắc rối với những lính to khỏe. Một trong số ít cách để loại bỏ là sử dụng card 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Common&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_161_premium.gif&quot; alt=&quot;Naturalize&quot; /&gt;Naturalize&lt;/a&gt;
+, nhưng lại cho đối phương cơ hội rút card. Tương tự vậy, Druid có thể dọn dẹp lính có 1 máu với 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Free&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_012_premium.gif&quot; alt=&quot;Swipe&quot; /&gt;Swipe&lt;/a&gt;
+ nhưng nếu trên board có toàn lính 3 máu hay cao hơn thì Druid rất khó có câu trả lời.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Không có cơ chế lật ngược tình thế&lt;/strong&gt;: một khi Druid bị thất thế và không chiếm được board thì Druid rất khó lật được tình hình. Những deck hổ báo thường dựa nhiều vào lính nên chiếm được board thường có nghĩa là đã giành được phần thắng. Những deck Druid kéo dài game thường không có card dọn dẹp board và thường rất vất vả khi đối đầu với deck tempo. Đó là lý do tại sao deck Druid thường có những card trung lập (Neutral) như 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Legendary&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/NEW1_030_premium.gif&quot; alt=&quot;Deathwing&quot; /&gt;Deathwing&lt;/a&gt;
+ hay 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Legendary&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/OG_134_premium.gif&quot; alt=&quot;Yogg-Saron, Hope's End&quot; /&gt;Yogg-Saron, Hope’s End&lt;/a&gt;
+ để vớt vát trong những tình huống khó xử. Và để giúp thêm cho Druid, Blizzard đã thêm vào 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Rare&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_054_premium.gif&quot; alt=&quot;Spreading Plague&quot; /&gt;Spreading Plague&lt;/a&gt;
+. Dù vậy, card này thiên về khả năng phòng ngự hơn là cơ chế lật ngược thế cờ, bởi vì card này chỉ có thể ngăn được những lính nhỏ, yếu mà thôi.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Đầu game yếu&lt;/strong&gt;: Những deck Druid dùng nhiều mana thường rất yếu vào đầu game. Bởi vì Druid buộc phải dựa vào ramp để đến được mid game và thường phải bỏ qua vài lượt đi đầu bởi vì trong tay người chơi toàn những card cần nhiều mana. Ngay cả deck Druid thuộc dạng hổ báo aggressive (aggro) cũng phải dựa vào những lính Neutral hoặc 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Free&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_169_premium.gif&quot; alt=&quot;Innervate&quot; /&gt;Innervate&lt;/a&gt;
+ để có lính trên board ở những lượt đi đầu. Hiện thời, lính Druid mạnh ở lượt đầu chỉ có 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Common&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/KAR_300_premium.gif&quot; alt=&quot;Enchanted Raven&quot; /&gt;Enchanted Raven&lt;/a&gt;
+ mà thôi.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;meta-deck-và-chiến-thuật&quot;&gt;Meta deck và chiến thuật&lt;/h3&gt;
+&lt;p&gt;Những deck Druid mới nhất được cập nhật trong mục &lt;code class=&quot;highlighter-rouge&quot;&gt;Decks &amp;gt; Druid&lt;/code&gt;, bạn có thể tìm hiểu chi tiết ở từng bài viết về Druid. Nhưng tóm lại, ở meta hiện tại sau khi Blizzard tung ra set card The Witchwood, deck Druid phổ biến là Aggro/Token Druid, Big Druid, Mill Druid, Taunt Druid, Malygos Druid, Spiteful Druid và Mecha’thun Druid.&lt;/p&gt;
+
+&lt;h3 id=&quot;deck-cơ-bản-và-rẻ&quot;&gt;Deck cơ bản và rẻ&lt;/h3&gt;
+&lt;p&gt;Nếu bạn mới tập chơi Hearthstone, có lẽ cách tốt nhất là bạn tìm những deck Druid có sẵn mà không phải bỏ ra quá nhiều Dust để craft những card Legendary.
+Một deck Basic chỉ có những card cơ bản. Bất kỳ người chơi nào cũng có thể tạo một deck dựa trên những card cơ bản này sau khi mở khóa được lớp Tướng và chơi Tướng ấy đến level 10 (sẽ mở khóa hết card Basic của Tướng đó). Đây là cách tốt nhất nếu bạn mới bắt đầu chơi, cũng là cơ hội để bạn thử qua hết 9 tướng trong Hearthstone.&lt;/p&gt;
+
+&lt;p&gt;Một deck được cho là rẻ (budget deck) sẽ không có card Epic (có hình ngọc tím ở giữa card), Legendary (ngọc vàng) hay card Adventure. Budget deck chỉ sử dụng card Basic + Common (ngọc trắng) + Rare (ngọc xanh dương), nên thường có tổng chi phí rất rẻ nên người chơi nào cũng dễ có được. Một deck thuộc dạng budget trung bình mất khoảng 2.000 Dust để có được trong trường hợp bạn chưa có sẵn card nào. Còn nếu có sẵn một ít card thì có thể bạn sẽ chỉ tốn vài trăm Dust để tạo những card còn thiếu.&lt;/p&gt;
+
+&lt;p&gt;Những deck Basic thường chơi phù hợp ở chế độ chơi Casual, hoặc chơi ở cấp thấp nhất đến Rank 20 trong chế độ chơi xếp hạng (Ranked). Nếu chơi tốt, những deck budget này có thể chơi được đến Rank 10, thậm chí Rank 5 ở chế độ chơi xếp hạng.&lt;/p&gt;
+
+&lt;p&gt;Bạn có thể tham khảo những deck Druid budget trong menu &lt;code class=&quot;highlighter-rouge&quot;&gt;Decks &amp;gt; Druid&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;phần-thưởng-lên-hạng&quot;&gt;Phần thưởng lên hạng&lt;/h3&gt;
+&lt;p&gt;Mỗi 2 level, lên đến cấp 10, bạn sẽ nhận được hai bản của một card cơ bản. Rất nhiều card này không craft được nên bạn cần ưu tiên chơi mọi Tướng đạt đến level 10.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 2: 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Free&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_173_premium.gif&quot; alt=&quot;Starfire&quot; /&gt;Starfire&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 4: 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Free&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_011_premium.gif&quot; alt=&quot;Savage Roar&quot; /&gt;Savage Roar&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 6: 
+&lt;a style=&quot;display: inline;&quot; class=&quot;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_166a_premium.gif&quot; alt=&quot;Moonfire&quot; /&gt;Moonfire&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 8: 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Free&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_012_premium.gif&quot; alt=&quot;Swipe&quot; /&gt;Swipe&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 10: 
+&lt;a style=&quot;display: inline;&quot; class=&quot;Free&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_232_premium.gif&quot; alt=&quot;Ironbark Protector&quot; /&gt;Ironbark Protector&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Qua level 10, thỉnh thoảng bạn sẽ được thưởng một phiên bản Golden của một trong các card cơ bản. Chơi sau level 10 không mang lại cho bạn bất kỳ lợi thế cạnh tranh nào khác ngoài mặt cải thiện giao diện của game.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">https://duybl.github.io/hearthstonevn/Hearthstone-basic/classes-druid/</guid>
+			</item>
+		
+			<item>
 				<title>Tổng quan về Tướng</title>
 				<link>https://duybl.github.io/hearthstonevn/Hearthstone-basic/classes-overview/</link>
 				<pubDate>Fri, 31 Aug 2018 00:00:00 +0700</pubDate>
 				<description>&lt;div class=&quot;panel radius&quot;&gt;
   &lt;p id=&quot;toc&quot;&gt;&lt;strong&gt;Mục lục&lt;/strong&gt;&lt;/p&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#druid&quot; id=&quot;markdown-toc-druid&quot;&gt;Druid&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#hunter&quot; id=&quot;markdown-toc-hunter&quot;&gt;Hunter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#mage&quot; id=&quot;markdown-toc-mage&quot;&gt;Mage&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#paladin&quot; id=&quot;markdown-toc-paladin&quot;&gt;Paladin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#priest&quot; id=&quot;markdown-toc-priest&quot;&gt;Priest&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#rogue&quot; id=&quot;markdown-toc-rogue&quot;&gt;Rogue&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#shaman&quot; id=&quot;markdown-toc-shaman&quot;&gt;Shaman&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#warlock&quot; id=&quot;markdown-toc-warlock&quot;&gt;Warlock&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#warrior&quot; id=&quot;markdown-toc-warrior&quot;&gt;Warrior&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;/div&gt;
+
+&lt;p&gt;Bạn muốn tìm hiểu thêm về Mage? Hay bạn muốn tìm deck Warlock xịn? Hoặc có thể bạn mới tập chơi và muốn biết nên chọn tướng nào là tốt nhất? Nếu bạn đang bị rối với quá nhiều tướng để chọn, bài viết này sẽ giải quyết vấn đề cho bạn vì đây là nơi sẽ bàn đến những thông tin cơ bản về các Tướng trong Hearthstone. Người chơi mới thường hay bị ngợp bởi số lượng các Tướng, không biết phong cách chơi của mỗi Tướng và phải mất một thời gian thì mới có thể nắm rõ được. Bài viết cũng tóm tắt tiểu sử của từng Tướng có gốc từ World of Warcraft. Đừng sợ! Cùng bắt đầu nào.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Bài viết này được cập nhật theo mỗi bản mở rộng!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Trong từng Tướng sẽ gồm những thông tin:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Gốc gác&lt;/strong&gt;: Thường các Tướng ở Hearthstone đều có gốc từ game World of Warcraft.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Lối chơi và cơ chế&lt;/strong&gt;: Mỗi Tướng có những lối chơi đặc trưng riêng và cơ chế chơi riêng. Ban đầu là Chiêu của Tướng, là thứ làm nên đặc trưng và nhận dạng cho từng Tướng, và tiếp theo là bộ card của Tướng ấy.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ưu/khuyết&lt;/strong&gt;: Mỗi tướng đều có ưu khuyết điểm riêng. Bài viết sẽ cố gắng giải thích cho bạn hiểu và đưa ra lý do của ưu/khuyết ấy.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Meta deck và chiến thuật&lt;/strong&gt;: Mỗi Tướng có những bộ deck cập nhật mới mà được xem là mạnh nhất hiện nay. Mục này sẽ link đến những deck mới, cập nhật nhất theo meta.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Deck cơ bản và rẻ&lt;/strong&gt;: Mỗi Tướng đều có một bộ deck cơ bản mà có lẽ là deck tốt nhất đối với người chơi mới. Còn đối với người chơi khá, những deck này cũng có thể thú vị, tuy không có card Epic hay Legendary trong bộ deck.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Phần thưởng lên hạng&lt;/strong&gt;: Danh sách những card Basic được thưởng khi Tướng đạt level 10. Mục này hữu ích đối với ai bắt đầu chơi một Tướng nào đó.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;druid&quot;&gt;&lt;a href=&quot;/Hearthstone-basic/classes-druid/&quot;&gt;Druid&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Druids là thần bảo vệ thiên nhiên, hút năng lượng từ mọi thứ xung quanh để phóng ra năng lượng chết người nhằm tiêu diệt hoặc phục hồi máu cho đồng minh. Khả năng biến hình cho phép Druid ẩn dưới nhiều hình thức, tăng khả năng phòng thủ và tấn công, tốc độ, hoặc thậm chí cho phép bay khi cần thiết. Druid là một trong những class linh hoạt nhất, có thể phù hợp với nhiều vai trò khác nhau - gây sát thương vật lý hay phép thuật lớn, bảo vệ đồng minh hoặc đưa đồng minh trở lại trận chiến bằng phép thuật chữa bệnh.&lt;/p&gt;
+
+&lt;h2 id=&quot;hunter&quot;&gt;&lt;a href=&quot;/Hearthstone-basic/classes-hunter/&quot;&gt;Hunter&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Hunter (Thợ săn) còn có biệt danh là chuyên gia sống sót. Được trang bị cung tên hoặc súng trường, họ đi lang thang quanh rừng rậm để tìm kiếm con mồi. Nhưng họ không chỉ giết bất kỳ sinh vật nào gặp phải, Hunter có mối liên hệ sâu sắc với thiên nhiên và cố gắng giữ sự cân bằng hợp lý. Họ không muốn phá vỡ vòng tròn tự nhiên của sự sống và cái chết, họ muốn trở thành một phần của tự nhiên. Thay vì giết một con vật, một Hunter thường thích làm bạn và biến nó trở thành bạn đồng hành của mình.&lt;/p&gt;
+
+&lt;p&gt;Hunter sử dụng sức mạnh cụ thể của bạn đồng hành (companion) khác nhau để vươn lên chiến đấu. Mặc dù cung và súng trường là vũ khí ưu tiên của Hunter nhưng họ không sợ cận chiến. Là chuyên gia về tàng hình và bẫy, họ thường phục kích đối thủ và đưa đối phương phải lao vào chiến với các loài động vật hoang dã khác nhau. Hầu hết Hunter cũng  học được cách làm thế nào để tẩm mũi tên bằng phép thuật, hoặc gia cố bẫy rập, chất độc hoặc thậm chí nướng kẻ thù  trên lửa với đủ mọi thể loại tra tấn khác nhau.&lt;/p&gt;
+
+&lt;h2 id=&quot;mage&quot;&gt;&lt;a href=&quot;/Hearthstone-basic/classes-mage/&quot;&gt;Mage&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Pháp sư là nhà ảo thuật đại tài. Họ sử dụng sức mạnh của lửa, băng và năng lực siêu nhiên để tạo ra những chiêu thức vô cùng mạnh mẽ. Họ có thể tập trung phép thuật thành quả bóng năng lượng thuần khiết để tấn công kẻ thù, nhưng đó mới chỉ là khởi đầu. Các pháp sư rất giỏi kiểm soát các nhóm kẻ thù khổng lồ, ví dụ họ có thể đóng băng tất cả hoặc thậm chí bỏ hết kẻ thù vào lửa.&lt;/p&gt;
+
+&lt;p&gt;Là bậc thầy về phép thuật, pháp sư còn có những chiêu hỗ trợ tuyệt hảo. Họ có thể dịch chuyển một khoảng cách ngắn, tạo ra một cánh cổng đến một thành phố khác, biến tàng hình chính mình hay thậm chí biến kẻ thù thành một con cừu vô hại. Pháp sư Mage chỉ tập trung vào hành vi phạm tội và chiêu hỗ trợ, điều đó có nghĩa là họ phải sử dụng trí thông minh nhiều hơn. Họ không sử dụng bộ giáp cứng cáp để hộ thân, họ cũng không có chiêu thức chữa trị vết thương. Và các pháp sư giỏi đều biết rằng đôi khi cách tốt nhất để phòng thủ chính là tấn công.&lt;/p&gt;
+
+&lt;h2 id=&quot;paladin&quot;&gt;&lt;a href=&quot;/Hearthstone-basic/classes-paladin/&quot;&gt;Paladin&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Paladin là chiến binh theo phe Ánh sáng. Thay vì chỉ tập trung vào khả năng thể chất của mình, họ sử dụng phép thuật Thánh thần để cải thiện khả năng phòng thủ và tấn công. Chiến binh cấp thấp nhất của Paladin là Silver Hand (Hiệp sĩ Tay bạc) được tạo ra sau Chiến tranh Thứ nhất, bởi chính Uther Lightbringer, để giúp đỡ dân thường. Sau đó, Paladin bắt đầu chuyên bảo vệ mọi người khỏi tất cả những điều xấu xa, chủ yếu là chống lại phe Scourge (undead) và Burning Legion (ma quỷ).&lt;/p&gt;
+
+&lt;p&gt;Paladin có ba nhánh chính. Họ có thể đeo khiên và tăng cường sức mạnh trong khi thu hút đòn tấn công của kẻ thù, chữa lành đồng minh bị thương và hồi sinh những người bị thương, hoặc trang bị vũ khí hai tay và lao thẳng vào chiến đấu, chủ yếu dựa vào kỹ năng thể chất.&lt;/p&gt;
+
+&lt;h2 id=&quot;priest&quot;&gt;&lt;a href=&quot;/Hearthstone-basic/classes-priest/&quot;&gt;Priest&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Priest còn là Linh mục, là chuyên gia chữa bệnh và bảo tồn. Họ phục vụ phe Ánh sáng và có khả năng khôi phục sức khỏe của đồng minh hoặc thậm chí hồi sinh đồng minh. Bên cạnh việc chữa bệnh, Priest cũng có thể bảo vệ mọi người xung quanh họ bằng một loạt lá chắn phòng thủ, ma thuật.&lt;/p&gt;
+
+&lt;p&gt;Priest là bậc thầy về sự sống, nhưng cũng là bậc thầy của cái chết. Trong khi phép thuật Holy có thể được sử dụng cho hành vi phạm tội, Priest có một vũ khí khác trong kho vũ khí của họ, đó chính là Shadow magic. Không chỉ có mỗi phép Shadow, Priest có thể sử dụng hàng tá phép thuật khác nhau gây đau đớn và khủng bố cho kẻ thù. Nhưng ma thuật như vậy thường đi kèm với một cái giá: vì khi ở Shadowform, Priest không còn chữa bệnh được nữa.&lt;/p&gt;
+
+&lt;p&gt;Priest là một trong những class thú vị khi nói đến phép thuật. Nhưng cho dù chọn ánh sáng hay bóng tối, họ đều là những đối thủ đáng gờm.&lt;/p&gt;
+
+&lt;h2 id=&quot;rogue&quot;&gt;&lt;a href=&quot;/Hearthstone-basic/classes-rogue/&quot;&gt;Rogue&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Rogues là sát thủ của thế giới Warcraft. Phong cách chiến đấu của họ xoay quanh các chiêu thức rất nhanh với cặp song kiếm (hoặc những vũ khí một tay khác) trong khi liên tục lướt vào, lướt ra cuộc chiến. Rogue có thể ẩn mình nhờ khả năng tàng hình, chờ đợi cơ hội tốt nhất để tấn công từ phía sau.&lt;/p&gt;
+
+&lt;p&gt;Rogue không chơi công bằng, trực diện. Họ làm tất cả chỉ để giành chiến thắng, vì vậy những cú tưởng vô thưởng vô phạt đôi khi là đòn chí mạng. Ngay cả khi không giết đối thủ ngay lập tức nhưng họ thường để lại vết thương khó lành, rỉ máu để cuối cùng họ giành được phần thắng.&lt;/p&gt;
+
+&lt;p&gt;Bên cạnh kỹ năng chiến đấu, Rogue cũng là bậc thầy của các chất độc. Họ chuẩn bị các hỗn hợp chết người tẩm lên vũ khí. Chất độc thường làm tổn thương mục tiêu, nhưng cũng có thể làm tê liệt chúng hoặc gây trở ngại cho phép thuật của đối phương.&lt;/p&gt;
+
+&lt;h2 id=&quot;shaman&quot;&gt;&lt;a href=&quot;/Hearthstone-basic/classes-shaman/&quot;&gt;Shaman&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Còn gọi là Phù thủy, là những nhà huyền môn giao tiếp với bốn Chất: không khí, đất, lửa và nước. Các Chất - theo bản chất của chúng - là rất hỗn loạn, và chỉ có các Phù thủy mới có thể chế ngự chúng và mang lại sự cân bằng trong hỗn mang. Có lẽ những công cụ dễ nhận biết nhất của họ là những totem mạnh mẽ, nơi họ có thể chứa đựng sức mạnh của các Chất. Shaman triệu tập totem trên chiến trường để giúp đồng minh hoặc kẻ thù bị thương.&lt;/p&gt;
+
+&lt;p&gt;Totem không phải là cách duy nhất để khai thác sức mạnh của Chất. Shaman có thể sử dụng chúng để gây tổn hại trực tiếp cho kẻ thù bằng cách tấn công bằng tia chớp, nổ nham thạch, hoặc thậm chí động đất. Các Chất cũng có thể được sử dụng để tẩm vào vũ khí của Shaman và làm cho chúng mạnh hơn, đồng thời tùy thuộc vào Chất, gây thêm sát thương (Flametongue), thêm đòn tấn công thứ hai (Windfury) hoặc làm chậm kẻ địch bị tấn công (Frostbrand). Shaman cũng có thể triệu tập một cặp sói mạnh mẽ để chiến đấu ở bên cạnh họ.&lt;/p&gt;
+
+&lt;p&gt;Tuy nhiên, điều khiến Shaman trở thành một class lai là khả năng chữa lành. Họ kêu gọi các linh hồn của tổ tiên và các Chất của nước và đất để chữa các vết thương cho đồng minh. Shaman có thể sử dụng làn sóng năng lượng để chữa lành một mục tiêu duy nhất, nhưng cũng có thể kêu gọi một cơn mưa chữa bệnh để phủ một đấu trường mục tiêu và khôi phục các lực lượng quan trọng cho bất cứ ai bên trong. Shaman cũng có thể sử dụng phép thuật bảo vệ như tạo ra lá chắn.&lt;/p&gt;
+
+&lt;h2 id=&quot;warlock&quot;&gt;&lt;a href=&quot;/Hearthstone-basic/classes-warlock/&quot;&gt;Warlock&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Warlock là kẻ chuyên dùng phép thuật Bóng tối và Lửa. Trong thế giới Warcraft, Warlock thuộc về phe của cái ác. Họ có thể rút sức mạnh ngay từ linh hồn của đối thủ. Phép thuật tấn công của họ chia thành hai con đường chính: (1) Affliction, dựa trên những lời nguyền và phép thuật đưa kẻ thù vào trạng thái đau đớn chậm và (2) Destruction, xoay quanh những phép thuật sát thương mạnh mẽ và trực tiếp.&lt;/p&gt;
+
+&lt;p&gt;Nhưng có lẽ Warlock ma thuật mang tính biểu tượng nhất là Demonology. Đây là khả năng triệu hồi những con quỷ (demon) mạnh mẽ và liên kết chúng với lệnh của Warlock. Warlock có thể triệu tập một loạt các thực thể ma quỷ - Imp, Succubus, Voidwalker, Felhunter và Felguard. Mỗi demon này có những điểm mạnh và điểm yếu khác nhau, vì vậy chỉ có Warlock mới biết cách sử dụng chúng đúng cách. Trên hết, Warlock có thể triệu hồi những con quỷ mạnh hơn trong một khoảng thời gian ngắn hơn nếu tình huống thực sự nghiêm trọng, ví dụ một Infernal gây sát thương khu vực lớn và Doomguard chuyên trị một mục tiêu duy nhất.&lt;/p&gt;
+
+&lt;h2 id=&quot;warrior&quot;&gt;&lt;a href=&quot;/Hearthstone-basic/classes-warrior/&quot;&gt;Warrior&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Warrior là những chiến binh cận chiến cổ điển. Hầu hết họ muốn lao ngay vào trận chiến và tiêu diệt kẻ thù bằng nhiều loại vũ khí. Nhờ sức mạnh tuyệt đối, một số Warrior thậm chí có thể sử dụng hai vũ khí hai tay. Đây là class khát máu nhất trong Hearthstone, vì cơn giận dữ của Warrior làm tăng khả năng tấn công, vì càng tấn công, Warrior càng mạnh hơn&lt;/p&gt;
+
+&lt;p&gt;Warriors không chỉ là những chiến binh khốc liệt. Sau khi trang bị một chiếc khiên, họ cũng có thể bảo vệ đồng minh của mình bằng cách đặt mình vào biển lửa. Bằng cách đứng giữa kẻ thù và đồng minh, Warrior chuyên khiên có thể chế nhạo kẻ thù và buộc đối phương phải phá được lớp khiên siêu chắc. Bằng cách này, các đồng minh của Warrior có thể tiếp tục chiến đấu một cách an toàn. Một cách khác để Warrior hỗ trợ nhóm là tiếng thét. Họ có thể nâng cao tinh thần của cả đội, khiến mọi đồng minh quanh Warrior mạnh hơn.&lt;/p&gt;
 </description>
 				<guid isPermaLink="true">https://duybl.github.io/hearthstonevn/Hearthstone-basic/classes-overview/</guid>
 			</item>
@@ -40,47 +405,47 @@
 &lt;p&gt;&lt;strong&gt;Aggro&lt;/strong&gt;: viết tắt của aggression, nghĩa tạm bợ là ‘anh í rất máu’, thường dành để chỉ những card ít mana và tập trung dồn sát thương vào tướng địch làm sao cho tiêu diệt càng nhanh càng tốt.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;AOE&lt;/strong&gt;: viết tắt của &lt;strong&gt;Area of Effect&lt;/strong&gt;, là tác dụng lên một khu vực rộng gồm nhiều card, không phải tác dụng lên một card, ví dụ: 
-&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_032_premium.gif&quot; alt=&quot;Flamestrike&quot; /&gt;Flamestrike&lt;/a&gt;
+&lt;a style=&quot;display: inline;&quot; class=&quot;Free&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_032_premium.gif&quot; alt=&quot;Flamestrike&quot; /&gt;Flamestrike&lt;/a&gt;
 , 
-&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS1_112_premium.gif&quot; alt=&quot;Holy Nova&quot; /&gt;Holy Nova&lt;/a&gt;
+&lt;a style=&quot;display: inline;&quot; class=&quot;Free&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS1_112_premium.gif&quot; alt=&quot;Holy Nova&quot; /&gt;Holy Nova&lt;/a&gt;
 , 
-&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_400_premium.gif&quot; alt=&quot;Whirlwind&quot; /&gt;Whirlwind&lt;/a&gt;
+&lt;a style=&quot;display: inline;&quot; class=&quot;Free&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_400_premium.gif&quot; alt=&quot;Whirlwind&quot; /&gt;Whirlwind&lt;/a&gt;
 .&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Bomb&lt;/strong&gt;: là card có hiệu ứng lớn trên board và có thể kết thúc game rất nhanh nếu đối phương không có câu trả lời, ví dụ: 
-&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/NEW1_030_premium.gif&quot; alt=&quot;Deathwing&quot; /&gt;Deathwing&lt;/a&gt;
+&lt;a style=&quot;display: inline;&quot; class=&quot;Legendary&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/NEW1_030_premium.gif&quot; alt=&quot;Deathwing&quot; /&gt;Deathwing&lt;/a&gt;
 .&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Bounce&lt;/strong&gt;: Card trả lại một card khác cho đối phương hoặc cho bạn, ví dụ: 
-&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_581_premium.gif&quot; alt=&quot;Sap&quot; /&gt;Sap&lt;/a&gt;
+&lt;a style=&quot;display: inline;&quot; class=&quot;Free&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_581_premium.gif&quot; alt=&quot;Sap&quot; /&gt;Sap&lt;/a&gt;
  và 
-&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/NEW1_005_premium.gif&quot; alt=&quot;Kidnapper&quot; /&gt;Kidnapper&lt;/a&gt;&lt;/p&gt;
+&lt;a style=&quot;display: inline;&quot; class=&quot;Epic&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/NEW1_005_premium.gif&quot; alt=&quot;Kidnapper&quot; /&gt;Kidnapper&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Burn&lt;/strong&gt;: Từ này có thể có nhiều nghĩa, như là một dạng phép tác động ‘Burn’. Nhưng trong Hearthstone, Burn thường có nghĩa là khi bạn/đối phương bị hết bài mà phải rút bài tiếp, lúc ấy bạn/đối phương bị Burn.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Cantrip&lt;/strong&gt;: Một thuật ngữ khác có gốc từ MTG,  chỉ các card có tác dụng rút card (draw a card). Ví dụ như trong Hearthstone là card 
-&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_544_premium.gif&quot; alt=&quot;Flare&quot; /&gt;Flare&lt;/a&gt;
+&lt;a style=&quot;display: inline;&quot; class=&quot;Rare&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_544_premium.gif&quot; alt=&quot;Flare&quot; /&gt;Flare&lt;/a&gt;
 .&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Combo&lt;/strong&gt;: Một card được gọi là combo khi card đó kết hợp với một hay nhiều card khác trong một lượt đi. Lối chơi combo thường thấy nhất ở Rogue, ví dụ như 
-&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_116_premium.gif&quot; alt=&quot;Leeroy Jenkins&quot; /&gt;Leeroy Jenkins&lt;/a&gt;
+&lt;a style=&quot;display: inline;&quot; class=&quot;Legendary&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_116_premium.gif&quot; alt=&quot;Leeroy Jenkins&quot; /&gt;Leeroy Jenkins&lt;/a&gt;
  và 1x-2x 
-&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_073_premium.gif&quot; alt=&quot;Cold Blood&quot; /&gt;Cold Blood&lt;/a&gt;&lt;/p&gt;
+&lt;a style=&quot;display: inline;&quot; class=&quot;Common&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_073_premium.gif&quot; alt=&quot;Cold Blood&quot; /&gt;Cold Blood&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Contructed&lt;/strong&gt;: Thuật ngữ này nói đến khả năng tạo deck từ những card mà bạn có ở kiểu chơi &lt;strong&gt;Casual&lt;/strong&gt; (chơi không xếp hạng, chơi thoải mái) hay &lt;strong&gt;Ranked&lt;/strong&gt; (chơi xếp hạng). Còn kiểu chơi &lt;strong&gt;Arena&lt;/strong&gt; là kiểu chơi giới hạn số lượng card, bạn phải tốn 150 gold cho một lần vào chơi.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Control&lt;/strong&gt;: Một deck được gọi là deck Control khi sử dụng những card thiên về phòng thủ (như các có khả năng &lt;strong&gt;Taunt&lt;/strong&gt;) và sử dụng card AOE và Spell để giữ nhịp game. Cuối cùng là kết thúc đối thủ bằng những card mạnh.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Cycle&lt;/strong&gt;: Sử dụng card rút bài và thay thế card đó bằng một card khác. Ví dụ như 
-&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_278_premium.gif&quot; alt=&quot;Shiv&quot; /&gt;Shiv&lt;/a&gt;
+&lt;a style=&quot;display: inline;&quot; class=&quot;Free&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_278_premium.gif&quot; alt=&quot;Shiv&quot; /&gt;Shiv&lt;/a&gt;
  , tạo 1 sát thương và rút 1 card thay thế nó. Bạn cũng có thể quay vòng card bằng cách sử dụng một card khác như 
-&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_595_premium.gif&quot; alt=&quot;Cult Master&quot; /&gt;Cult Master&lt;/a&gt;
+&lt;a style=&quot;display: inline;&quot; class=&quot;Common&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_595_premium.gif&quot; alt=&quot;Cult Master&quot; /&gt;Cult Master&lt;/a&gt;
 . Hy sinh một card để rút card khác về cơ bản là thay thế card bị mất. Cycle card cũng là cách làm giảm card trong deck lại để rút được card mà bạn mong muốn để kết thúc game.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Direct Damage&lt;/strong&gt;: là card có thể gây sát thương trực tiếp cho đối thủ, ví dụ: 
-&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/_premium.gif&quot; alt=&quot; Lightning Bolt&quot; /&gt; Lightning Bolt&lt;/a&gt;
+&lt;a style=&quot;display: inline;&quot; class=&quot;Common&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_595_premium.gif&quot; alt=&quot; Lightning Bolt&quot; /&gt; Lightning Bolt&lt;/a&gt;
 , 
-&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_308_premium.gif&quot; alt=&quot;Soulfire&quot; /&gt;Soulfire&lt;/a&gt;
+&lt;a style=&quot;display: inline;&quot; class=&quot;Free&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_308_premium.gif&quot; alt=&quot;Soulfire&quot; /&gt;Soulfire&lt;/a&gt;
 .&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Draft, Drafting&lt;/strong&gt;: thuật ngữ này gốc từ MTG và là cách chơi phổ biến. Mỗi người chơi nhận được ba bộ deck, sau đó người chơi mở một deck, chọn một card và chuyển phần còn lại của deck cho người chơi tiếp theo. Cứ chơi như thế cho đến khi tất cả card và deck được chia đều. Sau đó, bạn có thời gian để tạo deck cho mình rồi chơi với đối thủ. Cách này trong Hearthstone giống với chơi ở Chế độ &lt;strong&gt;Arena&lt;/strong&gt;.&lt;/p&gt;
@@ -94,9 +459,9 @@
 &lt;p&gt;&lt;strong&gt;Ladder&lt;/strong&gt;: leo hạng ý nói đến kiểu chơi xếp hạng &lt;strong&gt;Ranked&lt;/strong&gt; của game. Trong kiểu chơi Ranked này, có hai hệ thống xếp hạng riêng: Hạng từ 25 - 1 và hạng Legend. Trong hạng 25 - 1 (25 là thấp nhất), cứ mỗi trận thắng bạn sẽ nhận được một sao, một khi bạn đạt cấp 1 và có đủ sao, bạn sẽ chuyển sang hạng Legend. Trong hạng Legend, thứ hạng không tính theo sao mà hiển thị chính xác thứ tự hạng của bạn trên Legend Ladder. Điểm cao nhất có thể đạt được Legend 1, còn điểm thấp nhất là số người đạt được Legend ở thời điểm đó. Vì vậy, nếu mới chỉ có 5 người lọt vào hạng Legend thì mức Legend thấp nhất là Legend 5.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Meta&lt;/strong&gt;: Vì tính chất các card luôn được Blizzard cập nhật theo những khoảng thời gian nhất định trong năm nên meta được cho là những deck hiện tại được nhiều người chơi nhất, phổ biến nhất trên bảng xếp hạng. Nắm được điểm mạnh/yếu từng thời điểm của card sẽ giúp bạn tạo được deck phù hợp và chống lại đối phương hiệu quả. Ví dụ 
-&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_002_premium.gif&quot; alt=&quot;The Black Knight&quot; /&gt;The Black Knight&lt;/a&gt;
+&lt;a style=&quot;display: inline;&quot; class=&quot;Legendary&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_002_premium.gif&quot; alt=&quot;The Black Knight&quot; /&gt;The Black Knight&lt;/a&gt;
  rất hiệu quả khi đối đầu với những lính Taunt, còn 
-&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_558_premium.gif&quot; alt=&quot;Harrison Jones&quot; /&gt;Harrison Jones&lt;/a&gt;
+&lt;a style=&quot;display: inline;&quot; class=&quot;Legendary&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_558_premium.gif&quot; alt=&quot;Harrison Jones&quot; /&gt;Harrison Jones&lt;/a&gt;
  lại phù hợp nếu người chơi thường xuyên chơi những deck sử dụng vũ khí.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Midrange&lt;/strong&gt;:  thuật ngữ chỉ lối chơi kết hợp Aggro-Control của deck, chủ yếu sử dụng lính có mana từ 4-8. Midrange chống được các deck Aggro và cũng có thể đánh bại deck Control. Khác biệt giữa Midrange và Control không nhiều như giữa Midrange và Aggro.&lt;/p&gt;
@@ -107,7 +472,7 @@
 &lt;p&gt;&lt;strong&gt;Mulligan&lt;/strong&gt;: là thuật ngữ chỉ những card ban đầu hiển thị cho bạn chọn hoặc bỏ chọn.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Nerf, Nerfed&lt;/strong&gt;: là Blizzard làm giảm sức mạnh của một lá bài quá mạnh. Thông thường Blizzard thêm Mana vào một số card quá mạnh. Ví dụ như 
-&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_237_premium.gif&quot; alt=&quot;Starving Buzzard&quot; /&gt;Starving Buzzard&lt;/a&gt;
+&lt;a style=&quot;display: inline;&quot; class=&quot;Free&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_237_premium.gif&quot; alt=&quot;Starving Buzzard&quot; /&gt;Starving Buzzard&lt;/a&gt;
  bị tăng lên 5 mana từ 2 mana.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Netdeck&lt;/strong&gt;: Sử dụng các trang web chất lượng (như trên trang này) để lấy deck tốt nhất thay vì bạn tự  tạo deck cho mình.&lt;/p&gt;
@@ -118,17 +483,17 @@
 &lt;p&gt;&lt;strong&gt;Ping&lt;/strong&gt;: thường nói đến chiêu của Mage Hero, là gây 1 sát thương lên 1 mục tiêu hoặc loại bỏ Divine Shield.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Ramp&lt;/strong&gt;: Sử dụng card để tăng Mana vĩnh viễn hoặc tạm thời. Druid thường dùng Ramp nhờ card Innervate và Wild Growth. Hiệu ứng ramp cũng có thể được dùng với các card làm giảm mana như 
-&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_006_premium.gif&quot; alt=&quot;Mechwarper&quot; /&gt;Mechwarper&lt;/a&gt;
+&lt;a style=&quot;display: inline;&quot; class=&quot;Common&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_006_premium.gif&quot; alt=&quot;Mechwarper&quot; /&gt;Mechwarper&lt;/a&gt;
   và 
-&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_315_premium.gif&quot; alt=&quot;Summoning Portal&quot; /&gt;Summoning Portal&lt;/a&gt;
+&lt;a style=&quot;display: inline;&quot; class=&quot;Common&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_315_premium.gif&quot; alt=&quot;Summoning Portal&quot; /&gt;Summoning Portal&lt;/a&gt;
 .&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;RNG&lt;/strong&gt;:  viết tắt của Random Number Generator. Thuật ngữ lập trình máy tính thôi, là cách máy tính chọn ra số “ngẫu nhiên” để xác định kết quả. Chi tiết hơn có &lt;a href=&quot;https://en.wikipedia.org/wiki/Random_number_generation&quot;&gt;ở đây&lt;/a&gt;. Thuật ngữ này được sử dụng để giải thích yếu tố ngẫu nhiên trong Hearthstone. Một số card nhất định phụ thuộc nhiều vào RNG, ví dụ: 
-&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/_premium.gif&quot; alt=&quot;Ragnaros Firelord&quot; /&gt;Ragnaros Firelord&lt;/a&gt;
+&lt;a style=&quot;display: inline;&quot; class=&quot;Common&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_315_premium.gif&quot; alt=&quot;Ragnaros Firelord&quot; /&gt;Ragnaros Firelord&lt;/a&gt;
  , 
-&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_038_premium.gif&quot; alt=&quot;Crackle&quot; /&gt;Crackle&lt;/a&gt;
+&lt;a style=&quot;display: inline;&quot; class=&quot;Common&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_038_premium.gif&quot; alt=&quot;Crackle&quot; /&gt;Crackle&lt;/a&gt;
  và 
-&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOEA15_2_premium.gif&quot; alt=&quot;Unstable Portal&quot; /&gt;Unstable Portal&lt;/a&gt;
+&lt;a style=&quot;display: inline;&quot; class=&quot;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/LOEA15_2_premium.gif&quot; alt=&quot;Unstable Portal&quot; /&gt;Unstable Portal&lt;/a&gt;
 .&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Roping&lt;/strong&gt;:  Là khi bạn suy nghĩ lượt đi của bạn cho đến gần hết thời gian quy định được gọi là roping. Lý do có cái tên này là game hiển thị một sợi dây thừng bị đốt cháy, báo hiệu thời gian lượt đi của bạn sắp hết. Từ đó có thêm từ &lt;strong&gt;Lifecoach&lt;/strong&gt;, &lt;strong&gt;Ropecoach&lt;/strong&gt; chỉ những người chơi thích đợi đến khi nào dây thừng hiện ra mới bắt đầu đi. Ai chơi giỏi cũng nên như thế.&lt;/p&gt;
@@ -136,15 +501,15 @@
 &lt;p&gt;&lt;strong&gt;Standard&lt;/strong&gt;: Standard hiện là một trong hai định dạng bạn có thể chơi ở Hearthstone (định dạng còn lại là Wild). Các quy tắc trong Standard là bạn chỉ được chơi với các bộ card năm trước và năm hiện tại. Bất kỳ bộ card nào xuất hiện trước khoảng thời gian này đều không được phép sử dụng trong kiểu chơi Standard. Ngoại lệ duy nhất là các bộ &lt;a href=&quot;/set/basic/&quot;&gt;Basic&lt;/a&gt; và &lt;a href=&quot;/set/classic/&quot;&gt;Classic&lt;/a&gt; luôn thuộc Standard, bất kể thời gian.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Tempo&lt;/strong&gt;: hiểu đơn giản Tempo là đi trước một bước so với đối phương (hoặc cố gắng đi trước một bước). Cách tốt nhất để nhận biết Tempo là mana, ví dụ nếu đối phương đi lính mất 6 mana còn bạn “xử” lính ấy chỉ mất một card 4 mana thì bạn lợi 2 mana so với đối phương. Sau đó, bạn có thể tận dụng lợi thế hơn mana để đi lính khác. Rogue là tướng chuyên có lối chơi Tempo này và nếu bạn muốn biết thế nào là Tempo, hãy thử chơi Rogue. 
-&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_072_premium.gif&quot; alt=&quot;Backstab&quot; /&gt;Backstab&lt;/a&gt;
+&lt;a style=&quot;display: inline;&quot; class=&quot;Free&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_072_premium.gif&quot; alt=&quot;Backstab&quot; /&gt;Backstab&lt;/a&gt;
  là card thuần về Tempo. Bạn tốn 0 mana để loại được lính địch và đi thêm lính. Tempo rất mạnh ở đầu game bởi vì bạn dễ dàng chiếm được board và ép đối phương phải tốn nhiều tài nguyên để dọn board.&lt;/p&gt;
 
 &lt;p&gt;Một ví dụ điển hình khác của lối chơi Tempo là chơi lính thay vì chơi chiêu của tướng và chơi phép. Ví dụ như Mage, nếu đang lượt thứ 2 và đối phương có một lính 1/1 trên board, bạn có thể dùng chiêu của Mage để loại lính đó, nhưng bạn cũng có thể đi lính 3/2. Nếu bạn sử dụng chiêu của Mage, đối phương sẽ có cơ hội đi lính trên board trống ở lượt tiếp theo. Nhưng nếu bạn đi lính thì đối phương buộc phải tìm cách giải quyết lính của bạn, không thảnh thơi để chiếm board.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Token&lt;/strong&gt;: Card được sinh ra từ card khác, không phải card gốc thì được xem là Token, ví dụ như 
-&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_152_premium.gif&quot; alt=&quot;Squire&quot; /&gt;Squire&lt;/a&gt;
+&lt;a style=&quot;display: inline;&quot; class=&quot;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_152_premium.gif&quot; alt=&quot;Squire&quot; /&gt;Squire&lt;/a&gt;
  từ card 
-&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_151_premium.gif&quot; alt=&quot;Silver Hand Knight&quot; /&gt;Silver Hand Knight&lt;/a&gt;
+&lt;a style=&quot;display: inline;&quot; class=&quot;Common&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/CS2_151_premium.gif&quot; alt=&quot;Silver Hand Knight&quot; /&gt;Silver Hand Knight&lt;/a&gt;
 . Có một số deck chỉ hướng đến tạo càng nhiều token càng tốt và sử dụng token để chiến thắng.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Top Deck, Top Decking, Top Deckin’ và Wreckin’&lt;/strong&gt;: rút card ngay với tình huống đang cần card ấy. Bốn thuật ngữ này thường bị người chơi lạm dụng để đổ lỗi. Top deck thực sự nghĩa là người chơi hầu như gần hết hy vọng chiến thắng nhưng rút ngay được card lật ngược tình thế.&lt;/p&gt;
@@ -166,7 +531,7 @@
 &lt;p&gt;&lt;strong&gt;Combo&lt;/strong&gt;: là tác dụng bạn sẽ có được sau khi đã đi một card. Hiện Combo chỉ có trên tướng Rogue.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Counter&lt;/strong&gt;: card bị Counter sẽ không có tác dụng. Hiện chỉ có một card có từ khóa này là 
-&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_287_premium.gif&quot; alt=&quot;Counterspell&quot; /&gt;Counterspell&lt;/a&gt;&lt;/p&gt;
+&lt;a style=&quot;display: inline;&quot; class=&quot;Rare&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_287_premium.gif&quot; alt=&quot;Counterspell&quot; /&gt;Counterspell&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Deathrattle&lt;/strong&gt;: làm một thứ gì đó sau khi chết.&lt;/p&gt;
 
@@ -183,9 +548,9 @@
 &lt;p&gt;&lt;strong&gt;Inspire&lt;/strong&gt;: làm một thứ gì đó sau khi Tướng sử dụng chiêu của Tướng.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Mega-Winfury&lt;/strong&gt;: một card có thể tấn công bốn lần trong một lượt. Hiện thời, từ khóa này chỉ có hai card có được là 
-&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_111t_premium.gif&quot; alt=&quot;V-07-TR-0N&quot; /&gt;V-07-TR-0N&lt;/a&gt;
+&lt;a style=&quot;display: inline;&quot; class=&quot;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_111t_premium.gif&quot; alt=&quot;V-07-TR-0N&quot; /&gt;V-07-TR-0N&lt;/a&gt;
  và 
-&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_111_premium.gif&quot; alt=&quot;Mimiron's Head&quot; /&gt;Mimiron’s Head&lt;/a&gt;
+&lt;a style=&quot;display: inline;&quot; class=&quot;Legendary&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/GVG_111_premium.gif&quot; alt=&quot;Mimiron's Head&quot; /&gt;Mimiron’s Head&lt;/a&gt;
 .&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Overload&lt;/strong&gt;: lượt tiếp theo, bạn sẽ bị mất đi X mana. X sẽ hiển thị trên card có hiệu ứng Overload. Hiện tại, từ khóa này chỉ áp dụng cho những card của tướng Shaman.&lt;/p&gt;
@@ -197,11 +562,11 @@
 &lt;p&gt;&lt;strong&gt;Secret&lt;/strong&gt;: là “bí mật”, ẩn trên đầu tướng và sẽ áp dụng bí mật này khi đối phương vấp phải. Hiện có ba Tướng có chiêu Secret gồm: Hunter, Mage và Paladin.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Spell Damage&lt;/strong&gt;: Card sẽ cộng thêm/giảm bớt damage, ví dụ như 
-&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_563_premium.gif&quot; alt=&quot;Malygos&quot; /&gt;Malygos&lt;/a&gt;
+&lt;a style=&quot;display: inline;&quot; class=&quot;Legendary&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_563_premium.gif&quot; alt=&quot;Malygos&quot; /&gt;Malygos&lt;/a&gt;
  sẽ cộng thêm 5 spell damage cho card spell của bạn.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Stealth&lt;/strong&gt;: “ẩn”, không thể tấn công card stealth cho đến khi card ấy lộ mình. Hiện chỉ có card 
-&lt;a style=&quot;display: inline;&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_544_premium.gif&quot; alt=&quot;Flare&quot; /&gt;Flare&lt;/a&gt;
+&lt;a style=&quot;display: inline;&quot; class=&quot;Rare&quot;&gt;&lt;img src=&quot;http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/EX1_544_premium.gif&quot; alt=&quot;Flare&quot; /&gt;Flare&lt;/a&gt;
  là có thể loại bỏ chiêu Stealth của đối phương.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Taunt&lt;/strong&gt;: đối phương buộc phải tấn công card có Taunt trước khi tấn công được vào Tướng.&lt;/p&gt;
@@ -331,46 +696,6 @@
 
 </description>
 				<guid isPermaLink="true">https://duybl.github.io/hearthstonevn/shaman/shaman-shuddlewock-1/</guid>
-			</item>
-		
-			<item>
-				<title>Midrange Shaman</title>
-				<link>https://duybl.github.io/hearthstonevn/shaman/shaman-midrange-1/</link>
-				<pubDate>Wed, 29 Aug 2018 00:00:00 +0700</pubDate>
-				<description>
-&lt;div class=&quot;alert-box success &quot;&gt;&lt;p&gt;Midrange Shaman.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;script&gt;showDeck(&quot;AAECAaoICoEEsgaTCfPCAsLOApziAqfuAu/3Aur6Apn7Agq9AfUE/gWXwQLrwgLKwwKbywLR4QLi+AKc/wIA&quot;);&lt;/script&gt;
-
-&lt;div id=&quot;type&quot; style=&quot;letter-spacing: 4px; color: #008CBA; text-align: justify;&quot;&gt;&lt;/div&gt;
-&lt;div id=&quot;hero&quot; style=&quot;letter-spacing: 4px; color: #008CBA; text-align: justify;&quot;&gt;&lt;/div&gt;
-&lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
-&lt;pre&gt;AAECAaoICoEEsgaTCfPCAsLOApziAqfuAu/3Aur6Apn7Agq9AfUE/gWXwQLrwgLKwwKbywLR4QLi+AKc/wIA&lt;/pre&gt;
-&lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAaoICoEEsgaTCfPCAsLOApziAqfuAu/3Aur6Apn7Agq9AfUE/gWXwQLrwgLKwwKbywLR4QLi+AKc/wIA')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
-
-</description>
-				<guid isPermaLink="true">https://duybl.github.io/hearthstonevn/shaman/shaman-midrange-1/</guid>
-			</item>
-		
-			<item>
-				<title>Even Shaman</title>
-				<link>https://duybl.github.io/hearthstonevn/shaman/shaman-even-1/</link>
-				<pubDate>Wed, 29 Aug 2018 00:00:00 +0700</pubDate>
-				<description>
-&lt;div class=&quot;alert-box success &quot;&gt;&lt;p&gt;Even Shaman.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;script&gt;showDeck(&quot;AAECAaoIBiCZAsLOAvbsAqfuAs30Agy9AdMB/gXZB/AHsQiRwQKswgKbywKW6AKU7wKw8AIA&quot;);&lt;/script&gt;
-
-&lt;div id=&quot;type&quot; style=&quot;letter-spacing: 4px; color: #008CBA; text-align: justify;&quot;&gt;&lt;/div&gt;
-&lt;div id=&quot;hero&quot; style=&quot;letter-spacing: 4px; color: #008CBA; text-align: justify;&quot;&gt;&lt;/div&gt;
-&lt;div id=&quot;cards&quot;&gt;&lt;/div&gt;
-&lt;pre&gt;AAECAaoIBiCZAsLOAvbsAqfuAs30Agy9AdMB/gXZB/AHsQiRwQKswgKbywKW6AKU7wKw8AIA&lt;/pre&gt;
-&lt;p&gt;&lt;button onclick=&quot;copyToClipboard('AAECAaoIBiCZAsLOAvbsAqfuAs30Agy9AdMB/gXZB/AHsQiRwQKswgKbywKW6AKU7wKw8AIA')&quot;&gt;Copy&lt;/button&gt;&lt;/p&gt;
-
-</description>
-				<guid isPermaLink="true">https://duybl.github.io/hearthstonevn/shaman/shaman-even-1/</guid>
 			</item>
 		
 	</channel>
