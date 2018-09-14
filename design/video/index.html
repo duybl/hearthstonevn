@@ -86,6 +86,16 @@
 
 	
 
+	<div class="super-search" id="js-super-search">
+		<a href="javascript:void(0)" onclick="superSearch.toggle()" class="super-search__close-btn">X</a>
+		<input type="text" placeholder="Nhập từ khóa tìm kiếm" class="super-search__input" id="js-super-search__input">
+		<ul class="super-search__results" id="js-super-search__results"></ul>
+	</div>
+	
+	<script>superSearch({
+	 	searchFile: 'https://duybl.github.io/hearthstonevn/feed.xml'
+	 });</script>
+
 </head>
 <body id="top-of-page" class="video">
 	
@@ -372,7 +382,7 @@
 
             
             
-              <li><a href="https://duybl.github.io/hearthstonevn/">Top Decks</a></li>
+              <li><a href="https://duybl.github.io/hearthstonevn/topdecks/">Top Decks</a></li>
               <li class="divider">
 
             
