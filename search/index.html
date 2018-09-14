@@ -10,6 +10,7 @@
   
 
 	<script src="https://duybl.github.io/hearthstonevn/assets/js/modernizr.min.js"></script>
+	<script type="text/javascript" src="https://duybl.github.io/hearthstonevn/assets/js/super-search.js"></script>
 	<script type="text/javascript" src="https://duybl.github.io/hearthstonevn/assets/js/decode.js"></script>
 	<script type="text/javascript" src="https://duybl.github.io/hearthstonevn/assets/js/copydeck.js"></script>
 
@@ -467,6 +468,19 @@
 	Search <a href="https://www.google.com/search?q=site:https%3A%2F%2Fduybl.github.io%2Fhearthstonevn%2F" target="_blank" rel="noopener noreferrer">Google</a> for:
 	<pre><code>search-term site:https://duybl.github.io/hearthstonevn/</code></pre>
 </noscript>
+
+<link rel="stylesheet" type="text/css" href="/assets/css/super-search.css">
+
+<h2>Nhấn ESC, hoặc / để tìm nội dung bài viết</h2>
+<div class="super-search" id="js-super-search">
+	<a href="javascript:void(0)" onclick="superSearch.toggle()" class="super-search__close-btn">X</a>
+	<input type="text" placeholder="Type here to search" class="super-search__input" id="js-super-search__input">
+	<ul class="super-search__results" id="js-super-search__results"></ul>
+</div>
+
+<script>superSearch({
+ 	searchFile: '/feed.xml'
+ });</script>
 
 
 			</div>

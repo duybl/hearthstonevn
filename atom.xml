@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://duybl.github.io/hearthstonevn/</id>
 	<title>Hearthstone Việt Nam</title>
-	<updated>2018-09-14T12:01:45+07:00</updated>
+	<updated>2018-09-14T13:24:37+07:00</updated>
 
 	<subtitle>Không việc có gì khó, chỉ sợ bụng không no</subtitle>
 
@@ -29,8 +29,8 @@
 	
 		<entry>
 			<id>https://duybl.github.io/hearthstonevn/Hearthstone-basic/classes-hunter/</id>
-			<title></title>
-			<link href="https://duybl.github.io/hearthstonevn/Hearthstone-basic/classes-hunter/" rel="alternate" type="text/html" title="" />
+			<title>Hunter</title>
+			<link href="https://duybl.github.io/hearthstonevn/Hearthstone-basic/classes-hunter/" rel="alternate" type="text/html" title="Hunter" />
 			<updated>2018-09-13T00:00:00+07:00</updated>
 
 			
